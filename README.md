@@ -19,11 +19,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (1 day ago)
-- [MarcelCoding/hub](https://github.com/MarcelCoding/hub) (1 day ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (2 days ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) (3 days ago)
-- [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, written in Rust. (5 days ago)
+- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (2 days ago)
+- [MarcelCoding/hub](https://github.com/MarcelCoding/hub) (2 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (3 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) (4 days ago)
+- [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, written in Rust. (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -55,7 +55,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [jdrouet/docker-bug-value-too-long](https://github.com/jdrouet/docker-bug-value-too-long) - Reporting a docker buildx bug (5 days ago)
+- [jdrouet/docker-bug-value-too-long](https://github.com/jdrouet/docker-bug-value-too-long) - Reporting a docker buildx bug (6 days ago)
 - [harlanc/xiu](https://github.com/harlanc/xiu) - A simple and secure live media server in pure Rust (RTMP/HTTP-FLV/HLS/Relay).🦀 (2 weeks ago)
 - [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web) - Simple Web based configuration generator for WireGuard. Demo: (1 month ago)
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge (2 months ago)
