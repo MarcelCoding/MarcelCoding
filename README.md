@@ -19,23 +19,23 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (3 days ago)
-- [MarcelCoding/hub](https://github.com/MarcelCoding/hub) (3 days ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (4 days ago)
-- [secshellnet/docs](https://github.com/secshellnet/docs) (5 days ago)
+- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (4 days ago)
+- [MarcelCoding/hub](https://github.com/MarcelCoding/hub) (4 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (5 days ago)
+- [secshellnet/docs](https://github.com/secshellnet/docs) (6 days ago)
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) - A Prometheus exporter for WireGuard, written in Rust. (1 week ago)
 
 ### 🌱 My latest projects
 
+- [MarcelCoding/dynmap-ftb-chunks](https://github.com/MarcelCoding/dynmap-ftb-chunks)
 - [MarcelCoding/hub](https://github.com/MarcelCoding/hub)
 - [MarcelCoding/xiu](https://github.com/MarcelCoding/xiu)
 - [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack
 - [MarcelCoding/asmr](https://github.com/MarcelCoding/asmr) - Assembly interpreter written in rust.
-- [MarcelCoding/.dotfiles](https://github.com/MarcelCoding/.dotfiles)
 
 ### 🔭 Latest releases I've contributed to
 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-beta3](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta3), today) - The Free Software Media System
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-beta3](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta3), 1 day ago) - The Free Software Media System
 - [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.0.3](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.0.3), 1 week ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.14](https://github.com/vector-im/element-android/releases/tag/v1.4.14), 1 week ago) - A glossy Matrix collaboration client for Android.
 - [actions/setup-java](https://github.com/actions/setup-java) ([v3.3.0](https://github.com/actions/setup-java/releases/tag/v3.3.0), 1 week ago) - Set up your GitHub Actions workflow with a specific version of Java
