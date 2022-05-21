@@ -19,8 +19,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 day ago)
-- [secshellnet/tiny-docker](https://github.com/secshellnet/tiny-docker) (2 days ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (2 days ago)
+- [secshellnet/tiny-docker](https://github.com/secshellnet/tiny-docker) (3 days ago)
 - [MarcelCoding/hub](https://github.com/MarcelCoding/hub) (1 week ago)
 - [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (1 week ago)
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (1 week ago)
@@ -35,15 +35,15 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.16](https://github.com/vector-im/element-android/releases/tag/v1.4.16), 3 days ago) - A glossy Matrix collaboration client for Android.
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-beta3](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta3), 4 days ago) - The Free Software Media System
+- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.1.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.1.0), 1 day ago) - InfluxDB 2 JVM Based Clients
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.16](https://github.com/vector-im/element-android/releases/tag/v1.4.16), 4 days ago) - A glossy Matrix collaboration client for Android.
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-beta3](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta3), 5 days ago) - The Free Software Media System
 - [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.0.3](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.0.3), 2 weeks ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
-- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.17](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.17), 2 weeks ago) - Pre-Build OneDrive Docker Images.
-- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.17](https://github.com/abraunegg/onedrive/releases/tag/v2.4.17), 2 weeks ago) - #1 Free OneDrive Client for Linux
+- [MarcelCoding/onedrive-docker](https://github.com/MarcelCoding/onedrive-docker) ([v2.4.17](https://github.com/MarcelCoding/onedrive-docker/releases/tag/v2.4.17), 3 weeks ago) - Pre-Build OneDrive Docker Images.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Fixed matrix/synapse password rest instructions](https://github.com/felbinger/AdminGuide/pull/69) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (1 day ago)
+- [Fixed matrix/synapse password rest instructions](https://github.com/felbinger/AdminGuide/pull/69) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (2 days ago)
 - [Added missing minecraft item tags](https://github.com/Tropicraft/Tropicraft/pull/438) on [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) (2 weeks ago)
 - [Added missing minecraft item tags](https://github.com/Tropicraft/Tropicraft/pull/437) on [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) (2 weeks ago)
 - [Added missing minecraft item tags](https://github.com/Tropicraft/Tropicraft/pull/436) on [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) (2 weeks ago)
@@ -55,8 +55,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [QuiltMC/quiltflower](https://github.com/QuiltMC/quiltflower) - Fork of the FernFlower decompiler patched to produce better code, apply javadoc, and decompile asynchronously. (2 days ago)
-- [packwiz/packwiz](https://github.com/packwiz/packwiz) - A command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML format. Supports CurseForge and Modrinth mods with automated updates! (2 days ago)
-- [TeamOpenIndustry/ImmersiveRailroading](https://github.com/TeamOpenIndustry/ImmersiveRailroading) (3 days ago)
+- [QuiltMC/quiltflower](https://github.com/QuiltMC/quiltflower) - Fork of the FernFlower decompiler patched to produce better code, apply javadoc, and decompile asynchronously. (3 days ago)
+- [packwiz/packwiz](https://github.com/packwiz/packwiz) - A command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML format. Supports CurseForge and Modrinth mods with automated updates! (3 days ago)
+- [TeamOpenIndustry/ImmersiveRailroading](https://github.com/TeamOpenIndustry/ImmersiveRailroading) (4 days ago)
 - [jdrouet/docker-bug-value-too-long](https://github.com/jdrouet/docker-bug-value-too-long) - Reporting a docker buildx bug (1 week ago)
-- [harlanc/xiu](https://github.com/harlanc/xiu) - A simple and secure live media server in pure Rust (RTMP/HTTP-FLV/HLS/Relay).🦀 (2 weeks ago)
+- [harlanc/xiu](https://github.com/harlanc/xiu) - A simple and secure live media server in pure Rust (RTMP/HTTP-FLV/HLS/Relay).🦀 (3 weeks ago)
