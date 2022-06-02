@@ -19,10 +19,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (3 days ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Http proxy with upstream over websocket (4 days ago)
-- [MarcelCoding/xiu](https://github.com/MarcelCoding/xiu) - Rtmp stream server, publishing via http flv or hls (5 days ago)
-- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 week ago)
+- [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (4 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Http proxy with upstream over websocket (5 days ago)
+- [MarcelCoding/xiu](https://github.com/MarcelCoding/xiu) - Rtmp stream server, publishing via http flv or hls (6 days ago)
+- [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (2 weeks ago)
 - [secshellnet/tiny-docker](https://github.com/secshellnet/tiny-docker) (2 weeks ago)
 
 ### 🌱 My latest projects
@@ -35,7 +35,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.18](https://github.com/vector-im/element-android/releases/tag/v1.4.18), 1 day ago) - A glossy Matrix collaboration client for Android.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.18](https://github.com/vector-im/element-android/releases/tag/v1.4.18), 2 days ago) - A glossy Matrix collaboration client for Android.
 - [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.1.0](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.1.0), 1 week ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.1.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.1.0), 1 week ago) - InfluxDB 2 JVM Based Clients
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-beta3](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta3), 2 weeks ago) - The Free Software Media System
@@ -43,7 +43,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Fixed matrix/synapse password rest instructions](https://github.com/felbinger/AdminGuide/pull/69) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (1 week ago)
+- [Fixed matrix/synapse password rest instructions](https://github.com/felbinger/AdminGuide/pull/69) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (2 weeks ago)
 - [(1.18) Added missing minecraft item tags](https://github.com/Tropicraft/Tropicraft/pull/438) on [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) (3 weeks ago)
 - [(1.17) Added missing minecraft item tags](https://github.com/Tropicraft/Tropicraft/pull/437) on [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) (3 weeks ago)
 - [(1.16) Added missing minecraft item tags](https://github.com/Tropicraft/Tropicraft/pull/436) on [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) (3 weeks ago)
@@ -55,7 +55,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust (6 days ago)
+- [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust (1 week ago)
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing  (1 week ago)
 - [QuiltMC/quiltflower](https://github.com/QuiltMC/quiltflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler. (2 weeks ago)
 - [packwiz/packwiz](https://github.com/packwiz/packwiz) - A command line tool for editing and distributing Minecraft modpacks, using a git-friendly TOML format. Supports CurseForge and Modrinth mods with automated updates! (2 weeks ago)
