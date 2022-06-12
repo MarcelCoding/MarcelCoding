@@ -19,9 +19,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (5 days ago)
-- [MarcelCoding/xiu](https://github.com/MarcelCoding/xiu) - Rtmp stream server, publishing via http flv or hls (5 days ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (6 days ago)
+- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (6 days ago)
+- [MarcelCoding/xiu](https://github.com/MarcelCoding/xiu) - Rtmp stream server, publishing via http flv or hls (6 days ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 week ago)
 - [MarcelCoding/jupyter](https://github.com/MarcelCoding/jupyter) - just a mirror (1 week ago)
 - [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (1 week ago)
 
@@ -35,11 +35,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.19](https://github.com/vector-im/element-android/releases/tag/v1.4.19), 4 days ago) - A glossy Matrix collaboration client for Android.
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0), 1 day ago) - The Free Software Media System
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.19](https://github.com/vector-im/element-android/releases/tag/v1.4.19), 5 days ago) - A glossy Matrix collaboration client for Android.
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.18](https://github.com/abraunegg/onedrive/releases/tag/v2.4.18), 1 week ago) - #1 Free OneDrive Client for Linux
 - [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.1.0](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.1.0), 2 weeks ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.1.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.1.0), 3 weeks ago) - InfluxDB 2 JVM Based Clients
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0-beta3](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0-beta3), 3 weeks ago) - The Free Software Media System
 
 ### 🔨 Latest Pull Requests I published
 
@@ -55,8 +55,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (6 days ago)
-- [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (6 days ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (1 week ago)
+- [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (1 week ago)
 - [EmilHernvall/dnsguide](https://github.com/EmilHernvall/dnsguide) - A guide to writing a DNS Server from scratch in Rust (2 weeks ago)
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing  (2 weeks ago)
 - [QuiltMC/quiltflower](https://github.com/QuiltMC/quiltflower) - Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler. (3 weeks ago)
