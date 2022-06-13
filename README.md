@@ -19,8 +19,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (6 days ago)
-- [MarcelCoding/xiu](https://github.com/MarcelCoding/xiu) - Rtmp stream server, publishing via http flv or hls (6 days ago)
+- [MarcelCoding/xiu](https://github.com/MarcelCoding/xiu) - Rtmp stream server, publishing via http flv or hls (1 week ago)
+- [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (1 week ago)
 - [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 week ago)
 - [MarcelCoding/jupyter](https://github.com/MarcelCoding/jupyter) - just a mirror (1 week ago)
 - [MarcelCoding/trainworld](https://github.com/MarcelCoding/trainworld) - a mc modpack (1 week ago)
@@ -35,8 +35,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0), 1 day ago) - The Free Software Media System
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.19](https://github.com/vector-im/element-android/releases/tag/v1.4.19), 5 days ago) - A glossy Matrix collaboration client for Android.
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0), 2 days ago) - The Free Software Media System
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.19](https://github.com/vector-im/element-android/releases/tag/v1.4.19), 6 days ago) - A glossy Matrix collaboration client for Android.
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.18](https://github.com/abraunegg/onedrive/releases/tag/v2.4.18), 1 week ago) - #1 Free OneDrive Client for Linux
 - [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.1.0](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.1.0), 2 weeks ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.1.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.1.0), 3 weeks ago) - InfluxDB 2 JVM Based Clients
