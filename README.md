@@ -35,10 +35,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0), 2 days ago) - The Free Software Media System
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.19](https://github.com/vector-im/element-android/releases/tag/v1.4.19), 6 days ago) - A glossy Matrix collaboration client for Android.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.20](https://github.com/vector-im/element-android/releases/tag/v1.4.20), 1 day ago) - A glossy Matrix collaboration client for Android.
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0), 3 days ago) - The Free Software Media System
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.18](https://github.com/abraunegg/onedrive/releases/tag/v2.4.18), 1 week ago) - #1 Free OneDrive Client for Linux
-- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.1.0](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.1.0), 2 weeks ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
+- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.1.0](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.1.0), 3 weeks ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
 - [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.1.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.1.0), 3 weeks ago) - InfluxDB 2 JVM Based Clients
 
 ### 🔨 Latest Pull Requests I published
