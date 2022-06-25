@@ -19,9 +19,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (2 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (3 days ago)
-- [MarcelCoding/xiu](https://github.com/MarcelCoding/xiu) - Rtmp stream server, publishing via http flv or hls (5 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (3 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (4 days ago)
+- [MarcelCoding/xiu](https://github.com/MarcelCoding/xiu) - Rtmp stream server, publishing via http flv or hls (6 days ago)
 - [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (2 weeks ago)
 - [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (2 weeks ago)
 
@@ -35,15 +35,15 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.24](https://github.com/vector-im/element-android/releases/tag/v1.4.24), 2 days ago) - A glossy Matrix collaboration client for Android.
+- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.2.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.2.0), 1 day ago) - InfluxDB 2 JVM Based Clients
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.24](https://github.com/vector-im/element-android/releases/tag/v1.4.24), 3 days ago) - A glossy Matrix collaboration client for Android.
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.19](https://github.com/abraunegg/onedrive/releases/tag/v2.4.19), 1 week ago) - #1 Free OneDrive Client for Linux
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0), 1 week ago) - The Free Software Media System
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0), 2 weeks ago) - The Free Software Media System
 - [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.1.0](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.1.0), 1 month ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
-- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.1.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.1.0), 1 month ago) - InfluxDB 2 JVM Based Clients
 
 ### 🔨 Latest Pull Requests I published
 
-- [Updated jitsi-openid to 2.0.0](https://github.com/secshellnet/docs/pull/11) on [secshellnet/docs](https://github.com/secshellnet/docs) (6 days ago)
+- [Updated jitsi-openid to 2.0.0](https://github.com/secshellnet/docs/pull/11) on [secshellnet/docs](https://github.com/secshellnet/docs) (1 week ago)
 - [Fixed matrix/synapse password rest instructions](https://github.com/felbinger/AdminGuide/pull/69) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (1 month ago)
 - [(1.18) Added missing minecraft item tags](https://github.com/Tropicraft/Tropicraft/pull/438) on [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) (1 month ago)
 - [(1.17) Added missing minecraft item tags](https://github.com/Tropicraft/Tropicraft/pull/437) on [Tropicraft/Tropicraft](https://github.com/Tropicraft/Tropicraft) (1 month ago)
@@ -55,7 +55,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (6 days ago)
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (1 week ago)
 - [NLnetLabs/krill](https://github.com/NLnetLabs/krill) - RPKI Certificate Authority and Publication Server written in Rust (1 week ago)
 - [zephyrchien/lightws](https://github.com/zephyrchien/lightws) - Lightweight websocket implement for stream transmission. (1 week ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (2 weeks ago)
