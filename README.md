@@ -19,24 +19,24 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (3 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (4 days ago)
-- [MarcelCoding/xiu](https://github.com/MarcelCoding/xiu) - Rtmp stream server, publishing via http flv or hls (6 days ago)
+- [MarcelCoding/ronitor](https://github.com/MarcelCoding/ronitor) - Monitor rpi sensors using rust (1 day ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 day ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (4 days ago)
+- [MarcelCoding/xiu](https://github.com/MarcelCoding/xiu) - Rtmp stream server, publishing via http flv or hls (1 week ago)
 - [not4y/mc-translations](https://github.com/not4y/mc-translations) - Translations for various minecraft mods. (2 weeks ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (2 weeks ago)
 
 ### 🌱 My latest projects
 
+- [MarcelCoding/ronitor](https://github.com/MarcelCoding/ronitor) - Monitor rpi sensors using rust
 - [MarcelCoding/jupyter](https://github.com/MarcelCoding/jupyter) - just a mirror
 - [MarcelCoding/m4rc3l.de-new](https://github.com/MarcelCoding/m4rc3l.de-new)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Http proxy with upstream over websocket
 - [MarcelCoding/dynmap-ftb-chunks](https://github.com/MarcelCoding/dynmap-ftb-chunks)
-- [MarcelCoding/hub](https://github.com/MarcelCoding/hub)
 
 ### 🔭 Latest releases I've contributed to
 
-- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.2.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.2.0), 1 day ago) - InfluxDB 2 JVM Based Clients
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.24](https://github.com/vector-im/element-android/releases/tag/v1.4.24), 3 days ago) - A glossy Matrix collaboration client for Android.
+- [influxdata/influxdb-client-java](https://github.com/influxdata/influxdb-client-java) ([v6.2.0](https://github.com/influxdata/influxdb-client-java/releases/tag/v6.2.0), 2 days ago) - InfluxDB 2 JVM Based Clients
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.24](https://github.com/vector-im/element-android/releases/tag/v1.4.24), 4 days ago) - A glossy Matrix collaboration client for Android.
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.19](https://github.com/abraunegg/onedrive/releases/tag/v2.4.19), 1 week ago) - #1 Free OneDrive Client for Linux
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.0](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0), 2 weeks ago) - The Free Software Media System
 - [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.1.0](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.1.0), 1 month ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
@@ -58,5 +58,5 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (1 week ago)
 - [NLnetLabs/krill](https://github.com/NLnetLabs/krill) - RPKI Certificate Authority and Publication Server written in Rust (1 week ago)
 - [zephyrchien/lightws](https://github.com/zephyrchien/lightws) - Lightweight websocket implement for stream transmission. (1 week ago)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (2 weeks ago)
-- [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (2 weeks ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (3 weeks ago)
+- [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. (3 weeks ago)
