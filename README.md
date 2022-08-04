@@ -19,8 +19,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [SRZ-Jahresarbeit/backend](https://github.com/SRZ-Jahresarbeit/backend) (5 days ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (6 days ago)
+- [SRZ-Jahresarbeit/backend](https://github.com/SRZ-Jahresarbeit/backend) (6 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
 - [secshellnet/keycloak](https://github.com/secshellnet/keycloak) - Keycloak &gt;17 with PostgreSQL support (1 week ago)
 - [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) - Linux Server Administrator Guide (1 week ago)
 - [MarcelCoding/vyos-build](https://github.com/MarcelCoding/vyos-build) (1 week ago)
@@ -35,16 +35,16 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.3](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.3), 1 day ago) - The Free Software Media System
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.31](https://github.com/vector-im/element-android/releases/tag/v1.4.31), 2 days ago) - A glossy Matrix collaboration client for Android.
-- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v19.0.1](https://github.com/secshellnet/keycloak/releases/tag/v19.0.1), 2 days ago) - Keycloak &gt;17 with PostgreSQL support
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.0](https://github.com/MarcelCoding/zia/releases/tag/v0.2.0), 6 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.3](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.3), 2 days ago) - The Free Software Media System
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.31](https://github.com/vector-im/element-android/releases/tag/v1.4.31), 3 days ago) - A glossy Matrix collaboration client for Android.
+- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v19.0.1](https://github.com/secshellnet/keycloak/releases/tag/v19.0.1), 3 days ago) - Keycloak &gt;17 with PostgreSQL support
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.0](https://github.com/MarcelCoding/zia/releases/tag/v0.2.0), 1 week ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.20](https://github.com/abraunegg/onedrive/releases/tag/v2.4.20), 2 weeks ago) - #1 Free OneDrive Client for Linux
 
 ### 🔨 Latest Pull Requests I published
 
-- [Allow reusing of UdpSockets](https://github.com/MarcelCoding/zia/pull/19) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (6 days ago)
-- [Enable enhanced user prorifles](https://github.com/secshellnet/keycloak/pull/13) on [secshellnet/keycloak](https://github.com/secshellnet/keycloak) (6 days ago)
+- [Allow reusing of UdpSockets](https://github.com/MarcelCoding/zia/pull/19) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (1 week ago)
+- [Enable enhanced user prorifles](https://github.com/secshellnet/keycloak/pull/13) on [secshellnet/keycloak](https://github.com/secshellnet/keycloak) (1 week ago)
 - [Updated to KC 19.0.0](https://github.com/secshellnet/keycloak/pull/11) on [secshellnet/keycloak](https://github.com/secshellnet/keycloak) (1 week ago)
 - [Updated for KC 19](https://github.com/felbinger/AdminGuide/pull/71) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (1 week ago)
 - [Added missing nginx syntaxhighlighting for keycloak](https://github.com/felbinger/AdminGuide/pull/70) on [felbinger/AdminGuide](https://github.com/felbinger/AdminGuide) (1 week ago)
@@ -59,4 +59,4 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA&#39;s NVDEC (1 week ago)
 - [houqp/leptess](https://github.com/houqp/leptess) - Productive and safe Rust binding for leptonica and tesseract (3 weeks ago)
 - [elizagamedev/vobsubocr](https://github.com/elizagamedev/vobsubocr) - Blazingly fast and accurate DVD VobSub to SRT subtitle conversion (3 weeks ago)
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output (4 weeks ago)
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output (1 month ago)
