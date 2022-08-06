@@ -35,9 +35,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.3](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.3), 3 days ago) - The Free Software Media System
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.31](https://github.com/vector-im/element-android/releases/tag/v1.4.31), 4 days ago) - A glossy Matrix collaboration client for Android.
-- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v19.0.1](https://github.com/secshellnet/keycloak/releases/tag/v19.0.1), 4 days ago) - Keycloak &gt;17 with PostgreSQL support
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.3](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.3), 4 days ago) - The Free Software Media System
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.31](https://github.com/vector-im/element-android/releases/tag/v1.4.31), 5 days ago) - A glossy Matrix collaboration client for Android.
+- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v19.0.1](https://github.com/secshellnet/keycloak/releases/tag/v19.0.1), 5 days ago) - Keycloak &gt;17 with PostgreSQL support
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.0](https://github.com/MarcelCoding/zia/releases/tag/v0.2.0), 1 week ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.20](https://github.com/abraunegg/onedrive/releases/tag/v2.4.20), 2 weeks ago) - #1 Free OneDrive Client for Linux
 
