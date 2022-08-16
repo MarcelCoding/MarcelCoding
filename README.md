@@ -19,11 +19,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) (2 days ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (4 days ago)
-- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (4 days ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (4 days ago)
-- [marcel-repos/rpm](https://github.com/marcel-repos/rpm) - Personal Red Hat Enterprise Linux Package Repository (4 days ago)
+- [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) (3 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (5 days ago)
+- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (5 days ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (5 days ago)
+- [marcel-repos/rpm](https://github.com/marcel-repos/rpm) - Personal Red Hat Enterprise Linux Package Repository (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -35,16 +35,16 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.4](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.4), 1 day ago) - The Free Software Media System
-- [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) ([v12.118.1](https://github.com/MarcelCoding/calckey/releases/tag/v12.118.1), 2 days ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.1](https://github.com/MarcelCoding/zia/releases/tag/v0.2.1), 4 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.5](https://github.com/MarcelCoding/luna/releases/tag/v1.0.5), 4 days ago)
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.32](https://github.com/vector-im/element-android/releases/tag/v1.4.32), 5 days ago) - A glossy Matrix collaboration client for Android.
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.4](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.4), 2 days ago) - The Free Software Media System
+- [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) ([v12.118.1](https://github.com/MarcelCoding/calckey/releases/tag/v12.118.1), 3 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.1](https://github.com/MarcelCoding/zia/releases/tag/v0.2.1), 5 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.5](https://github.com/MarcelCoding/luna/releases/tag/v1.0.5), 5 days ago)
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.32](https://github.com/vector-im/element-android/releases/tag/v1.4.32), 6 days ago) - A glossy Matrix collaboration client for Android.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Add crond log level environment variable](https://github.com/nextcloud/docker/pull/1805) on [nextcloud/docker](https://github.com/nextcloud/docker) (3 days ago)
-- [Update docker.yml](https://github.com/misskey-dev/misskey/pull/9046) on [misskey-dev/misskey](https://github.com/misskey-dev/misskey) (6 days ago)
+- [Add crond log level environment variable](https://github.com/nextcloud/docker/pull/1805) on [nextcloud/docker](https://github.com/nextcloud/docker) (4 days ago)
+- [Update docker.yml](https://github.com/misskey-dev/misskey/pull/9046) on [misskey-dev/misskey](https://github.com/misskey-dev/misskey) (1 week ago)
 - [Allow reusing of UdpSockets](https://github.com/MarcelCoding/zia/pull/19) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (2 weeks ago)
 - [Enable enhanced user prorifles](https://github.com/secshellnet/keycloak/pull/13) on [secshellnet/keycloak](https://github.com/secshellnet/keycloak) (2 weeks ago)
 - [Updated to KC 19.0.0](https://github.com/secshellnet/keycloak/pull/11) on [secshellnet/keycloak](https://github.com/secshellnet/keycloak) (2 weeks ago)
@@ -55,8 +55,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (5 days ago)
-- [sventorben/keycloak-restrict-client-auth](https://github.com/sventorben/keycloak-restrict-client-auth) - A Keycloak authenticator to restrict authorization on clients (5 days ago)
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (6 days ago)
+- [sventorben/keycloak-restrict-client-auth](https://github.com/sventorben/keycloak-restrict-client-auth) - A Keycloak authenticator to restrict authorization on clients (6 days ago)
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (1 week ago)
 - [taiki-e/pin-project](https://github.com/taiki-e/pin-project) - A crate for safe and ergonomic pin-projection. (2 weeks ago)
 - [elFarto/nvidia-vaapi-driver](https://github.com/elFarto/nvidia-vaapi-driver) - A VA-API implemention using NVIDIA&#39;s NVDEC (3 weeks ago)
