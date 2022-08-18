@@ -19,11 +19,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) (1 day ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (6 days ago)
-- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (6 days ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (6 days ago)
-- [marcel-repos/rpm](https://github.com/marcel-repos/rpm) - Personal Red Hat Enterprise Linux Package Repository (6 days ago)
+- [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) (2 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
+- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (1 week ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 week ago)
+- [marcel-repos/rpm](https://github.com/marcel-repos/rpm) - Personal Red Hat Enterprise Linux Package Repository (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -35,18 +35,18 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) ([v12.118.1](https://github.com/MarcelCoding/calckey/releases/tag/v12.118.1), 1 day ago)
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.4](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.4), 3 days ago) - The Free Software Media System
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.1](https://github.com/MarcelCoding/zia/releases/tag/v0.2.1), 6 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.5](https://github.com/MarcelCoding/luna/releases/tag/v1.0.5), 6 days ago)
+- [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) ([v12.118.1](https://github.com/MarcelCoding/calckey/releases/tag/v12.118.1), 2 days ago)
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.4](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.4), 4 days ago) - The Free Software Media System
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.1](https://github.com/MarcelCoding/zia/releases/tag/v0.2.1), 1 week ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.5](https://github.com/MarcelCoding/luna/releases/tag/v1.0.5), 1 week ago)
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.32](https://github.com/vector-im/element-android/releases/tag/v1.4.32), 1 week ago) - A glossy Matrix collaboration client for Android.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Add crond log level environment variable](https://github.com/nextcloud/docker/pull/1805) on [nextcloud/docker](https://github.com/nextcloud/docker) (5 days ago)
+- [Add crond log level environment variable](https://github.com/nextcloud/docker/pull/1805) on [nextcloud/docker](https://github.com/nextcloud/docker) (6 days ago)
 - [Update docker.yml](https://github.com/misskey-dev/misskey/pull/9046) on [misskey-dev/misskey](https://github.com/misskey-dev/misskey) (1 week ago)
-- [Allow reusing of UdpSockets](https://github.com/MarcelCoding/zia/pull/19) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (2 weeks ago)
-- [Enable enhanced user prorifles](https://github.com/secshellnet/keycloak/pull/13) on [secshellnet/keycloak](https://github.com/secshellnet/keycloak) (2 weeks ago)
+- [Allow reusing of UdpSockets](https://github.com/MarcelCoding/zia/pull/19) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (3 weeks ago)
+- [Enable enhanced user prorifles](https://github.com/secshellnet/keycloak/pull/13) on [secshellnet/keycloak](https://github.com/secshellnet/keycloak) (3 weeks ago)
 - [Updated to KC 19.0.0](https://github.com/secshellnet/keycloak/pull/11) on [secshellnet/keycloak](https://github.com/secshellnet/keycloak) (3 weeks ago)
 
 ### 📜 My recent blog posts
