@@ -19,25 +19,25 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) (3 days ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
-- [marcel-repos/deb](https://github.com/marcel-repos/deb) - Personal Debian Package Repository (1 week ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 week ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 day ago)
+- [os-builds/vyos](https://github.com/os-builds/vyos) - VyOS build in github actions (1 day ago)
+- [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) (4 days ago)
 - [marcel-repos/rpm](https://github.com/marcel-repos/rpm) - Personal Red Hat Enterprise Linux Package Repository (1 week ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 week ago)
 
 ### 🌱 My latest projects
 
+- [MarcelCoding/kali-live-build](https://github.com/MarcelCoding/kali-live-build)
 - [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey)
 - [MarcelCoding/ronitor](https://github.com/MarcelCoding/ronitor) - Monitor rpi sensors using rust
 - [MarcelCoding/jupyter](https://github.com/MarcelCoding/jupyter) - just a mirror
 - [MarcelCoding/m4rc3l.de-new](https://github.com/MarcelCoding/m4rc3l.de-new)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) ([v12.118.1](https://github.com/MarcelCoding/calckey/releases/tag/v12.118.1), 3 days ago)
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.4](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.4), 5 days ago) - The Free Software Media System
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.1](https://github.com/MarcelCoding/zia/releases/tag/v0.2.1), 1 week ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.3](https://github.com/MarcelCoding/zia/releases/tag/v0.2.3), 1 day ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
+- [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) ([v12.118.1](https://github.com/MarcelCoding/calckey/releases/tag/v12.118.1), 4 days ago)
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.4](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.4), 6 days ago) - The Free Software Media System
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.5](https://github.com/MarcelCoding/luna/releases/tag/v1.0.5), 1 week ago)
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.32](https://github.com/vector-im/element-android/releases/tag/v1.4.32), 1 week ago) - A glossy Matrix collaboration client for Android.
 
