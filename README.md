@@ -19,35 +19,35 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [os-builds/kali](https://github.com/os-builds/kali) (1 day ago)
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (3 days ago)
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (3 days ago)
-- [os-builds/vyos](https://github.com/os-builds/vyos) (4 days ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (5 days ago)
+- [MarcelCoding/cryptic-grpc](https://github.com/MarcelCoding/cryptic-grpc) (1 day ago)
+- [os-builds/kali](https://github.com/os-builds/kali) (2 days ago)
+- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (4 days ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (4 days ago)
+- [os-builds/vyos](https://github.com/os-builds/vyos) (5 days ago)
 
 ### 🌱 My latest projects
 
+- [MarcelCoding/cryptic-grpc](https://github.com/MarcelCoding/cryptic-grpc)
 - [MarcelCoding/kali-live-build](https://github.com/MarcelCoding/kali-live-build)
 - [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey)
 - [MarcelCoding/ronitor](https://github.com/MarcelCoding/ronitor) - Monitor rpi sensors using rust
 - [MarcelCoding/jupyter](https://github.com/MarcelCoding/jupyter) - just a mirror
-- [MarcelCoding/m4rc3l.de-new](https://github.com/MarcelCoding/m4rc3l.de-new)
 
 ### 🔭 Latest releases I've contributed to
 
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.34](https://github.com/vector-im/element-android/releases/tag/v1.4.34), 1 day ago) - A glossy Matrix collaboration client for Android.
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.1-1](https://github.com/os-builds/vyos/releases/tag/1.3.1-1), 4 days ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.3](https://github.com/MarcelCoding/zia/releases/tag/v0.2.3), 5 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.34](https://github.com/vector-im/element-android/releases/tag/v1.4.34), 2 days ago) - A glossy Matrix collaboration client for Android.
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.1-1](https://github.com/os-builds/vyos/releases/tag/1.3.1-1), 5 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.3](https://github.com/MarcelCoding/zia/releases/tag/v0.2.3), 6 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 - [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) ([v12.118.1](https://github.com/MarcelCoding/calckey/releases/tag/v12.118.1), 1 week ago)
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.4](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.4), 1 week ago) - The Free Software Media System
 
 ### 🔨 Latest Pull Requests I published
 
-- [feat: woodpecker manager](https://github.com/renovatebot/renovate/pull/17297) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (4 days ago)
+- [feat: woodpecker manager](https://github.com/renovatebot/renovate/pull/17297) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (5 days ago)
 - [Add crond log level environment variable](https://github.com/nextcloud/docker/pull/1805) on [nextcloud/docker](https://github.com/nextcloud/docker) (1 week ago)
 - [Update docker.yml](https://github.com/misskey-dev/misskey/pull/9046) on [misskey-dev/misskey](https://github.com/misskey-dev/misskey) (2 weeks ago)
-- [Allow reusing of UdpSockets](https://github.com/MarcelCoding/zia/pull/19) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (3 weeks ago)
-- [Enable enhanced user prorifles](https://github.com/secshellnet/keycloak/pull/13) on [secshellnet/keycloak](https://github.com/secshellnet/keycloak) (3 weeks ago)
+- [Allow reusing of UdpSockets](https://github.com/MarcelCoding/zia/pull/19) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (4 weeks ago)
+- [Enable enhanced user prorifles](https://github.com/secshellnet/keycloak/pull/13) on [secshellnet/keycloak](https://github.com/secshellnet/keycloak) (4 weeks ago)
 
 ### 📜 My recent blog posts
 
@@ -55,7 +55,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor (1 day ago)
+- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor (2 days ago)
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (2 weeks ago)
 - [sventorben/keycloak-restrict-client-auth](https://github.com/sventorben/keycloak-restrict-client-auth) - A Keycloak authenticator to restrict authorization on clients (2 weeks ago)
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (2 weeks ago)
