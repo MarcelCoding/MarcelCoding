@@ -19,10 +19,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (1 day ago)
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (1 day ago)
-- [MarcelCoding/cryptic-grpc](https://github.com/MarcelCoding/cryptic-grpc) (3 days ago)
-- [os-builds/kali](https://github.com/os-builds/kali) (4 days ago)
+- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (2 days ago)
+- [MarcelCoding/cryptic-grpc](https://github.com/MarcelCoding/cryptic-grpc) (4 days ago)
+- [os-builds/kali](https://github.com/os-builds/kali) (5 days ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) (1 week ago)
 
 ### 🌱 My latest projects
@@ -35,8 +35,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.6](https://github.com/MarcelCoding/luna/releases/tag/v1.0.6), 1 day ago)
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.34](https://github.com/vector-im/element-android/releases/tag/v1.4.34), 4 days ago) - A glossy Matrix collaboration client for Android.
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.6](https://github.com/MarcelCoding/luna/releases/tag/v1.0.6), 2 days ago)
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.34](https://github.com/vector-im/element-android/releases/tag/v1.4.34), 5 days ago) - A glossy Matrix collaboration client for Android.
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.1-1](https://github.com/os-builds/vyos/releases/tag/1.3.1-1), 1 week ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.3](https://github.com/MarcelCoding/zia/releases/tag/v0.2.3), 1 week ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 - [MarcelCoding/calckey](https://github.com/MarcelCoding/calckey) ([v12.118.1](https://github.com/MarcelCoding/calckey/releases/tag/v12.118.1), 1 week ago)
@@ -55,8 +55,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [serialhex/nano-highlight](https://github.com/serialhex/nano-highlight) - a spiffy collection of nano syntax highlighting files (1 day ago)
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor (4 days ago)
+- [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action) - Execute a Gradle Build in your Github Actions workflow (1 day ago)
+- [serialhex/nano-highlight](https://github.com/serialhex/nano-highlight) - a spiffy collection of nano syntax highlighting files (2 days ago)
+- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor (5 days ago)
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (2 weeks ago)
 - [sventorben/keycloak-restrict-client-auth](https://github.com/sventorben/keycloak-restrict-client-auth) - A Keycloak authenticator to restrict authorization on clients (2 weeks ago)
-- [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 An async &amp; dynamic ORM for Rust (2 weeks ago)
