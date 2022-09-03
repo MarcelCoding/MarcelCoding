@@ -19,9 +19,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (2 days ago)
-- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (5 days ago)
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (5 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (3 days ago)
+- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (6 days ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (6 days ago)
 - [MarcelCoding/cryptic-grpc](https://github.com/MarcelCoding/cryptic-grpc) (1 week ago)
 - [os-builds/kali](https://github.com/os-builds/kali) (1 week ago)
 
@@ -35,15 +35,15 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.6](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.6), 2 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.7](https://github.com/MarcelCoding/luna/releases/tag/v1.0.7), 5 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.7](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.7), 1 day ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.7](https://github.com/MarcelCoding/luna/releases/tag/v1.0.7), 6 days ago)
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.34](https://github.com/vector-im/element-android/releases/tag/v1.4.34), 1 week ago) - A glossy Matrix collaboration client for Android.
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.1-1](https://github.com/os-builds/vyos/releases/tag/1.3.1-1), 1 week ago)
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.1-1](https://github.com/os-builds/vyos/releases/tag/1.3.1-1), 2 weeks ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.3](https://github.com/MarcelCoding/zia/releases/tag/v0.2.3), 2 weeks ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 
 ### 🔨 Latest Pull Requests I published
 
-- [feat: woodpecker manager](https://github.com/renovatebot/renovate/pull/17297) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (1 week ago)
+- [feat: woodpecker manager](https://github.com/renovatebot/renovate/pull/17297) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 weeks ago)
 - [Add crond log level environment variable](https://github.com/nextcloud/docker/pull/1805) on [nextcloud/docker](https://github.com/nextcloud/docker) (3 weeks ago)
 - [Update docker.yml](https://github.com/misskey-dev/misskey/pull/9046) on [misskey-dev/misskey](https://github.com/misskey-dev/misskey) (3 weeks ago)
 - [Allow reusing of UdpSockets](https://github.com/MarcelCoding/zia/pull/19) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (1 month ago)
@@ -51,11 +51,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 📜 My recent blog posts
 
-- [Keycloak Quarkus Migration](https://m4rc3l.de/blog/keycloak-quarkus-migration) (3 days ago)
+- [Keycloak Quarkus Migration](https://m4rc3l.de/blog/keycloak-quarkus-migration) (4 days ago)
 
 ### ⭐ Recent stars
 
-- [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action) - Execute a Gradle Build in your Github Actions workflow (6 days ago)
+- [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action) - Execute a Gradle Build in your Github Actions workflow (1 week ago)
 - [serialhex/nano-highlight](https://github.com/serialhex/nano-highlight) - a spiffy collection of nano syntax highlighting files (1 week ago)
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor (1 week ago)
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (3 weeks ago)
