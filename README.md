@@ -19,9 +19,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/itables](https://github.com/MarcelCoding/itables) (2 days ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (3 days ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (6 days ago)
+- [MarcelCoding/itables](https://github.com/MarcelCoding/itables) (3 days ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (4 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (1 week ago)
 - [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (1 week ago)
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (1 week ago)
 
@@ -35,7 +35,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.7](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.7), 4 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.7](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.7), 5 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.7](https://github.com/MarcelCoding/luna/releases/tag/v1.0.7), 1 week ago)
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.34](https://github.com/vector-im/element-android/releases/tag/v1.4.34), 2 weeks ago) - A glossy Matrix collaboration client for Android.
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.1-1](https://github.com/os-builds/vyos/releases/tag/1.3.1-1), 2 weeks ago)
@@ -55,8 +55,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [matrix-org/rust-synapse-compress-state](https://github.com/matrix-org/rust-synapse-compress-state) - A tool to compress some state in a Synapse instance&#39;s database (3 days ago)
+- [matrix-org/rust-synapse-compress-state](https://github.com/matrix-org/rust-synapse-compress-state) - A tool to compress some state in a Synapse instance&#39;s database (4 days ago)
 - [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action) - Execute a Gradle Build in your Github Actions workflow (1 week ago)
 - [serialhex/nano-highlight](https://github.com/serialhex/nano-highlight) - a spiffy collection of nano syntax highlighting files (1 week ago)
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor (2 weeks ago)
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (3 weeks ago)
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (4 weeks ago)
