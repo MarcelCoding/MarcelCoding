@@ -19,11 +19,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 day ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 day ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (2 days ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (3 days ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (4 days ago)
+- [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (1 day ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (2 days ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (2 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors bszet dd timetable for changes and sends notifications. (3 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -35,10 +35,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.194.4](https://github.com/renovatebot/renovate/releases/tag/32.194.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.36](https://github.com/vector-im/element-android/releases/tag/v1.4.36), 1 day ago) - A glossy Matrix collaboration client for Android.
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-1](https://github.com/os-builds/vyos/releases/tag/1.3.2-1), 2 days ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.9](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.9), 2 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.194.5](https://github.com/renovatebot/renovate/releases/tag/32.194.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.36](https://github.com/vector-im/element-android/releases/tag/v1.4.36), 2 days ago) - A glossy Matrix collaboration client for Android.
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-1](https://github.com/os-builds/vyos/releases/tag/1.3.2-1), 3 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.9](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.9), 3 days ago) - Automatically monitors bszet dd timetable for changes and sends notifications.
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.7](https://github.com/MarcelCoding/luna/releases/tag/v1.0.7), 2 weeks ago)
 
 ### 🔨 Latest Pull Requests I published
