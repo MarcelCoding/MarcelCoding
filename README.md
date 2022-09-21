@@ -19,9 +19,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/pux](https://github.com/MarcelCoding/pux) (2 days ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (3 days ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications.  (4 days ago)
+- [MarcelCoding/pux](https://github.com/MarcelCoding/pux) (3 days ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (4 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications.  (5 days ago)
 - [MarcelCoding/luna-web](https://github.com/MarcelCoding/luna-web) (1 week ago)
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 week ago)
 
@@ -35,8 +35,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.199.1](https://github.com/renovatebot/renovate/releases/tag/32.199.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.10](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.10), 2 days ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.201.1](https://github.com/renovatebot/renovate/releases/tag/32.201.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.10](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.10), 3 days ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.4.36](https://github.com/vector-im/element-android/releases/tag/v1.4.36), 1 week ago) - A glossy Matrix collaboration client for Android.
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-1](https://github.com/os-builds/vyos/releases/tag/1.3.2-1), 1 week ago)
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) ([v1.0.7](https://github.com/MarcelCoding/luna/releases/tag/v1.0.7), 3 weeks ago)
