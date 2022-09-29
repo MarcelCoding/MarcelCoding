@@ -19,7 +19,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/pux](https://github.com/MarcelCoding/pux) (1 day ago)
+- [MarcelCoding/pux](https://github.com/MarcelCoding/pux) (2 days ago)
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 week ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
 - [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 week ago)
@@ -35,10 +35,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.208.0](https://github.com/renovatebot/renovate/releases/tag/32.208.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.21](https://github.com/abraunegg/onedrive/releases/tag/v2.4.21), 2 days ago) - #1 Free OneDrive Client for Linux
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.5](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.5), 3 days ago) - The Free Software Media System
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.0](https://github.com/vector-im/element-android/releases/tag/v1.5.0), 5 days ago) - A glossy Matrix collaboration client for Android.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.1](https://github.com/vector-im/element-android/releases/tag/v1.5.1), 1 day ago) - A glossy Matrix collaboration client for Android.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.208.2](https://github.com/renovatebot/renovate/releases/tag/32.208.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.21](https://github.com/abraunegg/onedrive/releases/tag/v2.4.21), 3 days ago) - #1 Free OneDrive Client for Linux
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.5](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.5), 4 days ago) - The Free Software Media System
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.10](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.10), 1 week ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 
 ### 🔨 Latest Pull Requests I published
