@@ -19,25 +19,25 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/pux](https://github.com/MarcelCoding/pux) (1 day ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 day ago)
-- [MarcelCoding/csharp-in-cool](https://github.com/MarcelCoding/csharp-in-cool) (1 day ago)
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (3 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 week ago)
+- [MarcelCoding/siv](https://github.com/MarcelCoding/siv) - router for Hyper with out of the box openapi generation (1 day ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (2 days ago)
+- [MarcelCoding/pux](https://github.com/MarcelCoding/pux) (2 days ago)
+- [MarcelCoding/csharp-in-cool](https://github.com/MarcelCoding/csharp-in-cool) (2 days ago)
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (4 days ago)
 
 ### 🌱 My latest projects
 
+- [MarcelCoding/siv](https://github.com/MarcelCoding/siv) - router for Hyper with out of the box openapi generation
 - [MarcelCoding/csharp-in-cool](https://github.com/MarcelCoding/csharp-in-cool)
 - [MarcelCoding/pux](https://github.com/MarcelCoding/pux)
 - [MarcelCoding/itables](https://github.com/MarcelCoding/itables)
 - [MarcelCoding/cryptic-grpc](https://github.com/MarcelCoding/cryptic-grpc)
-- [MarcelCoding/kali-live-build](https://github.com/MarcelCoding/kali-live-build)
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.211.2](https://github.com/renovatebot/renovate/releases/tag/32.211.2), today) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.1](https://github.com/vector-im/element-android/releases/tag/v1.5.1), 4 days ago) - A glossy Matrix collaboration client for Android.
-- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.21](https://github.com/abraunegg/onedrive/releases/tag/v2.4.21), 6 days ago) - #1 Free OneDrive Client for Linux
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.213.0](https://github.com/renovatebot/renovate/releases/tag/32.213.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.1](https://github.com/vector-im/element-android/releases/tag/v1.5.1), 5 days ago) - A glossy Matrix collaboration client for Android.
+- [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.21](https://github.com/abraunegg/onedrive/releases/tag/v2.4.21), 1 week ago) - #1 Free OneDrive Client for Linux
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.5](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.5), 1 week ago) - The Free Software Media System
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.10](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.10), 2 weeks ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 
@@ -55,7 +55,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [matrix-org/rust-synapse-compress-state](https://github.com/matrix-org/rust-synapse-compress-state) - A tool to compress some state in a Synapse instance&#39;s database (4 weeks ago)
+- [matrix-org/rust-synapse-compress-state](https://github.com/matrix-org/rust-synapse-compress-state) - A tool to compress some state in a Synapse instance&#39;s database (1 month ago)
 - [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action) - Execute a Gradle Build in your Github Actions workflow (1 month ago)
 - [serialhex/nano-highlight](https://github.com/serialhex/nano-highlight) - a spiffy collection of nano syntax highlighting files (1 month ago)
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor (1 month ago)
