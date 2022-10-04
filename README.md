@@ -19,11 +19,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/siv](https://github.com/MarcelCoding/siv) - router for Hyper with out of the box openapi generation (1 day ago)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (2 days ago)
-- [MarcelCoding/pux](https://github.com/MarcelCoding/pux) (2 days ago)
-- [MarcelCoding/csharp-in-cool](https://github.com/MarcelCoding/csharp-in-cool) (2 days ago)
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (4 days ago)
+- [MarcelCoding/pux](https://github.com/MarcelCoding/pux) (1 day ago)
+- [MarcelCoding/csharp-in-cool](https://github.com/MarcelCoding/csharp-in-cool) (1 day ago)
+- [MarcelCoding/siv](https://github.com/MarcelCoding/siv) - router for Hyper with out of the box openapi generation (2 days ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (3 days ago)
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -35,8 +35,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.213.0](https://github.com/renovatebot/renovate/releases/tag/32.213.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.1](https://github.com/vector-im/element-android/releases/tag/v1.5.1), 5 days ago) - A glossy Matrix collaboration client for Android.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.213.2](https://github.com/renovatebot/renovate/releases/tag/32.213.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.1](https://github.com/vector-im/element-android/releases/tag/v1.5.1), 6 days ago) - A glossy Matrix collaboration client for Android.
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) ([v2.4.21](https://github.com/abraunegg/onedrive/releases/tag/v2.4.21), 1 week ago) - #1 Free OneDrive Client for Linux
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) ([v10.8.5](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.5), 1 week ago) - The Free Software Media System
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.10](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.10), 2 weeks ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
