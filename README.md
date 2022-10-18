@@ -11,11 +11,7 @@ I'm mainly a **Java Developer**, who is currently trying to learn **Rust**. I de
 <br>
 Besides backends, I also work on frontends in the past mostly with the framework **Angular** but in the recent time I also used some **NuxtJS**. 
 
-[![Visits](https://badges.pufler.dev/visits/MarcelCoding/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
-[![Years](https://badges.pufler.dev/years/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
-[![Repos](https://badges.pufler.dev/repos/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding?tab=repositories)
-[![Gists](https://badges.pufler.dev/gists/MarcelCoding?style=flat-square&color=black&logo=github)](https://gist.github.com/MarcelCoding)
-[![Monthly Commits](https://badges.pufler.dev/commits/monthly/MarcelCoding?style=flat-square&color=black&logo=github)](https://github.com/MarcelCoding)
+
 
 ### 👷 Check out what I'm currently working on
 
@@ -35,7 +31,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.240.2](https://github.com/renovatebot/renovate/releases/tag/32.240.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([32.240.4](https://github.com/renovatebot/renovate/releases/tag/32.240.4), today) - Universal dependency update tool that fits into your workflows.
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.16](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.16), 4 days ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.9](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.9), 6 days ago) - Parsing and Image creation service of the BSZET substitution plan bot
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.2](https://github.com/vector-im/element-android/releases/tag/v1.5.2), 1 week ago) - A glossy Matrix collaboration client for Android.
