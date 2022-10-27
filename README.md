@@ -31,8 +31,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.1.2](https://github.com/renovatebot/renovate/releases/tag/34.1.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v19.0.3](https://github.com/secshellnet/keycloak/releases/tag/v19.0.3), 3 days ago) - Keycloak &gt;17 with PostgreSQL support
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.2.0](https://github.com/renovatebot/renovate/releases/tag/34.2.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v19.0.3](https://github.com/secshellnet/keycloak/releases/tag/v19.0.3), 4 days ago) - Keycloak &gt;17 with PostgreSQL support
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.4](https://github.com/vector-im/element-android/releases/tag/v1.5.4), 1 week ago) - A glossy Matrix collaboration client for Android.
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.16](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.16), 1 week ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.9](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.9), 2 weeks ago) - Parsing and Image creation service of the BSZET substitution plan bot
