@@ -15,7 +15,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/cfds](https://github.com/MarcelCoding/cfds) - Sync dns zone files with Cloudflare (3 days ago)
+- [MarcelCoding/cfds](https://github.com/MarcelCoding/cfds) - Sync dns zone files with Cloudflare (4 days ago)
 - [dump-dvb/windshield](https://github.com/dump-dvb/windshield) - its really just the frontend lol (1 week ago)
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications.  (2 weeks ago)
 - [MarcelCoding/ronitor](https://github.com/MarcelCoding/ronitor) - Monitor rpi sensors using rust (3 weeks ago)
@@ -31,7 +31,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.9.1](https://github.com/renovatebot/renovate/releases/tag/34.9.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.9.1](https://github.com/renovatebot/renovate/releases/tag/34.9.1), 2 days ago) - Universal dependency update tool that fits into your workflows.
 - [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v19.0.3](https://github.com/secshellnet/keycloak/releases/tag/v19.0.3), 1 week ago) - Keycloak &gt;17 with PostgreSQL support
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.4](https://github.com/vector-im/element-android/releases/tag/v1.5.4), 1 week ago) - A glossy Matrix collaboration client for Android.
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.16](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.16), 2 weeks ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
