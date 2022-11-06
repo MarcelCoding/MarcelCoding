@@ -15,25 +15,25 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (5 days ago)
+- [MarcelCoding/windshield-rs](https://github.com/MarcelCoding/windshield-rs) (1 day ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 day ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (6 days ago)
 - [MarcelCoding/cfds](https://github.com/MarcelCoding/cfds) - Sync dns zone files with Cloudflare (1 week ago)
 - [dump-dvb/windshield](https://github.com/dump-dvb/windshield) - its really just the frontend lol (2 weeks ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications.  (3 weeks ago)
-- [MarcelCoding/ronitor](https://github.com/MarcelCoding/ronitor) - Monitor rpi sensors using rust (3 weeks ago)
 
 ### 🌱 My latest projects
 
+- [MarcelCoding/windshield-rs](https://github.com/MarcelCoding/windshield-rs)
 - [MarcelCoding/cfds](https://github.com/MarcelCoding/cfds) - Sync dns zone files with Cloudflare
 - [MarcelCoding/siv](https://github.com/MarcelCoding/siv) - router for Hyper with out of the box openapi generation
 - [MarcelCoding/pux](https://github.com/MarcelCoding/pux)
 - [MarcelCoding/itables](https://github.com/MarcelCoding/itables)
-- [MarcelCoding/cryptic-grpc](https://github.com/MarcelCoding/cryptic-grpc)
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.18.0](https://github.com/renovatebot/renovate/releases/tag/34.18.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.6](https://github.com/vector-im/element-android/releases/tag/v1.5.6), 3 days ago) - A glossy Matrix collaboration client for Android.
-- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v19.0.3](https://github.com/secshellnet/keycloak/releases/tag/v19.0.3), 1 week ago) - Keycloak &gt;17 with PostgreSQL support
+- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v20.0.0](https://github.com/secshellnet/keycloak/releases/tag/v20.0.0), 1 day ago) - Keycloak &gt;17 with PostgreSQL support
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.19.0](https://github.com/renovatebot/renovate/releases/tag/34.19.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.6](https://github.com/vector-im/element-android/releases/tag/v1.5.6), 4 days ago) - A glossy Matrix collaboration client for Android.
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.16](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.16), 3 weeks ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 - [TKFRvisionOfficial/bszet_substitution_plan](https://github.com/TKFRvisionOfficial/bszet_substitution_plan) ([v1.0.9](https://github.com/TKFRvisionOfficial/bszet_substitution_plan/releases/tag/v1.0.9), 3 weeks ago) - Parsing and Image creation service of the BSZET substitution plan bot
 
@@ -41,7 +41,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 - [Implemented webkit browser not visible map workaround](https://github.com/dump-dvb/windshield/pull/9) on [dump-dvb/windshield](https://github.com/dump-dvb/windshield) (2 weeks ago)
 - [Removed vehicles with unknown locations](https://github.com/dump-dvb/windshield/pull/8) on [dump-dvb/windshield](https://github.com/dump-dvb/windshield) (2 weeks ago)
-- [Deleted local copy of stops json](https://github.com/dump-dvb/windshield/pull/6) on [dump-dvb/windshield](https://github.com/dump-dvb/windshield) (2 weeks ago)
+- [Deleted local copy of stops json](https://github.com/dump-dvb/windshield/pull/6) on [dump-dvb/windshield](https://github.com/dump-dvb/windshield) (3 weeks ago)
 - [Added support for discovering supported id token signing algorithms](https://github.com/ramosbugs/openidconnect-rs/pull/87) on [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) (1 month ago)
 - [feat: woodpecker manager](https://github.com/renovatebot/renovate/pull/17297) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 months ago)
 
