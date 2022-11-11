@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust (today)
-- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (5 days ago)
-- [MarcelCoding/windshield-rs](https://github.com/MarcelCoding/windshield-rs) (5 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 day ago)
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust (1 day ago)
+- [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (6 days ago)
+- [MarcelCoding/windshield-rs](https://github.com/MarcelCoding/windshield-rs) (6 days ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
-- [MarcelCoding/cfds](https://github.com/MarcelCoding/cfds) - Sync dns zone files with Cloudflare (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -31,11 +31,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.21.4](https://github.com/renovatebot/renovate/releases/tag/34.21.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.7](https://github.com/vector-im/element-android/releases/tag/v1.5.7), 3 days ago) - A glossy Matrix collaboration client for Android.
-- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v20.0.0](https://github.com/secshellnet/keycloak/releases/tag/v20.0.0), 5 days ago) - Keycloak &gt;17 with PostgreSQL support
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.22.1](https://github.com/renovatebot/renovate/releases/tag/34.22.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.7](https://github.com/vector-im/element-android/releases/tag/v1.5.7), 4 days ago) - A glossy Matrix collaboration client for Android.
+- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v20.0.0](https://github.com/secshellnet/keycloak/releases/tag/v20.0.0), 6 days ago) - Keycloak &gt;17 with PostgreSQL support
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([2.4.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/2.4.0), 2 weeks ago) - OpenID Connect Library for Rust
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.16](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.16), 3 weeks ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.16](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.16), 4 weeks ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 
 ### 🔨 Latest Pull Requests I published
 
