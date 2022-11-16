@@ -15,9 +15,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (1 day ago)
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust (5 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (5 days ago)
+- [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (2 days ago)
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust (6 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (6 days ago)
 - [MarcelCoding/windshield-rs](https://github.com/MarcelCoding/windshield-rs) (1 week ago)
 - [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 week ago)
 
@@ -31,8 +31,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.24.1](https://github.com/renovatebot/renovate/releases/tag/34.24.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.1.1](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.1.1), 1 day ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.26.0](https://github.com/renovatebot/renovate/releases/tag/34.26.0), today) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.1.1](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.1.1), 2 days ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.7](https://github.com/vector-im/element-android/releases/tag/v1.5.7), 1 week ago) - A glossy Matrix collaboration client for Android.
 - [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v20.0.0](https://github.com/secshellnet/keycloak/releases/tag/v20.0.0), 1 week ago) - Keycloak &gt;17 with PostgreSQL support
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([2.4.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/2.4.0), 2 weeks ago) - OpenID Connect Library for Rust
