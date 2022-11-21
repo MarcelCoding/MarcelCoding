@@ -15,8 +15,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dump-dvb/windshield](https://github.com/dump-dvb/windshield) - its really just the frontend lol (4 days ago)
-- [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (6 days ago)
+- [dump-dvb/windshield](https://github.com/dump-dvb/windshield) - its really just the frontend lol (5 days ago)
+- [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (1 week ago)
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust (1 week ago)
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 week ago)
 - [MarcelCoding/windshield-rs](https://github.com/MarcelCoding/windshield-rs) (2 weeks ago)
@@ -31,11 +31,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.28.0](https://github.com/renovatebot/renovate/releases/tag/34.28.0), 2 days ago) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.8](https://github.com/vector-im/element-android/releases/tag/v1.5.8), 3 days ago) - A glossy Matrix collaboration client for Android.
-- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.1.1](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.1.1), 6 days ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.29.1](https://github.com/renovatebot/renovate/releases/tag/34.29.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) ([3.6.4](https://github.com/MindFlavor/prometheus_wireguard_exporter/releases/tag/3.6.4), 1 day ago) - A Prometheus exporter for WireGuard, written in Rust.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.8](https://github.com/vector-im/element-android/releases/tag/v1.5.8), 4 days ago) - A glossy Matrix collaboration client for Android.
+- [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.1.1](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.1.1), 1 week ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
 - [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v20.0.0](https://github.com/secshellnet/keycloak/releases/tag/v20.0.0), 2 weeks ago) - Keycloak &gt;17 with PostgreSQL support
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([2.4.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/2.4.0), 3 weeks ago) - OpenID Connect Library for Rust
 
 ### 🔨 Latest Pull Requests I published
 
@@ -54,5 +54,5 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [matrix-org/rust-synapse-compress-state](https://github.com/matrix-org/rust-synapse-compress-state) - A tool to compress some state in a Synapse instance&#39;s database (2 months ago)
 - [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action) - Execute a Gradle Build in your Github Actions workflow (2 months ago)
 - [serialhex/nano-highlight](https://github.com/serialhex/nano-highlight) - a spiffy collection of nano syntax highlighting files (2 months ago)
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor (2 months ago)
+- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor (3 months ago)
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (3 months ago)
