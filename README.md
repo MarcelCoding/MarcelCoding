@@ -15,8 +15,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dump-dvb/windshield](https://github.com/dump-dvb/windshield) - its really just the frontend lol (1 day ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications.  (2 days ago)
+- [dump-dvb/windshield](https://github.com/dump-dvb/windshield) - its really just the frontend lol (2 days ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications.  (3 days ago)
 - [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (1 week ago)
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust (2 weeks ago)
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (2 weeks ago)
@@ -31,9 +31,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.34.0](https://github.com/renovatebot/renovate/releases/tag/34.34.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.17](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.17), 2 days ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
-- [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) ([3.6.6](https://github.com/MindFlavor/prometheus_wireguard_exporter/releases/tag/3.6.6), 4 days ago) - A Prometheus exporter for WireGuard, written in Rust.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.37.0](https://github.com/renovatebot/renovate/releases/tag/34.37.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.17](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.17), 3 days ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
+- [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) ([3.6.6](https://github.com/MindFlavor/prometheus_wireguard_exporter/releases/tag/3.6.6), 5 days ago) - A Prometheus exporter for WireGuard, written in Rust.
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.8](https://github.com/vector-im/element-android/releases/tag/v1.5.8), 1 week ago) - A glossy Matrix collaboration client for Android.
 - [MarcelCoding/docker-ssh-tunnel](https://github.com/MarcelCoding/docker-ssh-tunnel) ([v1.1.1](https://github.com/MarcelCoding/docker-ssh-tunnel/releases/tag/v1.1.1), 1 week ago) - Docker SSH Tunnel is a pre configured SSH Daemon to tunnel a local port.
 
