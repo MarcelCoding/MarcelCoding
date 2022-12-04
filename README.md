@@ -15,8 +15,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (5 days ago)
-- [dump-dvb/windshield](https://github.com/dump-dvb/windshield) - its really just the frontend lol (6 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 day ago)
+- [dump-dvb/windshield](https://github.com/dump-dvb/windshield) - its really just the frontend lol (1 week ago)
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications.  (1 week ago)
 - [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (2 weeks ago)
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) - OpenID Connect Library for Rust (3 weeks ago)
@@ -31,9 +31,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.48.0](https://github.com/renovatebot/renovate/releases/tag/34.48.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.10](https://github.com/vector-im/element-android/releases/tag/v1.5.10), 3 days ago) - A glossy Matrix collaboration client for Android.
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.4](https://github.com/MarcelCoding/zia/releases/tag/v0.2.4), 5 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.48.0](https://github.com/renovatebot/renovate/releases/tag/34.48.0), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.10](https://github.com/vector-im/element-android/releases/tag/v1.5.10), 4 days ago) - A glossy Matrix collaboration client for Android.
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.4](https://github.com/MarcelCoding/zia/releases/tag/v0.2.4), 6 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 - [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.17](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.17), 1 week ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 - [MindFlavor/prometheus_wireguard_exporter](https://github.com/MindFlavor/prometheus_wireguard_exporter) ([3.6.6](https://github.com/MindFlavor/prometheus_wireguard_exporter/releases/tag/3.6.6), 1 week ago) - A Prometheus exporter for WireGuard, written in Rust.
 
