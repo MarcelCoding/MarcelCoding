@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [os-builds/vyos](https://github.com/os-builds/vyos) (2 days ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (3 days ago)
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀 (1 day ago)
+- [os-builds/vyos](https://github.com/os-builds/vyos) (3 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (4 days ago)
 - [dump-dvb/windshield](https://github.com/dump-dvb/windshield) - its really just the frontend lol (1 week ago)
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications.  (1 week ago)
-- [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (3 weeks ago)
+- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications.  (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -31,11 +31,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.49.0](https://github.com/renovatebot/renovate/releases/tag/34.49.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-2](https://github.com/os-builds/vyos/releases/tag/1.3.2-2), 2 days ago)
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.10](https://github.com/vector-im/element-android/releases/tag/v1.5.10), 6 days ago) - A glossy Matrix collaboration client for Android.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.50.1](https://github.com/renovatebot/renovate/releases/tag/34.50.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-2](https://github.com/os-builds/vyos/releases/tag/1.3.2-2), 3 days ago)
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([12.119.2](https://github.com/misskey-dev/misskey/releases/tag/12.119.2), 4 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.10](https://github.com/vector-im/element-android/releases/tag/v1.5.10), 1 week ago) - A glossy Matrix collaboration client for Android.
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.4](https://github.com/MarcelCoding/zia/releases/tag/v0.2.4), 1 week ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
-- [MarcelCoding/bszet-vplan](https://github.com/MarcelCoding/bszet-vplan) ([v1.2.17](https://github.com/MarcelCoding/bszet-vplan/releases/tag/v1.2.17), 1 week ago) - Automatically monitors the BSZET Dresden timetable for changes and sends change notifications. 
 
 ### 🔨 Latest Pull Requests I published
 
