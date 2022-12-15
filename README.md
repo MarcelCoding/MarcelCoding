@@ -15,8 +15,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (4 days ago)
-- [dump-dvb/windshield](https://github.com/dump-dvb/windshield) - its really just the frontend lol (5 days ago)
+- [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (5 days ago)
+- [dump-dvb/windshield](https://github.com/dump-dvb/windshield) - its really just the frontend lol (6 days ago)
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀 (1 week ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) (1 week ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
@@ -31,7 +31,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.55.0](https://github.com/renovatebot/renovate/releases/tag/34.55.0), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.56.3](https://github.com/renovatebot/renovate/releases/tag/34.56.3), today) - Universal dependency update tool that fits into your workflows.
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.11](https://github.com/vector-im/element-android/releases/tag/v1.5.11), 1 week ago) - A glossy Matrix collaboration client for Android.
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-2](https://github.com/os-builds/vyos/releases/tag/1.3.2-2), 1 week ago)
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([12.119.2](https://github.com/misskey-dev/misskey/releases/tag/12.119.2), 1 week ago) - 🌎 An interplanetary microblogging platform 🚀
@@ -43,7 +43,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [Added statically linked binaries](https://github.com/MarcelCoding/zia/pull/51) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (2 weeks ago)
 - [Implemented webkit browser not visible map workaround](https://github.com/dump-dvb/windshield/pull/9) on [dump-dvb/windshield](https://github.com/dump-dvb/windshield) (1 month ago)
 - [Removed vehicles with unknown locations](https://github.com/dump-dvb/windshield/pull/8) on [dump-dvb/windshield](https://github.com/dump-dvb/windshield) (1 month ago)
-- [Deleted local copy of stops json](https://github.com/dump-dvb/windshield/pull/6) on [dump-dvb/windshield](https://github.com/dump-dvb/windshield) (1 month ago)
+- [Deleted local copy of stops json](https://github.com/dump-dvb/windshield/pull/6) on [dump-dvb/windshield](https://github.com/dump-dvb/windshield) (2 months ago)
 
 ### 📜 My recent blog posts
 
