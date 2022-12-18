@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dump-dvb/stasi](https://github.com/dump-dvb/stasi) - tracks your, bus and trams every move (3 days ago)
+- [dump-dvb/stasi](https://github.com/dump-dvb/stasi) - tracks your, bus and trams every move (4 days ago)
 - [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (1 week ago)
 - [dump-dvb/windshield](https://github.com/dump-dvb/windshield) - its really just the frontend lol (1 week ago)
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀 (1 week ago)
-- [os-builds/vyos](https://github.com/os-builds/vyos) (1 week ago)
+- [os-builds/vyos](https://github.com/os-builds/vyos) (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -31,9 +31,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.60.0](https://github.com/renovatebot/renovate/releases/tag/34.60.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.12](https://github.com/vector-im/element-android/releases/tag/v1.5.12), 2 days ago) - A glossy Matrix collaboration client for Android.
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-2](https://github.com/os-builds/vyos/releases/tag/1.3.2-2), 1 week ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.63.0](https://github.com/renovatebot/renovate/releases/tag/34.63.0), today) - Universal dependency update tool that fits into your workflows.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.12](https://github.com/vector-im/element-android/releases/tag/v1.5.12), 3 days ago) - A glossy Matrix collaboration client for Android.
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-2](https://github.com/os-builds/vyos/releases/tag/1.3.2-2), 2 weeks ago)
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([12.119.2](https://github.com/misskey-dev/misskey/releases/tag/12.119.2), 2 weeks ago) - 🌎 An interplanetary microblogging platform 🚀
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.4](https://github.com/MarcelCoding/zia/releases/tag/v0.2.4), 2 weeks ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 
