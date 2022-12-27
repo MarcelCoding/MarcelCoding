@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 day ago)
-- [MarcelCoding/pux](https://github.com/MarcelCoding/pux) (2 days ago)
-- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (3 days ago)
-- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (3 days ago)
-- [cryptic-game/cdn](https://github.com/cryptic-game/cdn) - Repository for images and other static assets, delivered using Cloudflare pages. (3 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (2 days ago)
+- [MarcelCoding/pux](https://github.com/MarcelCoding/pux) (3 days ago)
+- [cryptic-game/website](https://github.com/cryptic-game/website) - The official website of cryptic-game (4 days ago)
+- [cryptic-game/frontend](https://github.com/cryptic-game/frontend) - The official frontend of Cryptic (4 days ago)
+- [cryptic-game/cdn](https://github.com/cryptic-game/cdn) - Repository for images and other static assets, delivered using Cloudflare pages. (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,19 +31,19 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.5](https://github.com/MarcelCoding/zia/releases/tag/v0.2.5), 1 day ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.73.1](https://github.com/renovatebot/renovate/releases/tag/34.73.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.14](https://github.com/vector-im/element-android/releases/tag/v1.5.14), 6 days ago) - A glossy Matrix collaboration client for Android.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.74.0](https://github.com/renovatebot/renovate/releases/tag/34.74.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.5](https://github.com/MarcelCoding/zia/releases/tag/v0.2.5), 2 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.14](https://github.com/vector-im/element-android/releases/tag/v1.5.14), 1 week ago) - A glossy Matrix collaboration client for Android.
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-2](https://github.com/os-builds/vyos/releases/tag/1.3.2-2), 3 weeks ago)
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([12.119.2](https://github.com/misskey-dev/misskey/releases/tag/12.119.2), 3 weeks ago) - 🌎 An interplanetary microblogging platform 🚀
 
 ### 🔨 Latest Pull Requests I published
 
-- [Refactored everything](https://github.com/dump-dvb/windshield/pull/18) on [dump-dvb/windshield](https://github.com/dump-dvb/windshield) (2 days ago)
-- [Update main.yaml](https://github.com/cryptic-game/website/pull/400) on [cryptic-game/website](https://github.com/cryptic-game/website) (3 days ago)
-- [Update main.yaml](https://github.com/cryptic-game/website/pull/399) on [cryptic-game/website](https://github.com/cryptic-game/website) (3 days ago)
-- [Fixed deployment](https://github.com/cryptic-game/website/pull/398) on [cryptic-game/website](https://github.com/cryptic-game/website) (3 days ago)
-- [Updated deployment](https://github.com/cryptic-game/website/pull/395) on [cryptic-game/website](https://github.com/cryptic-game/website) (3 days ago)
+- [Refactored everything](https://github.com/dump-dvb/windshield/pull/18) on [dump-dvb/windshield](https://github.com/dump-dvb/windshield) (3 days ago)
+- [Update main.yaml](https://github.com/cryptic-game/website/pull/400) on [cryptic-game/website](https://github.com/cryptic-game/website) (4 days ago)
+- [Update main.yaml](https://github.com/cryptic-game/website/pull/399) on [cryptic-game/website](https://github.com/cryptic-game/website) (4 days ago)
+- [Fixed deployment](https://github.com/cryptic-game/website/pull/398) on [cryptic-game/website](https://github.com/cryptic-game/website) (4 days ago)
+- [Updated deployment](https://github.com/cryptic-game/website/pull/395) on [cryptic-game/website](https://github.com/cryptic-game/website) (4 days ago)
 
 ### 📜 My recent blog posts
 
