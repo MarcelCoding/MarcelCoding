@@ -31,10 +31,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.96.0](https://github.com/renovatebot/renovate/releases/tag/34.96.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.5.0-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.5.0-1), 2 days ago) - Debian (Vyatta) package for node_exporter
-- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.1.4-1](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.1.4-1), 2 days ago) - Debian (Vyatta) package for frr_exporter
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.18](https://github.com/vector-im/element-android/releases/tag/v1.5.18), 1 week ago) - A glossy Matrix collaboration client for Android.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.97.5](https://github.com/renovatebot/renovate/releases/tag/34.97.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.20](https://github.com/vector-im/element-android/releases/tag/v1.5.20), 1 day ago) - A glossy Matrix collaboration client for Android.
+- [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.5.0-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.5.0-1), 3 days ago) - Debian (Vyatta) package for node_exporter
+- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.1.4-1](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.1.4-1), 3 days ago) - Debian (Vyatta) package for frr_exporter
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.5](https://github.com/MarcelCoding/zia/releases/tag/v0.2.5), 2 weeks ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 
 ### 🔨 Latest Pull Requests I published
