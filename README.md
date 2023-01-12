@@ -19,7 +19,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [os-builds/vyos](https://github.com/os-builds/vyos) (1 week ago)
 - [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) - Debian (Vyatta) package for node_exporter (1 week ago)
 - [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) - Debian (Vyatta) package for frr_exporter (1 week ago)
-- [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (1 week ago)
+- [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -31,15 +31,15 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.97.5](https://github.com/renovatebot/renovate/releases/tag/34.97.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.20](https://github.com/vector-im/element-android/releases/tag/v1.5.20), 1 day ago) - A glossy Matrix collaboration client for Android.
-- [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.5.0-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.5.0-1), 3 days ago) - Debian (Vyatta) package for node_exporter
-- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.1.4-1](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.1.4-1), 3 days ago) - Debian (Vyatta) package for frr_exporter
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.5](https://github.com/MarcelCoding/zia/releases/tag/v0.2.5), 2 weeks ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([2.5.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/2.5.0), 1 day ago) - OpenID Connect Library for Rust
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.99.2](https://github.com/renovatebot/renovate/releases/tag/34.99.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.20](https://github.com/vector-im/element-android/releases/tag/v1.5.20), 2 days ago) - A glossy Matrix collaboration client for Android.
+- [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.5.0-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.5.0-1), 4 days ago) - Debian (Vyatta) package for node_exporter
+- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.1.4-1](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.1.4-1), 4 days ago) - Debian (Vyatta) package for frr_exporter
 
 ### 🔨 Latest Pull Requests I published
 
-- [Migrated to vyatta-node-exporter](https://github.com/os-builds/vyos/pull/6) on [os-builds/vyos](https://github.com/os-builds/vyos) (1 week ago)
+- [Migrated to vyatta-node-exporter](https://github.com/os-builds/vyos/pull/6) on [os-builds/vyos](https://github.com/os-builds/vyos) (2 weeks ago)
 - [Refactored everything](https://github.com/tlm-solutions/windshield/pull/18) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (2 weeks ago)
 - [Update main.yaml](https://github.com/cryptic-game/website/pull/400) on [cryptic-game/website](https://github.com/cryptic-game/website) (2 weeks ago)
 - [Update main.yaml](https://github.com/cryptic-game/website/pull/399) on [cryptic-game/website](https://github.com/cryptic-game/website) (2 weeks ago)
