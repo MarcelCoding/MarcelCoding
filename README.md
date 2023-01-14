@@ -31,16 +31,16 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.100.1](https://github.com/renovatebot/renovate/releases/tag/34.100.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([2.5.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/2.5.0), 2 days ago) - OpenID Connect Library for Rust
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.20](https://github.com/vector-im/element-android/releases/tag/v1.5.20), 3 days ago) - A glossy Matrix collaboration client for Android.
-- [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.5.0-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.5.0-1), 5 days ago) - Debian (Vyatta) package for node_exporter
-- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.1.4-1](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.1.4-1), 5 days ago) - Debian (Vyatta) package for frr_exporter
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.102.0](https://github.com/renovatebot/renovate/releases/tag/34.102.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([2.5.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/2.5.0), 3 days ago) - OpenID Connect Library for Rust
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.20](https://github.com/vector-im/element-android/releases/tag/v1.5.20), 4 days ago) - A glossy Matrix collaboration client for Android.
+- [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.5.0-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.5.0-1), 6 days ago) - Debian (Vyatta) package for node_exporter
+- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.1.4-1](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.1.4-1), 6 days ago) - Debian (Vyatta) package for frr_exporter
 
 ### 🔨 Latest Pull Requests I published
 
 - [Migrated to vyatta-node-exporter](https://github.com/os-builds/vyos/pull/6) on [os-builds/vyos](https://github.com/os-builds/vyos) (2 weeks ago)
-- [Refactored everything](https://github.com/tlm-solutions/windshield/pull/18) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (2 weeks ago)
+- [Refactored everything](https://github.com/tlm-solutions/windshield/pull/18) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (3 weeks ago)
 - [Update main.yaml](https://github.com/cryptic-game/website/pull/400) on [cryptic-game/website](https://github.com/cryptic-game/website) (3 weeks ago)
 - [Update main.yaml](https://github.com/cryptic-game/website/pull/399) on [cryptic-game/website](https://github.com/cryptic-game/website) (3 weeks ago)
 - [Fixed deployment](https://github.com/cryptic-game/website/pull/398) on [cryptic-game/website](https://github.com/cryptic-game/website) (3 weeks ago)
@@ -51,7 +51,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams (1 week ago)
+- [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams (2 weeks ago)
 - [vinceliuice/Lavanda-gtk-theme](https://github.com/vinceliuice/Lavanda-gtk-theme) - Lavanda gtk theme for linux desktops (1 month ago)
 - [matrix-org/rust-synapse-compress-state](https://github.com/matrix-org/rust-synapse-compress-state) - A tool to compress some state in a Synapse instance&#39;s database (4 months ago)
 - [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action) - Execute a Gradle Build in your Github Actions workflow (4 months ago)
