@@ -15,8 +15,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (2 days ago)
-- [os-builds/vyos](https://github.com/os-builds/vyos) (4 days ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (3 days ago)
+- [os-builds/vyos](https://github.com/os-builds/vyos) (5 days ago)
 - [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (2 weeks ago)
 - [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) - Debian (Vyatta) package for node_exporter (2 weeks ago)
 - [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) - Debian (Vyatta) package for frr_exporter (2 weeks ago)
@@ -31,15 +31,15 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.105.3](https://github.com/renovatebot/renovate/releases/tag/34.105.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.0.0-alpha.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.0.0-alpha.1), 1 day ago) - OpenID Connect Library for Rust
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.0.0](https://github.com/misskey-dev/misskey/releases/tag/13.0.0), 2 days ago) - 🌎 An interplanetary microblogging platform 🚀
-- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v20.0.3](https://github.com/secshellnet/keycloak/releases/tag/v20.0.3), 3 days ago) - Keycloak &gt;17 with PostgreSQL support
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.105.5](https://github.com/renovatebot/renovate/releases/tag/34.105.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.0.0-alpha.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.0.0-alpha.1), 2 days ago) - OpenID Connect Library for Rust
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.0.0](https://github.com/misskey-dev/misskey/releases/tag/13.0.0), 3 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v20.0.3](https://github.com/secshellnet/keycloak/releases/tag/v20.0.3), 4 days ago) - Keycloak &gt;17 with PostgreSQL support
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.20](https://github.com/vector-im/element-android/releases/tag/v1.5.20), 1 week ago) - A glossy Matrix collaboration client for Android.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Migrated to vyatta-node-exporter](https://github.com/os-builds/vyos/pull/6) on [os-builds/vyos](https://github.com/os-builds/vyos) (2 weeks ago)
+- [Migrated to vyatta-node-exporter](https://github.com/os-builds/vyos/pull/6) on [os-builds/vyos](https://github.com/os-builds/vyos) (3 weeks ago)
 - [Refactored everything](https://github.com/tlm-solutions/windshield/pull/18) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (3 weeks ago)
 - [Update main.yaml](https://github.com/cryptic-game/website/pull/400) on [cryptic-game/website](https://github.com/cryptic-game/website) (3 weeks ago)
 - [Update main.yaml](https://github.com/cryptic-game/website/pull/399) on [cryptic-game/website](https://github.com/cryptic-game/website) (3 weeks ago)
