@@ -31,8 +31,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.111.1](https://github.com/renovatebot/renovate/releases/tag/34.111.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.2.0](https://github.com/misskey-dev/misskey/releases/tag/13.2.0), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.113.0](https://github.com/renovatebot/renovate/releases/tag/34.113.0), today) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.2.1](https://github.com/misskey-dev/misskey/releases/tag/13.2.1), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.0.0-alpha.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.0.0-alpha.1), 1 week ago) - OpenID Connect Library for Rust
 - [secshellnet/keycloak](https://github.com/secshellnet/keycloak) ([v20.0.3](https://github.com/secshellnet/keycloak/releases/tag/v20.0.3), 1 week ago) - Keycloak &gt;17 with PostgreSQL support
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.20](https://github.com/vector-im/element-android/releases/tag/v1.5.20), 2 weeks ago) - A glossy Matrix collaboration client for Android.
@@ -52,7 +52,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### ⭐ Recent stars
 
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams (3 weeks ago)
-- [vinceliuice/Lavanda-gtk-theme](https://github.com/vinceliuice/Lavanda-gtk-theme) - Lavanda gtk theme for linux desktops (1 month ago)
+- [vinceliuice/Lavanda-gtk-theme](https://github.com/vinceliuice/Lavanda-gtk-theme) - Lavanda gtk theme for linux desktops (2 months ago)
 - [matrix-org/rust-synapse-compress-state](https://github.com/matrix-org/rust-synapse-compress-state) - A tool to compress some state in a Synapse instance&#39;s database (4 months ago)
 - [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action) - Execute a Gradle Build in your Github Actions workflow (5 months ago)
 - [serialhex/nano-highlight](https://github.com/serialhex/nano-highlight) - a spiffy collection of nano syntax highlighting files (5 months ago)
