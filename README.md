@@ -16,7 +16,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 👷 Check out what I'm currently working on
 
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 day ago)
-- [MarcelCoding/jupyter](https://github.com/MarcelCoding/jupyter) - just a mirror (1 day ago)
+- [MarcelCoding/jupyter](https://github.com/MarcelCoding/jupyter) - just a mirror (2 days ago)
 - [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) - its really just the frontend lol (1 week ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) (3 weeks ago)
 - [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 month ago)
@@ -31,16 +31,16 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.3.1](https://github.com/misskey-dev/misskey/releases/tag/13.3.1), today) - 🌎 An interplanetary microblogging platform 🚀
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.122.0](https://github.com/renovatebot/renovate/releases/tag/34.122.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.1](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.1), 1 day ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.124.1](https://github.com/renovatebot/renovate/releases/tag/34.124.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.3.4](https://github.com/misskey-dev/misskey/releases/tag/13.3.4), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.1](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.1), 2 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.22](https://github.com/vector-im/element-android/releases/tag/v1.5.22), 1 week ago) - A glossy Matrix collaboration client for Android.
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.0.0-alpha.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.0.0-alpha.1), 2 weeks ago) - OpenID Connect Library for Rust
 
 ### 🔨 Latest Pull Requests I published
 
-- [Replace bash process using java process instead of creating a sub process](https://github.com/dbeaver/cloudbeaver/pull/1452) on [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) (1 day ago)
-- [Added sentry](https://github.com/MarcelCoding/bszet-mind/pull/12) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (4 days ago)
+- [Replace bash process using java process instead of creating a sub process](https://github.com/dbeaver/cloudbeaver/pull/1452) on [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) (2 days ago)
+- [Added sentry](https://github.com/MarcelCoding/bszet-mind/pull/12) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (5 days ago)
 - [Add basic vehicle sidebar](https://github.com/tlm-solutions/windshield/pull/23) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (1 week ago)
 - [Migrated to vyatta-node-exporter](https://github.com/os-builds/vyos/pull/6) on [os-builds/vyos](https://github.com/os-builds/vyos) (1 month ago)
 - [Refactored everything](https://github.com/tlm-solutions/windshield/pull/18) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (1 month ago)
@@ -51,7 +51,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (5 days ago)
+- [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (6 days ago)
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust (1 week ago)
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams (1 month ago)
 - [vinceliuice/Lavanda-gtk-theme](https://github.com/vinceliuice/Lavanda-gtk-theme) - Lavanda gtk theme for linux desktops (2 months ago)
