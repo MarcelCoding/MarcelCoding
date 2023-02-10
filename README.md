@@ -15,8 +15,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (5 days ago)
-- [MarcelCoding/jupyter](https://github.com/MarcelCoding/jupyter) - just a mirror (6 days ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (6 days ago)
+- [MarcelCoding/jupyter](https://github.com/MarcelCoding/jupyter) - just a mirror (1 week ago)
 - [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) - its really just the frontend lol (2 weeks ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) (3 weeks ago)
 - [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de) (1 month ago)
@@ -31,17 +31,17 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.128.1](https://github.com/renovatebot/renovate/releases/tag/34.128.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.24](https://github.com/vector-im/element-android/releases/tag/v1.5.24), 1 day ago) - A glossy Matrix collaboration client for Android.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.5.2](https://github.com/misskey-dev/misskey/releases/tag/13.5.2), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.1](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.1), 6 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.128.3](https://github.com/renovatebot/renovate/releases/tag/34.128.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.5.5](https://github.com/misskey-dev/misskey/releases/tag/13.5.5), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.24](https://github.com/vector-im/element-android/releases/tag/v1.5.24), 2 days ago) - A glossy Matrix collaboration client for Android.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.1](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.1), 1 week ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.0.0-alpha.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.0.0-alpha.1), 3 weeks ago) - OpenID Connect Library for Rust
 
 ### 🔨 Latest Pull Requests I published
 
-- [Replace bash process with java process instead of creating a sub process](https://github.com/dbeaver/cloudbeaver/pull/1452) on [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) (6 days ago)
+- [Replace bash process with java process instead of creating a sub process](https://github.com/dbeaver/cloudbeaver/pull/1452) on [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) (1 week ago)
 - [Added sentry](https://github.com/MarcelCoding/bszet-mind/pull/12) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 week ago)
-- [Add basic vehicle sidebar](https://github.com/tlm-solutions/windshield/pull/23) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (1 week ago)
+- [Add basic vehicle sidebar](https://github.com/tlm-solutions/windshield/pull/23) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (2 weeks ago)
 - [Migrated to vyatta-node-exporter](https://github.com/os-builds/vyos/pull/6) on [os-builds/vyos](https://github.com/os-builds/vyos) (1 month ago)
 - [Refactored everything](https://github.com/tlm-solutions/windshield/pull/18) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (1 month ago)
 
