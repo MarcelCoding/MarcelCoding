@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 day ago)
-- [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) - its really just the frontend lol (2 days ago)
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 week ago)
-- [MarcelCoding/jupyter](https://github.com/MarcelCoding/jupyter) - just a mirror (1 week ago)
-- [os-builds/vyos](https://github.com/os-builds/vyos) (4 weeks ago)
+- [offsetting/indctive](https://github.com/offsetting/indctive) (1 day ago)
+- [offsetting/soiboy](https://github.com/offsetting/soiboy) (1 day ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) (1 day ago)
+- [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (1 day ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,15 +31,15 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.132.1](https://github.com/renovatebot/renovate/releases/tag/34.132.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.1](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.1), 1 day ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.6.0](https://github.com/misskey-dev/misskey/releases/tag/13.6.0), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.24](https://github.com/vector-im/element-android/releases/tag/v1.5.24), 4 days ago) - A glossy Matrix collaboration client for Android.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.133.0](https://github.com/renovatebot/renovate/releases/tag/34.133.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.6.1](https://github.com/misskey-dev/misskey/releases/tag/13.6.1), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.1](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.1), 2 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.24](https://github.com/vector-im/element-android/releases/tag/v1.5.24), 5 days ago) - A glossy Matrix collaboration client for Android.
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.1](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.1), 1 week ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added linux/arm64/v8 docker build](https://github.com/MarcelCoding/jitsi-openid/pull/183) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (1 day ago)
+- [Added linux/arm64/v8 docker build](https://github.com/MarcelCoding/jitsi-openid/pull/183) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (2 days ago)
 - [Replace bash process with java process instead of creating a sub process](https://github.com/dbeaver/cloudbeaver/pull/1452) on [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) (1 week ago)
 - [Added sentry](https://github.com/MarcelCoding/bszet-mind/pull/12) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 week ago)
 - [Add basic vehicle sidebar](https://github.com/tlm-solutions/windshield/pull/23) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (2 weeks ago)
@@ -51,7 +51,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (1 week ago)
+- [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (2 weeks ago)
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust (2 weeks ago)
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams (1 month ago)
 - [vinceliuice/Lavanda-gtk-theme](https://github.com/vinceliuice/Lavanda-gtk-theme) - Lavanda gtk theme for linux desktops (2 months ago)
