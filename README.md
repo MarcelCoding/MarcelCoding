@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [offsetting/indctive](https://github.com/offsetting/indctive) (2 days ago)
-- [offsetting/soiboy](https://github.com/offsetting/soiboy) (2 days ago)
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 days ago)
-- [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (2 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (3 days ago)
+- [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) - its really just the frontend lol (1 day ago)
+- [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (3 days ago)
+- [offsetting/soiboy](https://github.com/offsetting/soiboy) (3 days ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) (3 days ago)
+- [offsetting/indctive](https://github.com/offsetting/indctive) (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,19 +31,19 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.136.0](https://github.com/renovatebot/renovate/releases/tag/34.136.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.6.1](https://github.com/misskey-dev/misskey/releases/tag/13.6.1), 2 days ago) - 🌎 An interplanetary microblogging platform 🚀
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.1](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.1), 3 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.24](https://github.com/vector-im/element-android/releases/tag/v1.5.24), 6 days ago) - A glossy Matrix collaboration client for Android.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.138.3](https://github.com/renovatebot/renovate/releases/tag/34.138.3), today) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.6.1](https://github.com/misskey-dev/misskey/releases/tag/13.6.1), 3 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.1](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.1), 4 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.24](https://github.com/vector-im/element-android/releases/tag/v1.5.24), 1 week ago) - A glossy Matrix collaboration client for Android.
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.1](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.1), 1 week ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added linux/arm64/v8 docker build](https://github.com/MarcelCoding/jitsi-openid/pull/183) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (3 days ago)
+- [Reactive sidebar](https://github.com/tlm-solutions/windshield/pull/25) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (1 day ago)
+- [Added linux/arm64/v8 docker build](https://github.com/MarcelCoding/jitsi-openid/pull/183) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (4 days ago)
 - [Replace bash process with java process instead of creating a sub process](https://github.com/dbeaver/cloudbeaver/pull/1452) on [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) (1 week ago)
 - [Added sentry](https://github.com/MarcelCoding/bszet-mind/pull/12) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (2 weeks ago)
 - [Add basic vehicle sidebar](https://github.com/tlm-solutions/windshield/pull/23) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (2 weeks ago)
-- [Migrated to vyatta-node-exporter](https://github.com/os-builds/vyos/pull/6) on [os-builds/vyos](https://github.com/os-builds/vyos) (1 month ago)
 
 ### 📜 My recent blog posts
 
