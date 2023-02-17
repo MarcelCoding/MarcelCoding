@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) - Native rust implementation of the hash algorithms from Bob Jenkins. (today)
-- [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) - its really just the frontend lol (2 days ago)
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) (4 days ago)
-- [offsetting/indctive](https://github.com/offsetting/indctive) (4 days ago)
-- [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (4 days ago)
+- [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) - Native rust implementation of the hash algorithms from Bob Jenkins. (1 day ago)
+- [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) - its really just the frontend lol (3 days ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) (5 days ago)
+- [offsetting/indctive](https://github.com/offsetting/indctive) (5 days ago)
+- [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,19 +31,19 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) ([v0.1.0](https://github.com/offsetting/jenkins_hash/releases/tag/v0.1.0), 1 day ago) - Native rust implementation of the hash algorithms from Bob Jenkins.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.141.0](https://github.com/renovatebot/renovate/releases/tag/34.141.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.25](https://github.com/vector-im/element-android/releases/tag/v1.5.25), 1 day ago) - A glossy Matrix collaboration client for Android.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.6.1](https://github.com/misskey-dev/misskey/releases/tag/13.6.1), 4 days ago) - 🌎 An interplanetary microblogging platform 🚀
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.1](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.1), 5 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.143.1](https://github.com/renovatebot/renovate/releases/tag/34.143.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) ([v0.1.0](https://github.com/offsetting/jenkins_hash/releases/tag/v0.1.0), 2 days ago) - Native rust implementation of the hash algorithms from Bob Jenkins.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.25](https://github.com/vector-im/element-android/releases/tag/v1.5.25), 2 days ago) - A glossy Matrix collaboration client for Android.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.6.1](https://github.com/misskey-dev/misskey/releases/tag/13.6.1), 5 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.1](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.1), 6 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Reactive sidebar](https://github.com/tlm-solutions/windshield/pull/25) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (2 days ago)
-- [Added linux/arm64/v8 docker build](https://github.com/MarcelCoding/jitsi-openid/pull/183) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (5 days ago)
-- [Replace bash process with java process instead of creating a sub process](https://github.com/dbeaver/cloudbeaver/pull/1452) on [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) (1 week ago)
+- [Reactive sidebar](https://github.com/tlm-solutions/windshield/pull/25) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (3 days ago)
+- [Added linux/arm64/v8 docker build](https://github.com/MarcelCoding/jitsi-openid/pull/183) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (6 days ago)
+- [Replace bash process with java process instead of creating a sub process](https://github.com/dbeaver/cloudbeaver/pull/1452) on [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) (2 weeks ago)
 - [Added sentry](https://github.com/MarcelCoding/bszet-mind/pull/12) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (2 weeks ago)
-- [Add basic vehicle sidebar](https://github.com/tlm-solutions/windshield/pull/23) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (2 weeks ago)
+- [Add basic vehicle sidebar](https://github.com/tlm-solutions/windshield/pull/23) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (3 weeks ago)
 
 ### 📜 My recent blog posts
 
