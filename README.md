@@ -18,7 +18,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 day ago)
 - [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) - Native rust implementation of the hash algorithms from Bob Jenkins. (1 week ago)
 - [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) - its really just the frontend lol (1 week ago)
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) (2 weeks ago)
+- [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (2 weeks ago)
 - [offsetting/indctive](https://github.com/offsetting/indctive) (2 weeks ago)
 
 ### 🌱 My latest projects
@@ -31,9 +31,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.4](https://github.com/renovatebot/renovate/releases/tag/34.152.4), 2 days ago) - Universal dependency update tool that fits into your workflows.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.7.5](https://github.com/misskey-dev/misskey/releases/tag/13.7.5), 2 days ago) - 🌎 An interplanetary microblogging platform 🚀
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.26](https://github.com/vector-im/element-android/releases/tag/v1.5.26), 3 days ago) - A glossy Matrix collaboration client for Android.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.8.1](https://github.com/misskey-dev/misskey/releases/tag/13.8.1), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.5](https://github.com/renovatebot/renovate/releases/tag/34.152.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.26](https://github.com/vector-im/element-android/releases/tag/v1.5.26), 4 days ago) - A glossy Matrix collaboration client for Android.
 - [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) ([v0.1.0](https://github.com/offsetting/jenkins_hash/releases/tag/v0.1.0), 1 week ago) - Native rust implementation of the hash algorithms from Bob Jenkins.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.1](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.1), 2 weeks ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 
@@ -51,7 +51,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (3 weeks ago)
+- [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (4 weeks ago)
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust (1 month ago)
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Also known as MediaMTX (1 month ago)
 - [vinceliuice/Lavanda-gtk-theme](https://github.com/vinceliuice/Lavanda-gtk-theme) - Lavanda gtk theme for linux desktops (3 months ago)
