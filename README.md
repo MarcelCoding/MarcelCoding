@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 day ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (today)
 - [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) - Native rust implementation of the hash algorithms from Bob Jenkins. (1 week ago)
-- [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) - its really just the frontend lol (1 week ago)
-- [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (2 weeks ago)
+- [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) - its really just the frontend lol (2 weeks ago)
 - [offsetting/indctive](https://github.com/offsetting/indctive) (2 weeks ago)
+- [offsetting/x-flipper-360](https://github.com/offsetting/x-flipper-360) - Converting Xbox 360 textures to dds and vice versa (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -31,18 +31,18 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.8.1](https://github.com/misskey-dev/misskey/releases/tag/13.8.1), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.5](https://github.com/renovatebot/renovate/releases/tag/34.152.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.26](https://github.com/vector-im/element-android/releases/tag/v1.5.26), 4 days ago) - A glossy Matrix collaboration client for Android.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.153.2](https://github.com/renovatebot/renovate/releases/tag/34.153.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.8.1](https://github.com/misskey-dev/misskey/releases/tag/13.8.1), 2 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.26](https://github.com/vector-im/element-android/releases/tag/v1.5.26), 5 days ago) - A glossy Matrix collaboration client for Android.
 - [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) ([v0.1.0](https://github.com/offsetting/jenkins_hash/releases/tag/v0.1.0), 1 week ago) - Native rust implementation of the hash algorithms from Bob Jenkins.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.1](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.1), 2 weeks ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Reactive sidebar](https://github.com/tlm-solutions/windshield/pull/25) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (1 week ago)
+- [Reactive sidebar](https://github.com/tlm-solutions/windshield/pull/25) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (2 weeks ago)
 - [Added linux/arm64/v8 docker build](https://github.com/MarcelCoding/jitsi-openid/pull/183) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (2 weeks ago)
 - [Replace bash process with java process instead of creating a sub process](https://github.com/dbeaver/cloudbeaver/pull/1452) on [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) (3 weeks ago)
-- [Added sentry](https://github.com/MarcelCoding/bszet-mind/pull/12) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (3 weeks ago)
+- [Added sentry](https://github.com/MarcelCoding/bszet-mind/pull/12) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (4 weeks ago)
 - [Add basic vehicle sidebar](https://github.com/tlm-solutions/windshield/pull/23) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (1 month ago)
 
 ### 📜 My recent blog posts
