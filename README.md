@@ -15,10 +15,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/rdns](https://github.com/MarcelCoding/rdns) (1 day ago)
-- [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (2 days ago)
-- [offsetting/indctive](https://github.com/offsetting/indctive) (2 days ago)
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (3 days ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 day ago)
+- [MarcelCoding/rdns](https://github.com/MarcelCoding/rdns) (2 days ago)
+- [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (3 days ago)
+- [offsetting/indctive](https://github.com/offsetting/indctive) (3 days ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 week ago)
 
 ### 🌱 My latest projects
@@ -31,11 +31,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.9.2](https://github.com/misskey-dev/misskey/releases/tag/13.9.2), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.157.1](https://github.com/renovatebot/renovate/releases/tag/34.157.1), 2 days ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.2](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.2), 3 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.158.2](https://github.com/renovatebot/renovate/releases/tag/34.158.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.3](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.3), 1 day ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.9.2](https://github.com/misskey-dev/misskey/releases/tag/13.9.2), 2 days ago) - 🌎 An interplanetary microblogging platform 🚀
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.26](https://github.com/vector-im/element-android/releases/tag/v1.5.26), 1 week ago) - A glossy Matrix collaboration client for Android.
-- [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) ([v0.1.0](https://github.com/offsetting/jenkins_hash/releases/tag/v0.1.0), 2 weeks ago) - Native rust implementation of the hash algorithms from Bob Jenkins.
+- [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) ([v0.1.0](https://github.com/offsetting/jenkins_hash/releases/tag/v0.1.0), 3 weeks ago) - Native rust implementation of the hash algorithms from Bob Jenkins.
 
 ### 🔨 Latest Pull Requests I published
 
