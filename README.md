@@ -15,9 +15,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 day ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (4 days ago)
-- [MarcelCoding/rdns](https://github.com/MarcelCoding/rdns) (1 week ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 days ago)
+- [MarcelCoding/rdns](https://github.com/MarcelCoding/rdns) (2 days ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (5 days ago)
 - [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (1 week ago)
 - [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) - Native rust implementation of the hash algorithms from Bob Jenkins. (3 weeks ago)
 
@@ -31,10 +31,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.4](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.4), 1 day ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.2.3](https://github.com/renovatebot/renovate/releases/tag/35.2.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([2.5.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/2.5.1), 5 days ago) - OpenID Connect Library for Rust
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.28](https://github.com/vector-im/element-android/releases/tag/v1.5.28), 6 days ago) - A glossy Matrix collaboration client for Android.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.6.0](https://github.com/renovatebot/renovate/releases/tag/35.6.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.4](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.4), 2 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([2.5.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/2.5.1), 6 days ago) - OpenID Connect Library for Rust
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.28](https://github.com/vector-im/element-android/releases/tag/v1.5.28), 1 week ago) - A glossy Matrix collaboration client for Android.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.9.2](https://github.com/misskey-dev/misskey/releases/tag/13.9.2), 1 week ago) - 🌎 An interplanetary microblogging platform 🚀
 
 ### 🔨 Latest Pull Requests I published
