@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 days ago)
-- [MarcelCoding/rdns](https://github.com/MarcelCoding/rdns) (2 days ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (5 days ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (3 days ago)
+- [MarcelCoding/rdns](https://github.com/MarcelCoding/rdns) (3 days ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (6 days ago)
 - [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (1 week ago)
-- [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) - Native rust implementation of the hash algorithms from Bob Jenkins. (3 weeks ago)
+- [offsetting/jenkins_hash](https://github.com/offsetting/jenkins_hash) - Native rust implementation of the hash algorithms from Bob Jenkins. (4 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -31,15 +31,15 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.6.0](https://github.com/renovatebot/renovate/releases/tag/35.6.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.4](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.4), 2 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([2.5.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/2.5.1), 6 days ago) - OpenID Connect Library for Rust
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.8.3](https://github.com/renovatebot/renovate/releases/tag/35.8.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.4](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.4), 3 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([2.5.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/2.5.1), 1 week ago) - OpenID Connect Library for Rust
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.28](https://github.com/vector-im/element-android/releases/tag/v1.5.28), 1 week ago) - A glossy Matrix collaboration client for Android.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.9.2](https://github.com/misskey-dev/misskey/releases/tag/13.9.2), 1 week ago) - 🌎 An interplanetary microblogging platform 🚀
 
 ### 🔨 Latest Pull Requests I published
 
-- [Reactive sidebar](https://github.com/tlm-solutions/windshield/pull/25) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (4 weeks ago)
+- [Reactive sidebar](https://github.com/tlm-solutions/windshield/pull/25) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (1 month ago)
 - [Added linux/arm64/v8 docker build](https://github.com/MarcelCoding/jitsi-openid/pull/183) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (1 month ago)
 - [Replace bash process with java process instead of creating a sub process](https://github.com/dbeaver/cloudbeaver/pull/1452) on [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) (1 month ago)
 - [Added sentry](https://github.com/MarcelCoding/bszet-mind/pull/12) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 month ago)
