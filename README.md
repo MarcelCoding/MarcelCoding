@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 day ago)
-- [MarcelCoding/rdns](https://github.com/MarcelCoding/rdns) (2 days ago)
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (5 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (2 days ago)
+- [MarcelCoding/rdns](https://github.com/MarcelCoding/rdns) (3 days ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (6 days ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 week ago)
-- [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (1 week ago)
+- [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -31,9 +31,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.6](https://github.com/MarcelCoding/zia/releases/tag/v0.2.6), 1 day ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.10.2](https://github.com/renovatebot/renovate/releases/tag/35.10.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.4](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.4), 5 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.12.0](https://github.com/renovatebot/renovate/releases/tag/35.12.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.6](https://github.com/MarcelCoding/zia/releases/tag/v0.2.6), 2 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.4](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.4), 6 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([2.5.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/2.5.1), 1 week ago) - OpenID Connect Library for Rust
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.28](https://github.com/vector-im/element-android/releases/tag/v1.5.28), 1 week ago) - A glossy Matrix collaboration client for Android.
 
