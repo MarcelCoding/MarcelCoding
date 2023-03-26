@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) - Debian (Vyatta) package for zia-server (2 days ago)
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (4 days ago)
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (5 days ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (5 days ago)
-- [MarcelCoding/rdns](https://github.com/MarcelCoding/rdns) (6 days ago)
+- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) - Debian (Vyatta) package for zia-server (3 days ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (5 days ago)
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (6 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (6 days ago)
+- [MarcelCoding/rdns](https://github.com/MarcelCoding/rdns) (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -31,15 +31,15 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.10.3](https://github.com/misskey-dev/misskey/releases/tag/13.10.3), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.20.1](https://github.com/renovatebot/renovate/releases/tag/35.20.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) ([v0.2.8-1](https://github.com/pkgs-hub/vyatta-zia-server/releases/tag/v0.2.8-1), 2 days ago) - Debian (Vyatta) package for zia-server
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.5](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.5), 4 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.8](https://github.com/MarcelCoding/zia/releases/tag/v0.2.8), 5 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.22.1](https://github.com/renovatebot/renovate/releases/tag/35.22.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.10.3](https://github.com/misskey-dev/misskey/releases/tag/13.10.3), 2 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) ([v0.2.8-1](https://github.com/pkgs-hub/vyatta-zia-server/releases/tag/v0.2.8-1), 3 days ago) - Debian (Vyatta) package for zia-server
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.5](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.5), 5 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.8](https://github.com/MarcelCoding/zia/releases/tag/v0.2.8), 6 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Updated to 0.2.8](https://github.com/pkgs-hub/vyatta-zia-server/pull/3) on [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) (5 days ago)
+- [Updated to 0.2.8](https://github.com/pkgs-hub/vyatta-zia-server/pull/3) on [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) (6 days ago)
 - [Reactive sidebar](https://github.com/tlm-solutions/windshield/pull/25) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (1 month ago)
 - [Added linux/arm64/v8 docker build](https://github.com/MarcelCoding/jitsi-openid/pull/183) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (1 month ago)
 - [Replace bash process with java process instead of creating a sub process](https://github.com/dbeaver/cloudbeaver/pull/1452) on [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) (1 month ago)
@@ -54,5 +54,5 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (1 month ago)
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust (1 month ago)
 - [aler9/rtsp-simple-server](https://github.com/aler9/rtsp-simple-server) - ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Also known as MediaMTX (2 months ago)
-- [vinceliuice/Lavanda-gtk-theme](https://github.com/vinceliuice/Lavanda-gtk-theme) - Lavanda gtk theme for linux desktops (3 months ago)
+- [vinceliuice/Lavanda-gtk-theme](https://github.com/vinceliuice/Lavanda-gtk-theme) - Lavanda gtk theme for linux desktops (4 months ago)
 - [matrix-org/rust-synapse-compress-state](https://github.com/matrix-org/rust-synapse-compress-state) - A tool to compress some state in a Synapse instance&#39;s database (6 months ago)
