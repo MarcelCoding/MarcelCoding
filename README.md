@@ -15,9 +15,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/symphony](https://github.com/MarcelCoding/symphony) (1 day ago)
-- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) - Debian (Vyatta) package for zia-server (4 days ago)
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (6 days ago)
+- [MarcelCoding/symphony](https://github.com/MarcelCoding/symphony) (2 days ago)
+- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) - Debian (Vyatta) package for zia-server (5 days ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 week ago)
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (1 week ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
 
@@ -31,10 +31,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.23.3](https://github.com/renovatebot/renovate/releases/tag/35.23.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.10.3](https://github.com/misskey-dev/misskey/releases/tag/13.10.3), 3 days ago) - 🌎 An interplanetary microblogging platform 🚀
-- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) ([v0.2.8-1](https://github.com/pkgs-hub/vyatta-zia-server/releases/tag/v0.2.8-1), 4 days ago) - Debian (Vyatta) package for zia-server
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.5](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.5), 6 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.24.3](https://github.com/renovatebot/renovate/releases/tag/35.24.3), today) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.10.3](https://github.com/misskey-dev/misskey/releases/tag/13.10.3), 4 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) ([v0.2.8-1](https://github.com/pkgs-hub/vyatta-zia-server/releases/tag/v0.2.8-1), 5 days ago) - Debian (Vyatta) package for zia-server
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.5](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.5), 1 week ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.8](https://github.com/MarcelCoding/zia/releases/tag/v0.2.8), 1 week ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 
 ### 🔨 Latest Pull Requests I published
