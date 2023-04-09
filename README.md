@@ -16,9 +16,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 👷 Check out what I'm currently working on
 
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 day ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (3 days ago)
-- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) - Debian (Vyatta) package for zia-server (5 days ago)
-- [os-builds/vyos](https://github.com/os-builds/vyos) (5 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (4 days ago)
+- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) - Debian (Vyatta) package for zia-server (6 days ago)
+- [os-builds/vyos](https://github.com/os-builds/vyos) (6 days ago)
 - [MarcelCoding/symphony](https://github.com/MarcelCoding/symphony) (1 week ago)
 
 ### 🌱 My latest projects
@@ -31,11 +31,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.37.0](https://github.com/renovatebot/renovate/releases/tag/35.37.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.11.0-beta.6](https://github.com/misskey-dev/misskey/releases/tag/13.11.0-beta.6), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.2](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.2), 3 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.30](https://github.com/vector-im/element-android/releases/tag/v1.5.30), 3 days ago) - A glossy Matrix collaboration client for Android.
-- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) ([v0.2.8-2](https://github.com/pkgs-hub/vyatta-zia-server/releases/tag/v0.2.8-2), 5 days ago) - Debian (Vyatta) package for zia-server
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.11.1](https://github.com/misskey-dev/misskey/releases/tag/13.11.1), today) - 🌎 An interplanetary microblogging platform 🚀
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.39.0](https://github.com/renovatebot/renovate/releases/tag/35.39.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.2](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.2), 4 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.30](https://github.com/vector-im/element-android/releases/tag/v1.5.30), 4 days ago) - A glossy Matrix collaboration client for Android.
+- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) ([v0.2.8-2](https://github.com/pkgs-hub/vyatta-zia-server/releases/tag/v0.2.8-2), 6 days ago) - Debian (Vyatta) package for zia-server
 
 ### 🔨 Latest Pull Requests I published
 
