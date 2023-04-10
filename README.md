@@ -16,9 +16,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 👷 Check out what I'm currently working on
 
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 day ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (4 days ago)
-- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) - Debian (Vyatta) package for zia-server (6 days ago)
-- [os-builds/vyos](https://github.com/os-builds/vyos) (6 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (5 days ago)
+- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) - Debian (Vyatta) package for zia-server (1 week ago)
+- [os-builds/vyos](https://github.com/os-builds/vyos) (1 week ago)
 - [MarcelCoding/symphony](https://github.com/MarcelCoding/symphony) (1 week ago)
 
 ### 🌱 My latest projects
@@ -31,16 +31,16 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.11.1](https://github.com/misskey-dev/misskey/releases/tag/13.11.1), today) - 🌎 An interplanetary microblogging platform 🚀
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.39.0](https://github.com/renovatebot/renovate/releases/tag/35.39.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.2](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.2), 4 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.30](https://github.com/vector-im/element-android/releases/tag/v1.5.30), 4 days ago) - A glossy Matrix collaboration client for Android.
-- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) ([v0.2.8-2](https://github.com/pkgs-hub/vyatta-zia-server/releases/tag/v0.2.8-2), 6 days ago) - Debian (Vyatta) package for zia-server
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.40.0](https://github.com/renovatebot/renovate/releases/tag/35.40.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.11.1](https://github.com/misskey-dev/misskey/releases/tag/13.11.1), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.2](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.2), 5 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.30](https://github.com/vector-im/element-android/releases/tag/v1.5.30), 5 days ago) - A glossy Matrix collaboration client for Android.
+- [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) ([v0.2.8-2](https://github.com/pkgs-hub/vyatta-zia-server/releases/tag/v0.2.8-2), 1 week ago) - Debian (Vyatta) package for zia-server
 
 ### 🔨 Latest Pull Requests I published
 
 - [wip](https://github.com/MarcelCoding/symphony/pull/1) on [MarcelCoding/symphony](https://github.com/MarcelCoding/symphony) (1 week ago)
-- [Updated to 0.2.8](https://github.com/pkgs-hub/vyatta-zia-server/pull/3) on [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) (2 weeks ago)
+- [Updated to 0.2.8](https://github.com/pkgs-hub/vyatta-zia-server/pull/3) on [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) (3 weeks ago)
 - [Reactive sidebar](https://github.com/tlm-solutions/windshield/pull/25) on [tlm-solutions/windshield](https://github.com/tlm-solutions/windshield) (1 month ago)
 - [Added linux/arm64/v8 docker build](https://github.com/MarcelCoding/jitsi-openid/pull/183) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (1 month ago)
 - [Replace bash process with java process instead of creating a sub process](https://github.com/dbeaver/cloudbeaver/pull/1452) on [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) (2 months ago)
@@ -51,8 +51,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 day ago)
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (2 months ago)
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust (2 months ago)
 - [aler9/mediamtx](https://github.com/aler9/mediamtx) - Also known as rtsp-simple-server. ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. (3 months ago)
 - [vinceliuice/Lavanda-gtk-theme](https://github.com/vinceliuice/Lavanda-gtk-theme) - Lavanda gtk theme for linux desktops (4 months ago)
-- [matrix-org/rust-synapse-compress-state](https://github.com/matrix-org/rust-synapse-compress-state) - A tool to compress some state in a Synapse instance&#39;s database (7 months ago)
