@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 day ago)
-- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (1 day ago)
-- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 day ago)
-- [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) - service for maintaining regions, stations and users (6 days ago)
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 week ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (2 days ago)
+- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (2 days ago)
+- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (2 days ago)
+- [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) - service for maintaining regions, stations and users (1 week ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -31,17 +31,17 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-3](https://github.com/os-builds/vyos/releases/tag/1.3.2-3), 1 day ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.57.1](https://github.com/renovatebot/renovate/releases/tag/35.57.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.32](https://github.com/vector-im/element-android/releases/tag/v1.5.32), 4 days ago) - A glossy Matrix collaboration client for Android.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.58.0](https://github.com/renovatebot/renovate/releases/tag/35.58.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-3](https://github.com/os-builds/vyos/releases/tag/1.3.2-3), 2 days ago)
+- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.32](https://github.com/vector-im/element-android/releases/tag/v1.5.32), 5 days ago) - A glossy Matrix collaboration client for Android.
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.0.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.0.0), 1 week ago) - OpenID Connect Library for Rust
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.11.3](https://github.com/misskey-dev/misskey/releases/tag/13.11.3), 1 week ago) - 🌎 An interplanetary microblogging platform 🚀
 
 ### 🔨 Latest Pull Requests I published
 
-- [Fixed nginx config](https://github.com/tlm-solutions/nix-config/pull/16) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (2 days ago)
-- [kid-locales](https://github.com/tlm-solutions/nix-config/pull/15) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (2 days ago)
-- [Added endpoint to query reporting points with a given region](https://github.com/tlm-solutions/datacare/pull/26) on [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) (6 days ago)
+- [Fixed nginx config](https://github.com/tlm-solutions/nix-config/pull/16) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (3 days ago)
+- [kid-locales](https://github.com/tlm-solutions/nix-config/pull/15) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (3 days ago)
+- [Added endpoint to query reporting points with a given region](https://github.com/tlm-solutions/datacare/pull/26) on [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) (1 week ago)
 - [wip](https://github.com/MarcelCoding/symphony/pull/1) on [MarcelCoding/symphony](https://github.com/MarcelCoding/symphony) (3 weeks ago)
 - [Updated to 0.2.8](https://github.com/pkgs-hub/vyatta-zia-server/pull/3) on [pkgs-hub/vyatta-zia-server](https://github.com/pkgs-hub/vyatta-zia-server) (1 month ago)
 
