@@ -16,9 +16,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 👷 Check out what I'm currently working on
 
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 day ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (2 days ago)
-- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (4 days ago)
-- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (6 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (3 days ago)
+- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (5 days ago)
+- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 week ago)
 - [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) - service for maintaining regions, stations and users (1 week ago)
 
 ### 🌱 My latest projects
@@ -31,10 +31,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.63.2](https://github.com/renovatebot/renovate/releases/tag/35.63.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.3](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.3), 2 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.64.0](https://github.com/renovatebot/renovate/releases/tag/35.64.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.3](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.3), 3 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.32](https://github.com/vector-im/element-android/releases/tag/v1.5.32), 1 week ago) - A glossy Matrix collaboration client for Android.
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.0.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.0.0), 1 week ago) - OpenID Connect Library for Rust
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.0.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.0.0), 2 weeks ago) - OpenID Connect Library for Rust
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.11.3](https://github.com/misskey-dev/misskey/releases/tag/13.11.3), 2 weeks ago) - 🌎 An interplanetary microblogging platform 🚀
 
 ### 🔨 Latest Pull Requests I published
