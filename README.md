@@ -15,33 +15,33 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (3 days ago)
-- [os-builds/vyos](https://github.com/os-builds/vyos) (4 days ago)
-- [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) - service for maintaining regions, stations and users (4 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (4 days ago)
-- [tlm-solutions/stasi](https://github.com/tlm-solutions/stasi) - tracks your, bus and trams every move (1 week ago)
+- [MarcelCoding/view](https://github.com/MarcelCoding/view) (1 day ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (4 days ago)
+- [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) - service for maintaining regions, stations and users (5 days ago)
+- [os-builds/vyos](https://github.com/os-builds/vyos) (5 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (5 days ago)
 
 ### 🌱 My latest projects
 
+- [MarcelCoding/view](https://github.com/MarcelCoding/view)
 - [MarcelCoding/symphony](https://github.com/MarcelCoding/symphony)
 - [MarcelCoding/rdns](https://github.com/MarcelCoding/rdns)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [MarcelCoding/ftp-hetzner-test](https://github.com/MarcelCoding/ftp-hetzner-test)
-- [MarcelCoding/dns-hole](https://github.com/MarcelCoding/dns-hole) - DNS formwarder with support for DNS over HTTPS upstreams, caching and blocking of domains
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.71.0](https://github.com/renovatebot/renovate/releases/tag/35.71.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.4), 3 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-4](https://github.com/os-builds/vyos/releases/tag/1.3.2-4), 4 days ago)
-- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.1.4-2](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.1.4-2), 4 days ago) - Debian (Vyatta) package for frr_exporter
-- [vector-im/element-android](https://github.com/vector-im/element-android) ([v1.5.32](https://github.com/vector-im/element-android/releases/tag/v1.5.32), 2 weeks ago) - A glossy Matrix collaboration client for Android.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.12.0-beta.1](https://github.com/misskey-dev/misskey/releases/tag/13.12.0-beta.1), today) - 🌎 An interplanetary microblogging platform 🚀
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.71.3](https://github.com/renovatebot/renovate/releases/tag/35.71.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.4), 4 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-4](https://github.com/os-builds/vyos/releases/tag/1.3.2-4), 5 days ago)
+- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.1.4-2](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.1.4-2), 5 days ago) - Debian (Vyatta) package for frr_exporter
 
 ### 🔨 Latest Pull Requests I published
 
-- [Fixed swagger](https://github.com/tlm-solutions/datacare/pull/28) on [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) (4 days ago)
-- [Fixed nginx config](https://github.com/tlm-solutions/nix-config/pull/16) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 week ago)
-- [kid-locales](https://github.com/tlm-solutions/nix-config/pull/15) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 week ago)
+- [Fixed swagger](https://github.com/tlm-solutions/datacare/pull/28) on [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) (5 days ago)
+- [Fixed nginx config](https://github.com/tlm-solutions/nix-config/pull/16) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (2 weeks ago)
+- [kid-locales](https://github.com/tlm-solutions/nix-config/pull/15) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (2 weeks ago)
 - [Added endpoint to query reporting points with a given region](https://github.com/tlm-solutions/datacare/pull/26) on [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) (2 weeks ago)
 - [wip](https://github.com/MarcelCoding/symphony/pull/1) on [MarcelCoding/symphony](https://github.com/MarcelCoding/symphony) (1 month ago)
 
