@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 day ago)
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (4 days ago)
-- [MarcelCoding/view](https://github.com/MarcelCoding/view) - Cloudflare Pages web server but self-hosted (6 days ago)
-- [os-builds/vyos](https://github.com/os-builds/vyos) (1 week ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 week ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (2 days ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (5 days ago)
+- [MarcelCoding/view](https://github.com/MarcelCoding/view) - Cloudflare Pages web server but self-hosted (1 week ago)
+- [os-builds/vyos](https://github.com/os-builds/vyos) (2 weeks ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -31,16 +31,16 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.80.2](https://github.com/renovatebot/renovate/releases/tag/35.80.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.12.2](https://github.com/misskey-dev/misskey/releases/tag/13.12.2), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.7](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.7), 4 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.82.0](https://github.com/renovatebot/renovate/releases/tag/35.82.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.12.2](https://github.com/misskey-dev/misskey/releases/tag/13.12.2), 2 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.7](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.7), 5 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.4), 1 week ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-4](https://github.com/os-builds/vyos/releases/tag/1.3.2-4), 1 week ago)
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-4](https://github.com/os-builds/vyos/releases/tag/1.3.2-4), 2 weeks ago)
 
 ### 🔨 Latest Pull Requests I published
 
-- [Improved changes where a cancel is being replaced](https://github.com/MarcelCoding/bszet-mind/pull/16) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (5 days ago)
-- [Fixed swagger](https://github.com/tlm-solutions/datacare/pull/28) on [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) (1 week ago)
+- [Improved changes where a cancel is being replaced](https://github.com/MarcelCoding/bszet-mind/pull/16) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (6 days ago)
+- [Fixed swagger](https://github.com/tlm-solutions/datacare/pull/28) on [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) (2 weeks ago)
 - [Fixed nginx config](https://github.com/tlm-solutions/nix-config/pull/16) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (3 weeks ago)
 - [kid-locales](https://github.com/tlm-solutions/nix-config/pull/15) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (3 weeks ago)
 - [Added endpoint to query reporting points with a given region](https://github.com/tlm-solutions/datacare/pull/26) on [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) (3 weeks ago)
