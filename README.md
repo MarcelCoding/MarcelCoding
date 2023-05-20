@@ -31,8 +31,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.13.0-beta.2](https://github.com/misskey-dev/misskey/releases/tag/13.13.0-beta.2), today) - 🌎 An interplanetary microblogging platform 🚀
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.95.1](https://github.com/renovatebot/renovate/releases/tag/35.95.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.96.3](https://github.com/renovatebot/renovate/releases/tag/35.96.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.13.0-beta.2](https://github.com/misskey-dev/misskey/releases/tag/13.13.0-beta.2), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.7](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.7), 1 week ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.4), 2 weeks ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.2-4](https://github.com/os-builds/vyos/releases/tag/1.3.2-4), 2 weeks ago)
