@@ -31,15 +31,15 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.102.10](https://github.com/renovatebot/renovate/releases/tag/35.102.10), today) - Universal dependency update tool that fits into your workflows.
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.1.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.1.0), 1 day ago) - OpenID Connect Library for Rust
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.103.0](https://github.com/renovatebot/renovate/releases/tag/35.103.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.1.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.1.1), 1 day ago) - OpenID Connect Library for Rust
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.8](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.8), 1 week ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.13.0-beta.3](https://github.com/misskey-dev/misskey/releases/tag/13.13.0-beta.3), 1 week ago) - 🌎 An interplanetary microblogging platform 🚀
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.4), 3 weeks ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.4), 4 weeks ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Improved changes where a cancel is being replaced](https://github.com/MarcelCoding/bszet-mind/pull/16) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (2 weeks ago)
+- [Improved changes where a cancel is being replaced](https://github.com/MarcelCoding/bszet-mind/pull/16) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (3 weeks ago)
 - [Fixed swagger](https://github.com/tlm-solutions/datacare/pull/28) on [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) (4 weeks ago)
 - [Fixed nginx config](https://github.com/tlm-solutions/nix-config/pull/16) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 month ago)
 - [kid-locales](https://github.com/tlm-solutions/nix-config/pull/15) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 month ago)
