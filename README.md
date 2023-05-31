@@ -15,7 +15,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 week ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 day ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (2 weeks ago)
 - [MarcelCoding/view](https://github.com/MarcelCoding/view) - Cloudflare Pages web server but self-hosted (3 weeks ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) (1 month ago)
@@ -31,11 +31,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.105.0](https://github.com/renovatebot/renovate/releases/tag/35.105.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.13.0-beta.4](https://github.com/misskey-dev/misskey/releases/tag/13.13.0-beta.4), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.1.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.1.1), 2 days ago) - OpenID Connect Library for Rust
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.8](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.8), 1 week ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.4), 4 weeks ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.105.2](https://github.com/renovatebot/renovate/releases/tag/35.105.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.9](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.9), 1 day ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.13.0-beta.5](https://github.com/misskey-dev/misskey/releases/tag/13.13.0-beta.5), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.1.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.1.1), 3 days ago) - OpenID Connect Library for Rust
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.4), 1 month ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 
 ### 🔨 Latest Pull Requests I published
 
