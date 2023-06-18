@@ -31,8 +31,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.124.1](https://github.com/renovatebot/renovate/releases/tag/35.124.1), today) - Universal dependency update tool that fits into your workflows.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.13.2](https://github.com/misskey-dev/misskey/releases/tag/13.13.2), 4 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.126.0](https://github.com/renovatebot/renovate/releases/tag/35.126.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.13.2](https://github.com/misskey-dev/misskey/releases/tag/13.13.2), 5 days ago) - 🌎 An interplanetary microblogging platform 🚀
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.2.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.2.0), 1 week ago) - OpenID Connect Library for Rust
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.9](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.9), 2 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.4), 1 month ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
