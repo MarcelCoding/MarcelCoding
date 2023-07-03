@@ -19,7 +19,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 week ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (3 weeks ago)
 - [MarcelCoding/view](https://github.com/MarcelCoding/view) - Cloudflare Pages web server but self-hosted (1 month ago)
-- [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) - service for maintaining regions, stations and users (2 months ago)
+- [os-builds/vyos](https://github.com/os-builds/vyos) (2 months ago)
 
 ### 🌱 My latest projects
 
@@ -31,10 +31,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.156.0](https://github.com/renovatebot/renovate/releases/tag/35.156.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.158.0](https://github.com/renovatebot/renovate/releases/tag/35.158.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.10](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.10), 1 week ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.13.2](https://github.com/misskey-dev/misskey/releases/tag/13.13.2), 2 weeks ago) - 🌎 An interplanetary microblogging platform 🚀
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.2.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.2.0), 3 weeks ago) - OpenID Connect Library for Rust
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.2.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.2.0), 4 weeks ago) - OpenID Connect Library for Rust
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.4), 2 months ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 
 ### 🔨 Latest Pull Requests I published
@@ -54,5 +54,5 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (2 months ago)
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (5 months ago)
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust (5 months ago)
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams. Formerly known as rtsp-simple-server. (6 months ago)
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC media server and media proxy that allows to read, publish and proxy video and audio streams. (6 months ago)
 - [vinceliuice/Lavanda-gtk-theme](https://github.com/vinceliuice/Lavanda-gtk-theme) - Lavanda gtk theme for linux desktops (7 months ago)
