@@ -18,7 +18,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [offsetting/matryoshka](https://github.com/offsetting/matryoshka) (2 weeks ago)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 weeks ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (3 weeks ago)
-- [MarcelCoding/view](https://github.com/MarcelCoding/view) - Cloudflare Pages web server but self-hosted (1 month ago)
+- [MarcelCoding/view](https://github.com/MarcelCoding/view) - Cloudflare Pages web server but self-hosted (2 months ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) (2 months ago)
 
 ### 🌱 My latest projects
@@ -31,7 +31,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.0.0](https://github.com/renovatebot/renovate/releases/tag/36.0.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.1.7](https://github.com/renovatebot/renovate/releases/tag/36.1.7), today) - Universal dependency update tool that fits into your workflows.
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.10](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.10), 2 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.13.2](https://github.com/misskey-dev/misskey/releases/tag/13.13.2), 3 weeks ago) - 🌎 An interplanetary microblogging platform 🚀
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.2.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.2.0), 1 month ago) - OpenID Connect Library for Rust
