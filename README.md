@@ -31,7 +31,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.1.7](https://github.com/renovatebot/renovate/releases/tag/36.1.7), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.1.16](https://github.com/renovatebot/renovate/releases/tag/36.1.16), today) - Universal dependency update tool that fits into your workflows.
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.10](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.10), 2 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.13.2](https://github.com/misskey-dev/misskey/releases/tag/13.13.2), 3 weeks ago) - 🌎 An interplanetary microblogging platform 🚀
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.2.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.2.0), 1 month ago) - OpenID Connect Library for Rust
@@ -39,7 +39,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Improved changes where a cancel is being replaced](https://github.com/MarcelCoding/bszet-mind/pull/16) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (1 month ago)
+- [Improved changes where a cancel is being replaced](https://github.com/MarcelCoding/bszet-mind/pull/16) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (2 months ago)
 - [Fixed swagger](https://github.com/tlm-solutions/datacare/pull/28) on [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) (2 months ago)
 - [Fixed nginx config](https://github.com/tlm-solutions/nix-config/pull/16) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (2 months ago)
 - [kid-locales](https://github.com/tlm-solutions/nix-config/pull/15) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (2 months ago)
