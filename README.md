@@ -16,9 +16,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 👷 Check out what I'm currently working on
 
 - [dd-ix/website](https://github.com/dd-ix/website) (1 day ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (2 days ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (3 days ago)
 - [offsetting/matryoshka](https://github.com/offsetting/matryoshka) (2 weeks ago)
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 weeks ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (3 weeks ago)
 - [MarcelCoding/view](https://github.com/MarcelCoding/view) - Cloudflare Pages web server but self-hosted (2 months ago)
 
 ### 🌱 My latest projects
@@ -31,9 +31,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.6.0](https://github.com/renovatebot/renovate/releases/tag/36.6.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.14.0-beta.2](https://github.com/misskey-dev/misskey/releases/tag/13.14.0-beta.2), 2 days ago) - 🌎 An interplanetary microblogging platform 🚀
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.10](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.10), 2 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.7.0](https://github.com/renovatebot/renovate/releases/tag/36.7.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.14.0-beta.2](https://github.com/misskey-dev/misskey/releases/tag/13.14.0-beta.2), 3 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.10](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.10), 3 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.2.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.2.0), 1 month ago) - OpenID Connect Library for Rust
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.4), 2 months ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 
