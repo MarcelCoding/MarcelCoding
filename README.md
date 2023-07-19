@@ -16,9 +16,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 👷 Check out what I'm currently working on
 
 - [dd-ix/presence](https://github.com/dd-ix/presence) (1 day ago)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (1 day ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 days ago)
-- [dd-ix/website](https://github.com/dd-ix/website) (5 days ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (2 days ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (3 days ago)
+- [dd-ix/website](https://github.com/dd-ix/website) (6 days ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 week ago)
 
 ### 🌱 My latest projects
@@ -31,8 +31,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.9.1](https://github.com/renovatebot/renovate/releases/tag/36.9.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.14.0-beta.5](https://github.com/misskey-dev/misskey/releases/tag/13.14.0-beta.5), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.10.1](https://github.com/renovatebot/renovate/releases/tag/36.10.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.14.0-beta.6](https://github.com/misskey-dev/misskey/releases/tag/13.14.0-beta.6), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.3.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.3.0), 1 week ago) - OpenID Connect Library for Rust
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.10](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.10), 4 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.4](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.4), 2 months ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
