@@ -15,23 +15,23 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 day ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 days ago)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (2 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (2 days ago)
-- [os-builds/vyos](https://github.com/os-builds/vyos) (1 week ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (1 day ago)
+- [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) (1 day ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 days ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (3 days ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (3 days ago)
 
 ### 🌱 My latest projects
 
+- [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch)
 - [MarcelCoding/view](https://github.com/MarcelCoding/view) - Cloudflare Pages web server but self-hosted
 - [MarcelCoding/symphony](https://github.com/MarcelCoding/symphony)
 - [MarcelCoding/rdns](https://github.com/MarcelCoding/rdns)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
-- [MarcelCoding/ftp-hetzner-test](https://github.com/MarcelCoding/ftp-hetzner-test)
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.31.0](https://github.com/renovatebot/renovate/releases/tag/36.31.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.33.4](https://github.com/renovatebot/renovate/releases/tag/36.33.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.14.2](https://github.com/misskey-dev/misskey/releases/tag/13.14.2), 1 week ago) - 🌎 An interplanetary microblogging platform 🚀
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-1](https://github.com/os-builds/vyos/releases/tag/1.3.3-1), 1 week ago)
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.3.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.3.0), 3 weeks ago) - OpenID Connect Library for Rust
