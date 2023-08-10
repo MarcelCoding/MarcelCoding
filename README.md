@@ -15,9 +15,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) (3 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (5 days ago)
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (6 days ago)
+- [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) (4 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (6 days ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 week ago)
 - [dd-ix/website-content](https://github.com/dd-ix/website-content) (1 week ago)
 - [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
 
@@ -31,10 +31,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.40.0](https://github.com/renovatebot/renovate/releases/tag/36.40.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.14.2](https://github.com/misskey-dev/misskey/releases/tag/13.14.2), 1 week ago) - 🌎 An interplanetary microblogging platform 🚀
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.40.4](https://github.com/renovatebot/renovate/releases/tag/36.40.4), today) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.14.2](https://github.com/misskey-dev/misskey/releases/tag/13.14.2), 2 weeks ago) - 🌎 An interplanetary microblogging platform 🚀
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-1](https://github.com/os-builds/vyos/releases/tag/1.3.3-1), 2 weeks ago)
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.3.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.3.0), 4 weeks ago) - OpenID Connect Library for Rust
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.3.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.3.0), 1 month ago) - OpenID Connect Library for Rust
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.10](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.10), 1 month ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 
 ### 🔨 Latest Pull Requests I published
