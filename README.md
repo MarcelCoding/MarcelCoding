@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 days ago)
-- [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) (2 days ago)
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (3 days ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (3 days ago)
+- [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) (3 days ago)
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (4 days ago)
 - [dd-ix/presence](https://github.com/dd-ix/presence) (1 week ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -31,16 +31,16 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.44.0](https://github.com/renovatebot/renovate/releases/tag/36.44.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) ([v0.0.1](https://github.com/MarcelCoding/egsch/releases/tag/v0.0.1), 2 days ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.46.0](https://github.com/renovatebot/renovate/releases/tag/36.46.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) ([v0.0.1](https://github.com/MarcelCoding/egsch/releases/tag/v0.0.1), 3 days ago)
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([13.14.2](https://github.com/misskey-dev/misskey/releases/tag/13.14.2), 2 weeks ago) - 🌎 An interplanetary microblogging platform 🚀
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-1](https://github.com/os-builds/vyos/releases/tag/1.3.3-1), 3 weeks ago)
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.3.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.3.0), 1 month ago) - OpenID Connect Library for Rust
 
 ### 🔨 Latest Pull Requests I published
 
-- [Update package.json](https://github.com/dd-ix/presence/pull/5) on [dd-ix/presence](https://github.com/dd-ix/presence) (2 weeks ago)
-- [Added docker image](https://github.com/dd-ix/presence/pull/4) on [dd-ix/presence](https://github.com/dd-ix/presence) (2 weeks ago)
+- [Update package.json](https://github.com/dd-ix/presence/pull/5) on [dd-ix/presence](https://github.com/dd-ix/presence) (3 weeks ago)
+- [Added docker image](https://github.com/dd-ix/presence/pull/4) on [dd-ix/presence](https://github.com/dd-ix/presence) (3 weeks ago)
 - [Improved changes where a cancel is being replaced](https://github.com/MarcelCoding/bszet-mind/pull/16) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (3 months ago)
 - [Fixed swagger](https://github.com/tlm-solutions/datacare/pull/28) on [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) (3 months ago)
 - [Fixed nginx config](https://github.com/tlm-solutions/nix-config/pull/16) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (3 months ago)
