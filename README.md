@@ -15,7 +15,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (6 days ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 week ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
 - [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) (1 week ago)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 week ago)
@@ -31,17 +31,17 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.57.4](https://github.com/renovatebot/renovate/releases/tag/36.57.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.9](https://github.com/MarcelCoding/zia/releases/tag/v0.2.9), 1 day ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.0-beta.2](https://github.com/misskey-dev/misskey/releases/tag/2023.9.0-beta.2), 3 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.57.10](https://github.com/renovatebot/renovate/releases/tag/36.57.10), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.9](https://github.com/MarcelCoding/zia/releases/tag/v0.2.9), 2 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.0-beta.2](https://github.com/misskey-dev/misskey/releases/tag/2023.9.0-beta.2), 4 days ago) - 🌎 An interplanetary microblogging platform 🚀
 - [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) ([v0.0.1](https://github.com/MarcelCoding/egsch/releases/tag/v0.0.1), 1 week ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-1](https://github.com/os-builds/vyos/releases/tag/1.3.3-1), 1 month ago)
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added @feel](https://github.com/tlm-solutions/kindergarten/pull/14) on [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) (6 days ago)
-- [Update package.json](https://github.com/dd-ix/presence/pull/5) on [dd-ix/presence](https://github.com/dd-ix/presence) (4 weeks ago)
-- [Added docker image](https://github.com/dd-ix/presence/pull/4) on [dd-ix/presence](https://github.com/dd-ix/presence) (4 weeks ago)
+- [Added @feel](https://github.com/tlm-solutions/kindergarten/pull/14) on [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) (1 week ago)
+- [Update package.json](https://github.com/dd-ix/presence/pull/5) on [dd-ix/presence](https://github.com/dd-ix/presence) (1 month ago)
+- [Added docker image](https://github.com/dd-ix/presence/pull/4) on [dd-ix/presence](https://github.com/dd-ix/presence) (1 month ago)
 - [Improved changes where a cancel is being replaced](https://github.com/MarcelCoding/bszet-mind/pull/16) on [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) (3 months ago)
 - [Fixed swagger](https://github.com/tlm-solutions/datacare/pull/28) on [tlm-solutions/datacare](https://github.com/tlm-solutions/datacare) (3 months ago)
 
