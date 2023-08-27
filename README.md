@@ -18,7 +18,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 week ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
 - [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) (1 week ago)
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 week ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 weeks ago)
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (2 weeks ago)
 
 ### 🌱 My latest projects
@@ -31,10 +31,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.64.1](https://github.com/renovatebot/renovate/releases/tag/36.64.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.9](https://github.com/MarcelCoding/zia/releases/tag/v0.2.9), 3 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.0-beta.2](https://github.com/misskey-dev/misskey/releases/tag/2023.9.0-beta.2), 5 days ago) - 🌎 An interplanetary microblogging platform 🚀
-- [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) ([v0.0.1](https://github.com/MarcelCoding/egsch/releases/tag/v0.0.1), 1 week ago)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.64.6](https://github.com/renovatebot/renovate/releases/tag/36.64.6), today) - Universal dependency update tool that fits into your workflows.
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.9](https://github.com/MarcelCoding/zia/releases/tag/v0.2.9), 4 days ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.0-beta.2](https://github.com/misskey-dev/misskey/releases/tag/2023.9.0-beta.2), 6 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) ([v0.0.1](https://github.com/MarcelCoding/egsch/releases/tag/v0.0.1), 2 weeks ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-1](https://github.com/os-builds/vyos/releases/tag/1.3.3-1), 1 month ago)
 
 ### 🔨 Latest Pull Requests I published
