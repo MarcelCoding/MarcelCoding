@@ -15,8 +15,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/presence](https://github.com/dd-ix/presence) (3 days ago)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (3 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (1 day ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (4 days ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (2 weeks ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (2 weeks ago)
 - [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) (2 weeks ago)
@@ -31,10 +31,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.78.7](https://github.com/renovatebot/renovate/releases/tag/36.78.7), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.78.8](https://github.com/renovatebot/renovate/releases/tag/36.78.8), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.9](https://github.com/MarcelCoding/zia/releases/tag/v0.2.9), 1 week ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.0-beta.2](https://github.com/misskey-dev/misskey/releases/tag/2023.9.0-beta.2), 1 week ago) - 🌎 An interplanetary microblogging platform 🚀
-- [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) ([v0.0.1](https://github.com/MarcelCoding/egsch/releases/tag/v0.0.1), 2 weeks ago)
+- [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) ([v0.0.1](https://github.com/MarcelCoding/egsch/releases/tag/v0.0.1), 3 weeks ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-1](https://github.com/os-builds/vyos/releases/tag/1.3.3-1), 1 month ago)
 
 ### 🔨 Latest Pull Requests I published
