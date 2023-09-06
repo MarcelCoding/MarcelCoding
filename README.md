@@ -17,8 +17,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 - [dd-ix/website-content](https://github.com/dd-ix/website-content) (1 day ago)
 - [dd-ix/presence](https://github.com/dd-ix/presence) (1 day ago)
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 days ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 days ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (3 days ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (3 days ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (2 weeks ago)
 
 ### 🌱 My latest projects
@@ -31,10 +31,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.81.0](https://github.com/renovatebot/renovate/releases/tag/36.81.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.12](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.12), 1 day ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.9](https://github.com/MarcelCoding/zia/releases/tag/v0.2.9), 1 week ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.0-beta.2](https://github.com/misskey-dev/misskey/releases/tag/2023.9.0-beta.2), 2 weeks ago) - 🌎 An interplanetary microblogging platform 🚀
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.82.0](https://github.com/renovatebot/renovate/releases/tag/36.82.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.0-beta.3](https://github.com/misskey-dev/misskey/releases/tag/2023.9.0-beta.3), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.12](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.12), 2 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.9](https://github.com/MarcelCoding/zia/releases/tag/v0.2.9), 2 weeks ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 - [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) ([v0.0.1](https://github.com/MarcelCoding/egsch/releases/tag/v0.0.1), 3 weeks ago)
 
 ### 🔨 Latest Pull Requests I published
@@ -51,7 +51,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (4 months ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (5 months ago)
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (7 months ago)
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust (7 months ago)
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish and proxy video and audio streams. (8 months ago)
