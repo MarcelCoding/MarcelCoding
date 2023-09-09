@@ -15,10 +15,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/presence](https://github.com/dd-ix/presence) (1 day ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (today)
 - [dd-ix/website-content](https://github.com/dd-ix/website-content) (1 day ago)
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (5 days ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (5 days ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 day ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (6 days ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (3 weeks ago)
 
 ### 🌱 My latest projects
@@ -31,9 +31,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.0-beta.4](https://github.com/misskey-dev/misskey/releases/tag/2023.9.0-beta.4), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.3.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.3.1), 1 day ago) - OpenID Connect Library for Rust
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.12](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.12), 4 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.0-beta.5](https://github.com/misskey-dev/misskey/releases/tag/2023.9.0-beta.5), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.3.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.3.1), 2 days ago) - OpenID Connect Library for Rust
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.12](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.12), 5 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.9](https://github.com/MarcelCoding/zia/releases/tag/v0.2.9), 2 weeks ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 - [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch) ([v0.0.1](https://github.com/MarcelCoding/egsch/releases/tag/v0.0.1), 3 weeks ago)
 
