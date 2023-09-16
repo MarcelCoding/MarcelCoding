@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
+- [os-builds/vyos](https://github.com/os-builds/vyos) (1 day ago)
 - [dd-ix/presence](https://github.com/dd-ix/presence) (1 day ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 day ago)
-- [offsetting/feel](https://github.com/offsetting/feel) (4 days ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (5 days ago)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (6 days ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (2 days ago)
+- [offsetting/feel](https://github.com/offsetting/feel) (5 days ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,11 +31,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.3](https://github.com/offsetting/feel/releases/tag/v0.0.3), 4 days ago)
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.0-beta.5](https://github.com/misskey-dev/misskey/releases/tag/2023.9.0-beta.5), 1 week ago) - 🌎 An interplanetary microblogging platform 🚀
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-2](https://github.com/os-builds/vyos/releases/tag/1.3.3-2), 1 day ago)
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.0-beta.6](https://github.com/misskey-dev/misskey/releases/tag/2023.9.0-beta.6), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.3](https://github.com/offsetting/feel/releases/tag/v0.0.3), 5 days ago)
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.3.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.3.1), 1 week ago) - OpenID Connect Library for Rust
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.12](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.12), 1 week ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) ([v0.2.9](https://github.com/MarcelCoding/zia/releases/tag/v0.2.9), 3 weeks ago) - Proxy udp over websocket, useful to use Wireguard in restricted networks.
 
 ### 🔨 Latest Pull Requests I published
 
@@ -51,7 +51,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app (1 day ago)
+- [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app (2 days ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (5 months ago)
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (7 months ago)
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust (7 months ago)
