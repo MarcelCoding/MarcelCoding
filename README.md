@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (2 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (2 days ago)
-- [offsetting/feel](https://github.com/offsetting/feel) (2 days ago)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (4 days ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (5 days ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (3 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (3 days ago)
+- [offsetting/feel](https://github.com/offsetting/feel) (3 days ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (5 days ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,15 +31,15 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.0](https://github.com/misskey-dev/misskey/releases/tag/2023.9.0), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.13](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.13), 2 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
-- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.5](https://github.com/offsetting/feel/releases/tag/v0.0.5), 2 days ago)
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.1](https://github.com/misskey-dev/misskey/releases/tag/2023.9.1), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.13](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.13), 3 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.5](https://github.com/offsetting/feel/releases/tag/v0.0.5), 3 days ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-2](https://github.com/os-builds/vyos/releases/tag/1.3.3-2), 1 week ago)
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.3.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.3.1), 2 weeks ago) - OpenID Connect Library for Rust
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added hackday 01 news article](https://github.com/dd-ix/website-content/pull/5) on [dd-ix/website-content](https://github.com/dd-ix/website-content) (6 days ago)
+- [Added hackday 01 news article](https://github.com/dd-ix/website-content/pull/5) on [dd-ix/website-content](https://github.com/dd-ix/website-content) (1 week ago)
 - [Added @feel](https://github.com/tlm-solutions/kindergarten/pull/14) on [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) (1 month ago)
 - [Update package.json](https://github.com/dd-ix/presence/pull/5) on [dd-ix/presence](https://github.com/dd-ix/presence) (2 months ago)
 - [Added docker image](https://github.com/dd-ix/presence/pull/4) on [dd-ix/presence](https://github.com/dd-ix/presence) (2 months ago)
