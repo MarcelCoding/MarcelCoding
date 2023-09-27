@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (3 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (3 days ago)
-- [offsetting/feel](https://github.com/offsetting/feel) (3 days ago)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (5 days ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (6 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (1 day ago)
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (4 days ago)
+- [offsetting/feel](https://github.com/offsetting/feel) (4 days ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (6 days ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -31,9 +31,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.1](https://github.com/misskey-dev/misskey/releases/tag/2023.9.1), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.13](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.13), 3 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
-- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.5](https://github.com/offsetting/feel/releases/tag/v0.0.5), 3 days ago)
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.9.1](https://github.com/misskey-dev/misskey/releases/tag/2023.9.1), 2 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.13](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.13), 4 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.5](https://github.com/offsetting/feel/releases/tag/v0.0.5), 4 days ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-2](https://github.com/os-builds/vyos/releases/tag/1.3.3-2), 1 week ago)
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.3.1](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.3.1), 2 weeks ago) - OpenID Connect Library for Rust
 
@@ -53,6 +53,6 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app (1 week ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (5 months ago)
-- [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (7 months ago)
+- [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (8 months ago)
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust (8 months ago)
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams. (8 months ago)
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams. (9 months ago)
