@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dresden-zone/dns](https://github.com/dresden-zone/dns) (today)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (2 days ago)
-- [offsetting/feel](https://github.com/offsetting/feel) (3 days ago)
-- [MarcelCoding/wsocket](https://github.com/MarcelCoding/wsocket) - Lighweight, fast and native WebSocket implementation for Rust. (4 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (1 week ago)
+- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) - Wireguard Peer Manager API for VyOS (1 day ago)
+- [dresden-zone/dns](https://github.com/dresden-zone/dns) (1 day ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (3 days ago)
+- [offsetting/feel](https://github.com/offsetting/feel) (4 days ago)
+- [MarcelCoding/wsocket](https://github.com/MarcelCoding/wsocket) - Lighweight, fast and native WebSocket implementation for Rust. (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,16 +31,16 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.10.0-beta.8](https://github.com/misskey-dev/misskey/releases/tag/2023.10.0-beta.8), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-3](https://github.com/os-builds/vyos/releases/tag/1.3.3-3), 6 days ago)
-- [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.6.1-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.6.1-1), 6 days ago) - Debian (Vyatta) package for node_exporter
-- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.2.0-1](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.2.0-1), 6 days ago) - Debian (Vyatta) package for frr_exporter
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.13](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.13), 2 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 1 day ago) - VyOS build in github actions with custom vyatta packages.
+- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 1 day ago) - Wireguard Peer Manager API for VyOS
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.10.0-beta.9](https://github.com/misskey-dev/misskey/releases/tag/2023.10.0-beta.9), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.6.1-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.6.1-1), 1 week ago) - Debian (Vyatta) package for node_exporter
+- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.2.0-1](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.2.0-1), 1 week ago) - Debian (Vyatta) package for frr_exporter
 
 ### 🔨 Latest Pull Requests I published
 
-- [Update README.md](https://github.com/MarcelCoding/zia/pull/106) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (5 days ago)
-- [Rewrite](https://github.com/MarcelCoding/zia/pull/105) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (6 days ago)
+- [Update README.md](https://github.com/MarcelCoding/zia/pull/106) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (6 days ago)
+- [Rewrite](https://github.com/MarcelCoding/zia/pull/105) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (1 week ago)
 - [extracted cmd exec fn](https://github.com/secshellnet/wpm-api-vyos/pull/1) on [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) (1 week ago)
 - [fixed type of read half](https://github.com/mmastrac/fastwebsockets/pull/1) on [mmastrac/fastwebsockets](https://github.com/mmastrac/fastwebsockets) (1 week ago)
 - [Added hackday 01 news article](https://github.com/dd-ix/website-content/pull/5) on [dd-ix/website-content](https://github.com/dd-ix/website-content) (2 weeks ago)
