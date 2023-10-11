@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dresden-zone/dns](https://github.com/dresden-zone/dns) (today)
+- [dresden-zone/dns-web](https://github.com/dresden-zone/dns-web) (today)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (1 day ago)
+- [dresden-zone/dns](https://github.com/dresden-zone/dns) (1 day ago)
 - [dd-ix/presence](https://github.com/dd-ix/presence) (1 day ago)
-- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) - Wireguard Peer Manager API for VyOS (2 days ago)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (4 days ago)
-- [offsetting/feel](https://github.com/offsetting/feel) (5 days ago)
+- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) - Wireguard Peer Manager API for VyOS (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,11 +31,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 2 days ago) - VyOS build in github actions with custom vyatta packages.
-- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 2 days ago) - Wireguard Peer Manager API for VyOS
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.10.0](https://github.com/misskey-dev/misskey/releases/tag/2023.10.0), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 3 days ago) - VyOS build in github actions with custom vyatta packages.
+- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 3 days ago) - Wireguard Peer Manager API for VyOS
 - [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.6.1-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.6.1-1), 1 week ago) - Debian (Vyatta) package for node_exporter
 - [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.2.0-1](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.2.0-1), 1 week ago) - Debian (Vyatta) package for frr_exporter
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.13](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.13), 2 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 
 ### 🔨 Latest Pull Requests I published
 
