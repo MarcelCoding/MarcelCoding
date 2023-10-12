@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dresden-zone/dns-web](https://github.com/dresden-zone/dns-web) (today)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (1 day ago)
-- [dresden-zone/dns](https://github.com/dresden-zone/dns) (1 day ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (1 day ago)
-- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) - Wireguard Peer Manager API for VyOS (3 days ago)
+- [dresden-zone/dns-web](https://github.com/dresden-zone/dns-web) (1 day ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (2 days ago)
+- [dresden-zone/dns](https://github.com/dresden-zone/dns) (2 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (2 days ago)
+- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) - Wireguard Peer Manager API for VyOS (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,9 +31,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.10.0](https://github.com/misskey-dev/misskey/releases/tag/2023.10.0), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 3 days ago) - VyOS build in github actions with custom vyatta packages.
-- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 3 days ago) - Wireguard Peer Manager API for VyOS
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.10.1](https://github.com/misskey-dev/misskey/releases/tag/2023.10.1), today) - 🌎 An interplanetary microblogging platform 🚀
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 4 days ago) - VyOS build in github actions with custom vyatta packages.
+- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 4 days ago) - Wireguard Peer Manager API for VyOS
 - [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.6.1-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.6.1-1), 1 week ago) - Debian (Vyatta) package for node_exporter
 - [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.2.0-1](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.2.0-1), 1 week ago) - Debian (Vyatta) package for frr_exporter
 
@@ -42,7 +42,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [Update README.md](https://github.com/MarcelCoding/zia/pull/106) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (1 week ago)
 - [Rewrite](https://github.com/MarcelCoding/zia/pull/105) on [MarcelCoding/zia](https://github.com/MarcelCoding/zia) (1 week ago)
 - [extracted cmd exec fn](https://github.com/secshellnet/wpm-api-vyos/pull/1) on [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) (1 week ago)
-- [fixed type of read half](https://github.com/mmastrac/fastwebsockets/pull/1) on [mmastrac/fastwebsockets](https://github.com/mmastrac/fastwebsockets) (1 week ago)
+- [fixed type of read half](https://github.com/mmastrac/fastwebsockets/pull/1) on [mmastrac/fastwebsockets](https://github.com/mmastrac/fastwebsockets) (2 weeks ago)
 - [Added hackday 01 news article](https://github.com/dd-ix/website-content/pull/5) on [dd-ix/website-content](https://github.com/dd-ix/website-content) (3 weeks ago)
 
 ### 📜 My recent blog posts
@@ -51,7 +51,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app (3 weeks ago)
+- [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app (4 weeks ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (6 months ago)
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (8 months ago)
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust (8 months ago)
