@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dresden-zone/dns-web](https://github.com/dresden-zone/dns-web) (1 day ago)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (2 days ago)
-- [dresden-zone/dns](https://github.com/dresden-zone/dns) (2 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (2 days ago)
-- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) - Wireguard Peer Manager API for VyOS (4 days ago)
+- [dresden-zone/dns](https://github.com/dresden-zone/dns) (today)
+- [dresden-zone/dns-web](https://github.com/dresden-zone/dns-web) (2 days ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (3 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (3 days ago)
+- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) - Wireguard Peer Manager API for VyOS (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,11 +31,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.10.1](https://github.com/misskey-dev/misskey/releases/tag/2023.10.1), today) - 🌎 An interplanetary microblogging platform 🚀
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 4 days ago) - VyOS build in github actions with custom vyatta packages.
-- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 4 days ago) - Wireguard Peer Manager API for VyOS
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.4.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.4.0), 1 day ago) - OpenID Connect Library for Rust
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.10.1](https://github.com/misskey-dev/misskey/releases/tag/2023.10.1), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 5 days ago) - VyOS build in github actions with custom vyatta packages.
+- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 5 days ago) - Wireguard Peer Manager API for VyOS
 - [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.6.1-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.6.1-1), 1 week ago) - Debian (Vyatta) package for node_exporter
-- [pkgs-hub/vyatta-frr_exporter](https://github.com/pkgs-hub/vyatta-frr_exporter) ([v1.2.0-1](https://github.com/pkgs-hub/vyatta-frr_exporter/releases/tag/v1.2.0-1), 1 week ago) - Debian (Vyatta) package for frr_exporter
 
 ### 🔨 Latest Pull Requests I published
 
