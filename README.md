@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dresden-zone/dns](https://github.com/dresden-zone/dns) (today)
-- [dresden-zone/dns-web](https://github.com/dresden-zone/dns-web) (2 days ago)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (3 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (3 days ago)
-- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) - Wireguard Peer Manager API for VyOS (5 days ago)
+- [dresden-zone/dns](https://github.com/dresden-zone/dns) (1 day ago)
+- [dresden-zone/dns-web](https://github.com/dresden-zone/dns-web) (3 days ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (4 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (4 days ago)
+- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) - Wireguard Peer Manager API for VyOS (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,10 +31,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.4.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.4.0), 1 day ago) - OpenID Connect Library for Rust
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.10.1](https://github.com/misskey-dev/misskey/releases/tag/2023.10.1), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 5 days ago) - VyOS build in github actions with custom vyatta packages.
-- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 5 days ago) - Wireguard Peer Manager API for VyOS
+- [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.4.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.4.0), 2 days ago) - OpenID Connect Library for Rust
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.10.1](https://github.com/misskey-dev/misskey/releases/tag/2023.10.1), 2 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 6 days ago) - VyOS build in github actions with custom vyatta packages.
+- [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 6 days ago) - Wireguard Peer Manager API for VyOS
 - [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.6.1-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.6.1-1), 1 week ago) - Debian (Vyatta) package for node_exporter
 
 ### 🔨 Latest Pull Requests I published
@@ -51,8 +51,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app (4 weeks ago)
+- [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. (1 day ago)
+- [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app (1 month ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (6 months ago)
 - [rust-sailfish/sailfish](https://github.com/rust-sailfish/sailfish) - Simple, small, and extremely fast template engine for Rust (8 months ago)
 - [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust (8 months ago)
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams. (9 months ago)
