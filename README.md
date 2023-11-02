@@ -31,7 +31,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.11.0-beta.7](https://github.com/misskey-dev/misskey/releases/tag/2023.11.0-beta.7), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.11.0-beta.8](https://github.com/misskey-dev/misskey/releases/tag/2023.11.0-beta.8), today) - 🌎 An interplanetary microblogging platform 🚀
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.9](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.9), 2 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.12](https://github.com/offsetting/feel/releases/tag/v0.0.12), 2 weeks ago)
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.4.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.4.0), 3 weeks ago) - OpenID Connect Library for Rust
