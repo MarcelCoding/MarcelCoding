@@ -15,27 +15,27 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/nix-config](https://github.com/MarcelCoding/nix-config) - mirror (2 days ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (4 days ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (6 days ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (6 days ago)
-- [dd-ix/keycloak-theme](https://github.com/dd-ix/keycloak-theme) (6 days ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (5 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (1 week ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 week ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 week ago)
+- [dd-ix/keycloak-theme](https://github.com/dd-ix/keycloak-theme) (1 week ago)
 
 ### 🌱 My latest projects
 
-- [MarcelCoding/nix-config](https://github.com/MarcelCoding/nix-config) - mirror
 - [MarcelCoding/m4rc3l.de](https://github.com/MarcelCoding/m4rc3l.de)
 - [MarcelCoding/wsocket](https://github.com/MarcelCoding/wsocket) - Lighweight, fast and native WebSocket implementation for Rust.
 - [MarcelCoding/feel](https://github.com/MarcelCoding/feel)
 - [MarcelCoding/egsch](https://github.com/MarcelCoding/egsch)
+- [MarcelCoding/view](https://github.com/MarcelCoding/view) - Cloudflare Pages web server but self-hosted
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.11.0](https://github.com/misskey-dev/misskey/releases/tag/2023.11.0), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.9](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.9), 6 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.11.0](https://github.com/misskey-dev/misskey/releases/tag/2023.11.0), 2 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.9](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.9), 1 week ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.12](https://github.com/offsetting/feel/releases/tag/v0.0.12), 3 weeks ago)
 - [ramosbugs/openidconnect-rs](https://github.com/ramosbugs/openidconnect-rs) ([3.4.0](https://github.com/ramosbugs/openidconnect-rs/releases/tag/3.4.0), 3 weeks ago) - OpenID Connect Library for Rust
-- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 4 weeks ago) - VyOS build in github actions with custom vyatta packages.
+- [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 1 month ago) - VyOS build in github actions with custom vyatta packages.
 
 ### 🔨 Latest Pull Requests I published
 
