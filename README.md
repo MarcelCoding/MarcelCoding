@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 day ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 day ago)
-- [offsetting/feel](https://github.com/offsetting/feel) (4 days ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (5 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (5 days ago)
+- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (2 days ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (2 days ago)
+- [offsetting/feel](https://github.com/offsetting/feel) (5 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (6 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,8 +31,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.14](https://github.com/offsetting/feel/releases/tag/v0.0.14), 4 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.10](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.10), 5 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.14](https://github.com/offsetting/feel/releases/tag/v0.0.14), 5 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.10](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.10), 6 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.11.0](https://github.com/misskey-dev/misskey/releases/tag/2023.11.0), 1 week ago) - 🌎 An interplanetary microblogging platform 🚀
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 1 month ago) - VyOS build in github actions with custom vyatta packages.
 - [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 1 month ago) - Wireguard Peer Manager API for VyOS
@@ -54,5 +54,5 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration. (2 weeks ago)
 - [flxzt/rnote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes. (3 weeks ago)
-- [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver (4 weeks ago)
+- [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver (1 month ago)
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. (1 month ago)
