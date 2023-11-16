@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud (1 day ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (1 day ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (3 days ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (3 days ago)
+- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud (2 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (2 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
+- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (4 days ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,9 +31,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.14](https://github.com/offsetting/feel/releases/tag/v0.0.14), 6 days ago)
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.11.1-beta.1](https://github.com/misskey-dev/misskey/releases/tag/2023.11.1-beta.1), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
+- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.14](https://github.com/offsetting/feel/releases/tag/v0.0.14), 1 week ago)
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.10](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.10), 1 week ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.11.0](https://github.com/misskey-dev/misskey/releases/tag/2023.11.0), 1 week ago) - 🌎 An interplanetary microblogging platform 🚀
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 1 month ago) - VyOS build in github actions with custom vyatta packages.
 - [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 1 month ago) - Wireguard Peer Manager API for VyOS
 
