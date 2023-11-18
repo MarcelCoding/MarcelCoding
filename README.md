@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud (3 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (3 days ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (3 days ago)
-- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (5 days ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (5 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (today)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (today)
+- [dresden-zone/dns-web](https://github.com/dresden-zone/dns-web) (1 day ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 day ago)
+- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.11.1-beta.1](https://github.com/misskey-dev/misskey/releases/tag/2023.11.1-beta.1), 2 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.11.1](https://github.com/misskey-dev/misskey/releases/tag/2023.11.1), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.14](https://github.com/offsetting/feel/releases/tag/v0.0.14), 1 week ago)
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.10](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.10), 1 week ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 1 month ago) - VyOS build in github actions with custom vyatta packages.
@@ -39,7 +39,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [added peering pricing](https://github.com/dd-ix/presence/pull/46) on [dd-ix/presence](https://github.com/dd-ix/presence) (1 day ago)
+- [Added peering pricing](https://github.com/dd-ix/presence/pull/46) on [dd-ix/presence](https://github.com/dd-ix/presence) (2 days ago)
 - [Fixed bookstack keycloak integragtion](https://github.com/dd-ix/nix-config/pull/24) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 weeks ago)
 - [Removed tlm.solutions &amp; added marcel ssh/gpg keys](https://github.com/dd-ix/nix-config/pull/23) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 weeks ago)
 - [fixed custom registry](https://github.com/nzbr/pnpm2nix-nzbr/pull/18) on [nzbr/pnpm2nix-nzbr](https://github.com/nzbr/pnpm2nix-nzbr) (3 weeks ago)
