@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/aoc-2023](https://github.com/MarcelCoding/aoc-2023) - Advent of Code 2023 (2 days ago)
-- [offsetting/matryoshka](https://github.com/offsetting/matryoshka) (6 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 day ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 day ago)
+- [MarcelCoding/aoc-2023](https://github.com/MarcelCoding/aoc-2023) - Advent of Code 2023 (1 day ago)
+- [offsetting/matryoshka](https://github.com/offsetting/matryoshka) (1 week ago)
 - [MarcelCoding/wsocket](https://github.com/MarcelCoding/wsocket) - Lighweight, fast and native WebSocket implementation for Rust. (1 week ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -31,9 +31,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.12.0-beta.2](https://github.com/misskey-dev/misskey/releases/tag/2023.12.0-beta.2), 1 day ago) - 🌎 An interplanetary microblogging platform 🚀
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.11](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.11), 1 week ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
-- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.17](https://github.com/offsetting/feel/releases/tag/v0.0.17), 1 week ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.12](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.12), 1 day ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) ([2023.12.0-beta.2](https://github.com/misskey-dev/misskey/releases/tag/2023.12.0-beta.2), 2 days ago) - 🌎 An interplanetary microblogging platform 🚀
+- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.17](https://github.com/offsetting/feel/releases/tag/v0.0.17), 2 weeks ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 1 month ago) - VyOS build in github actions with custom vyatta packages.
 - [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 1 month ago) - Wireguard Peer Manager API for VyOS
 
