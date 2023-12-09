@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 day ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 day ago)
-- [MarcelCoding/aoc-2023](https://github.com/MarcelCoding/aoc-2023) - Advent of Code 2023 (3 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (3 days ago)
+- [offsetting/feel](https://github.com/offsetting/feel) (1 day ago)
+- [MarcelCoding/aoc-2023](https://github.com/MarcelCoding/aoc-2023) - Advent of Code 2023 (4 days ago)
 - [offsetting/matryoshka](https://github.com/offsetting/matryoshka) (1 week ago)
-- [MarcelCoding/wsocket](https://github.com/MarcelCoding/wsocket) - Lighweight, fast and native WebSocket implementation for Rust. (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -31,8 +31,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.12](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.12), 3 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
-- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.17](https://github.com/offsetting/feel/releases/tag/v0.0.17), 2 weeks ago)
+- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.20](https://github.com/offsetting/feel/releases/tag/v0.0.20), 1 day ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.12](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.12), 4 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 2 months ago) - VyOS build in github actions with custom vyatta packages.
 - [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 2 months ago) - Wireguard Peer Manager API for VyOS
 - [pkgs-hub/vyatta-node_exporter](https://github.com/pkgs-hub/vyatta-node_exporter) ([v1.6.1-1](https://github.com/pkgs-hub/vyatta-node_exporter/releases/tag/v1.6.1-1), 2 months ago) - Debian (Vyatta) package for node_exporter
