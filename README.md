@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (3 days ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (4 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (5 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (5 days ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (5 days ago)
+- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (4 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (5 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (6 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.13](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.13), 5 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.13](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.13), 6 days ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.20](https://github.com/offsetting/feel/releases/tag/v0.0.20), 1 week ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 2 months ago) - VyOS build in github actions with custom vyatta packages.
 - [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 2 months ago) - Wireguard Peer Manager API for VyOS
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [added flake](https://github.com/MarcelCoding/jitsi-openid/pull/267) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (2 days ago)
-- [Updated to nixos 23.11](https://github.com/dd-ix/nix-config/pull/41) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (5 days ago)
+- [Added postgres user password option](https://github.com/NixOS/nixpkgs/pull/274837) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [added flake](https://github.com/MarcelCoding/jitsi-openid/pull/267) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (3 days ago)
+- [Updated to nixos 23.11](https://github.com/dd-ix/nix-config/pull/41) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (6 days ago)
 - [Improved nginx options](https://github.com/nix-community/authentik-nix/pull/4) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (1 week ago)
 - [renamed to strasi](https://github.com/tlm-solutions/strasi/pull/25) on [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) (3 weeks ago)
-- [Added peering pricing](https://github.com/dd-ix/presence/pull/46) on [dd-ix/presence](https://github.com/dd-ix/presence) (1 month ago)
 
 ### 📜 My recent blog posts
 
