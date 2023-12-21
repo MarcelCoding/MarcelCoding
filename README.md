@@ -15,7 +15,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (4 days ago)
+- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (5 days ago)
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 week ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
 - [dd-ix/presence](https://github.com/dd-ix/presence) (1 week ago)
@@ -39,8 +39,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added postgres user password option](https://github.com/NixOS/nixpkgs/pull/274837) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
-- [added flake](https://github.com/MarcelCoding/jitsi-openid/pull/267) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (6 days ago)
+- [Added postgres user password option](https://github.com/NixOS/nixpkgs/pull/274837) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
+- [added flake](https://github.com/MarcelCoding/jitsi-openid/pull/267) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (1 week ago)
 - [Updated to nixos 23.11](https://github.com/dd-ix/nix-config/pull/41) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
 - [Improved nginx options](https://github.com/nix-community/authentik-nix/pull/4) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (1 week ago)
 - [renamed to strasi](https://github.com/tlm-solutions/strasi/pull/25) on [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) (3 weeks ago)
@@ -52,7 +52,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### ⭐ Recent stars
 
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and basic VM test for authentik. Trying to provide an alternative deployment mode to the officially supported docker-compose approach. Not affiliated with or officially supported by the authentik project [maintainer=@willibutz] (1 week ago)
-- [wobcom/fernglas](https://github.com/wobcom/fernglas) - BMP based looking glass (4 weeks ago)
-- [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is an open-source network tester for access and routing protocols.  (4 weeks ago)
+- [wobcom/fernglas](https://github.com/wobcom/fernglas) - BMP based looking glass (1 month ago)
+- [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is an open-source network tester for access and routing protocols.  (1 month ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 month ago)
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. (1 month ago)
