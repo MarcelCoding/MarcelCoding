@@ -15,10 +15,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (today)
-- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (today)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (1 week ago)
+- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (1 day ago)
+- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 day ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
 
 ### 🌱 My latest projects
@@ -39,7 +39,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Prod](https://github.com/tlm-solutions/nix-config/pull/19) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 day ago)
+- [Prod](https://github.com/tlm-solutions/nix-config/pull/19) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (2 days ago)
 - [Added postgres user password option](https://github.com/NixOS/nixpkgs/pull/274837) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [added flake](https://github.com/MarcelCoding/jitsi-openid/pull/267) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (1 week ago)
 - [Updated to nixos 23.11](https://github.com/dd-ix/nix-config/pull/41) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
@@ -55,4 +55,4 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [wobcom/fernglas](https://github.com/wobcom/fernglas) - BMP based looking glass (1 month ago)
 - [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is an open-source network tester for access and routing protocols.  (1 month ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 month ago)
-- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. (1 month ago)
+- [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. (2 months ago)
