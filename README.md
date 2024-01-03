@@ -19,7 +19,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (1 week ago)
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (1 week ago)
 - [MarcelCoding/ronitor](https://github.com/MarcelCoding/ronitor) - Monitor rpi sensors using rust (1 week ago)
-- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 week ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 week ago)
 
 ### 🌱 My latest projects
 
