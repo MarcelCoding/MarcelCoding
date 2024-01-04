@@ -41,7 +41,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 - [Prod](https://github.com/tlm-solutions/nix-config/pull/19) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 week ago)
 - [Added postgres user password option](https://github.com/NixOS/nixpkgs/pull/274837) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
-- [added flake](https://github.com/MarcelCoding/jitsi-openid/pull/267) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (2 weeks ago)
+- [added flake](https://github.com/MarcelCoding/jitsi-openid/pull/267) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (3 weeks ago)
 - [Updated to nixos 23.11](https://github.com/dd-ix/nix-config/pull/41) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (3 weeks ago)
 - [Improved nginx options](https://github.com/nix-community/authentik-nix/pull/4) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (3 weeks ago)
 
