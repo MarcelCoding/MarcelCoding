@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (today)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (today)
 - [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (today)
-- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (1 week ago)
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (1 week ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [MarcelCoding/ronitor](https://github.com/MarcelCoding/ronitor) - Monitor rpi sensors using rust (2 weeks ago)
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -31,9 +31,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v4.0.0](https://github.com/MarcelCoding/nova/releases/tag/v4.0.0), 1 week ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v4.0.0](https://github.com/MarcelCoding/nova/releases/tag/v4.0.0), 2 weeks ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.13](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.13), 3 weeks ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
-- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.20](https://github.com/offsetting/feel/releases/tag/v0.0.20), 4 weeks ago)
+- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.20](https://github.com/offsetting/feel/releases/tag/v0.0.20), 1 month ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 3 months ago) - VyOS build in github actions with custom vyatta packages.
 - [secshellnet/wpm-api-vyos](https://github.com/secshellnet/wpm-api-vyos) ([v1.0.0](https://github.com/secshellnet/wpm-api-vyos/releases/tag/v1.0.0), 3 months ago) - Wireguard Peer Manager API for VyOS
 
