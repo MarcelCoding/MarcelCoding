@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (3 days ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (5 days ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (5 days ago)
-- [MarcelCoding/ronitor](https://github.com/MarcelCoding/ronitor) - Monitor rpi sensors using rust (2 weeks ago)
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (2 weeks ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (4 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (6 days ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -39,9 +39,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added zone dd-ix.net](https://github.com/dd-ix/nix-config/pull/44) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 day ago)
-- [Disabled pgadmin upgrade check](https://github.com/NixOS/nixpkgs/pull/279274) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
-- [Prod](https://github.com/tlm-solutions/nix-config/pull/19) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (2 weeks ago)
+- [Added zone dd-ix.net](https://github.com/dd-ix/nix-config/pull/44) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 days ago)
+- [nixos/pgadmin: disable upgrade check](https://github.com/NixOS/nixpkgs/pull/279274) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
+- [Prod](https://github.com/tlm-solutions/nix-config/pull/19) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (3 weeks ago)
 - [Added postgres user password option](https://github.com/NixOS/nixpkgs/pull/274837) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 weeks ago)
 - [added flake](https://github.com/MarcelCoding/jitsi-openid/pull/267) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (4 weeks ago)
 
