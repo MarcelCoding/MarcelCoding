@@ -15,10 +15,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (4 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (6 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
+- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (5 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (6 days ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
 - [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (2 weeks ago)
 
 ### 🌱 My latest projects
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added zone dd-ix.net](https://github.com/dd-ix/nix-config/pull/44) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 days ago)
-- [nixos/pgadmin: disable upgrade check](https://github.com/NixOS/nixpkgs/pull/279274) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
+- [Added zone dd-ix.net](https://github.com/dd-ix/nix-config/pull/44) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (3 days ago)
+- [nixos/pgadmin: disable upgrade check](https://github.com/NixOS/nixpkgs/pull/279274) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
 - [Prod](https://github.com/tlm-solutions/nix-config/pull/19) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (3 weeks ago)
-- [Added postgres user password option](https://github.com/NixOS/nixpkgs/pull/274837) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 weeks ago)
-- [added flake](https://github.com/MarcelCoding/jitsi-openid/pull/267) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (4 weeks ago)
+- [Added postgres user password option](https://github.com/NixOS/nixpkgs/pull/274837) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 weeks ago)
+- [added flake](https://github.com/MarcelCoding/jitsi-openid/pull/267) on [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) (1 month ago)
 
 ### 📜 My recent blog posts
 
