@@ -15,9 +15,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
 - [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (1 day ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (2 days ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
 
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added svc-management](https://github.com/dd-ix/nix-config/pull/49) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 day ago)
-- [Moved bind into microvm](https://github.com/dd-ix/nix-config/pull/48) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 day ago)
-- [fixed gateway](https://github.com/dd-ix/nix-config/pull/46) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 day ago)
-- [Added zone dd-ix.net](https://github.com/dd-ix/nix-config/pull/44) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (4 days ago)
-- [nixos/pgadmin: disable upgrade check](https://github.com/NixOS/nixpkgs/pull/279274) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
+- [Updated zones](https://github.com/dd-ix/nix-config/pull/51) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 day ago)
+- [Added bridge interfaces](https://github.com/dd-ix/nix-config/pull/50) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 day ago)
+- [Added svc-management](https://github.com/dd-ix/nix-config/pull/49) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 days ago)
+- [Moved bind into microvm](https://github.com/dd-ix/nix-config/pull/48) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 days ago)
+- [fixed gateway](https://github.com/dd-ix/nix-config/pull/46) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 days ago)
 
 ### 📜 My recent blog posts
 
