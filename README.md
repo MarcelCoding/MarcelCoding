@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (1 day ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 day ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 day ago)
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
+- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (2 days ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Updated zones](https://github.com/dd-ix/nix-config/pull/51) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 day ago)
-- [Added bridge interfaces](https://github.com/dd-ix/nix-config/pull/50) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 day ago)
-- [Added svc-management](https://github.com/dd-ix/nix-config/pull/49) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 days ago)
-- [Moved bind into microvm](https://github.com/dd-ix/nix-config/pull/48) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 days ago)
-- [fixed gateway](https://github.com/dd-ix/nix-config/pull/46) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 days ago)
+- [wgnlpy: init at 0.1.5](https://github.com/NixOS/nixpkgs/pull/281134) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
+- [Updated zones](https://github.com/dd-ix/nix-config/pull/51) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 days ago)
+- [Added bridge interfaces](https://github.com/dd-ix/nix-config/pull/50) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 days ago)
+- [Added svc-management](https://github.com/dd-ix/nix-config/pull/49) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (3 days ago)
+- [Moved bind into microvm](https://github.com/dd-ix/nix-config/pull/48) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (3 days ago)
 
 ### 📜 My recent blog posts
 
