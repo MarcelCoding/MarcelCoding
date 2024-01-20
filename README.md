@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (2 days ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (4 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (4 days ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (6 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (today)
+- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (1 day ago)
+- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (3 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (5 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [nixos/bird2: add option to disable auto reload](https://github.com/NixOS/nixpkgs/pull/281606) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
-- [wgnlpy: init at 0.1.5](https://github.com/NixOS/nixpkgs/pull/281134) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
-- [Updated zones](https://github.com/dd-ix/nix-config/pull/51) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (5 days ago)
-- [Added bridge interfaces](https://github.com/dd-ix/nix-config/pull/50) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (5 days ago)
-- [Added svc-management](https://github.com/dd-ix/nix-config/pull/49) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (6 days ago)
+- [nixos/bird2: add option to disable auto reload](https://github.com/NixOS/nixpkgs/pull/281606) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [wgnlpy: init at 0.1.5](https://github.com/NixOS/nixpkgs/pull/281134) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
+- [Updated zones](https://github.com/dd-ix/nix-config/pull/51) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (6 days ago)
+- [Added bridge interfaces](https://github.com/dd-ix/nix-config/pull/50) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (6 days ago)
+- [Added svc-management](https://github.com/dd-ix/nix-config/pull/49) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
 
 ### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### ⭐ Recent stars
 
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and basic VM test for authentik. Trying to provide an alternative deployment mode to the officially supported docker-compose approach. Not affiliated with or officially supported by the authentik project [maintainer=@willibutz] (1 month ago)
-- [wobcom/fernglas](https://github.com/wobcom/fernglas) - BMP based looking glass (1 month ago)
-- [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is an open-source network tester for access and routing protocols.  (1 month ago)
+- [wobcom/fernglas](https://github.com/wobcom/fernglas) - BMP based looking glass (2 months ago)
+- [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is an open-source network tester for access and routing protocols.  (2 months ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 months ago)
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. (2 months ago)
