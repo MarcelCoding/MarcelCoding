@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (today)
-- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (1 day ago)
-- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (3 days ago)
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (5 days ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (5 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 day ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (2 days ago)
+- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v4.0.0](https://github.com/MarcelCoding/nova/releases/tag/v4.0.0), 3 weeks ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v4.0.0](https://github.com/MarcelCoding/nova/releases/tag/v4.0.0), 4 weeks ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.13](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.13), 1 month ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.20](https://github.com/offsetting/feel/releases/tag/v0.0.20), 1 month ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 3 months ago) - VyOS build in github actions with custom vyatta packages.
@@ -39,10 +39,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [nixos/bird2: add option to disable auto reload](https://github.com/NixOS/nixpkgs/pull/281606) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-- [wgnlpy: init at 0.1.5](https://github.com/NixOS/nixpkgs/pull/281134) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
-- [Updated zones](https://github.com/dd-ix/nix-config/pull/51) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (6 days ago)
-- [Added bridge interfaces](https://github.com/dd-ix/nix-config/pull/50) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (6 days ago)
+- [nixos/bird2: add option to disable auto reload](https://github.com/NixOS/nixpkgs/pull/281606) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
+- [wgnlpy: init at 0.1.5](https://github.com/NixOS/nixpkgs/pull/281134) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
+- [Updated zones](https://github.com/dd-ix/nix-config/pull/51) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
+- [Added bridge interfaces](https://github.com/dd-ix/nix-config/pull/50) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
 - [Added svc-management](https://github.com/dd-ix/nix-config/pull/49) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
 
 ### 📜 My recent blog posts
