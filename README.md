@@ -15,8 +15,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (5 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (6 days ago)
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 week ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
 - [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (1 week ago)
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Applied naming scheme](https://github.com/dd-ix/nix-config/pull/63) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (3 days ago)
-- [Added acme zone](https://github.com/dd-ix/nix-config/pull/60) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (5 days ago)
+- [Applied naming scheme](https://github.com/dd-ix/nix-config/pull/63) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (4 days ago)
+- [Added acme zone](https://github.com/dd-ix/nix-config/pull/60) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (6 days ago)
 - [nixos/bird2: add option to disable auto reload](https://github.com/NixOS/nixpkgs/pull/281606) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [wgnlpy: init at 0.1.5](https://github.com/NixOS/nixpkgs/pull/281134) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [Updated zones](https://github.com/dd-ix/nix-config/pull/51) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
+- [Updated zones](https://github.com/dd-ix/nix-config/pull/51) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 weeks ago)
 
 ### 📜 My recent blog posts
 
@@ -54,5 +54,5 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and basic VM test for authentik. Trying to provide an alternative deployment mode to the officially supported docker-compose approach. Not affiliated with or officially supported by the authentik project [maintainer=@willibutz] (1 month ago)
 - [wobcom/fernglas](https://github.com/wobcom/fernglas) - BMP based looking glass (2 months ago)
 - [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is an open-source network tester for access and routing protocols.  (2 months ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 months ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 months ago)
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. (3 months ago)
