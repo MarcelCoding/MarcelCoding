@@ -15,8 +15,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (6 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (1 week ago)
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 week ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
 - [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (1 week ago)
@@ -39,10 +39,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Applied naming scheme](https://github.com/dd-ix/nix-config/pull/63) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (4 days ago)
-- [Added acme zone](https://github.com/dd-ix/nix-config/pull/60) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (6 days ago)
+- [Applied naming scheme](https://github.com/dd-ix/nix-config/pull/63) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (5 days ago)
+- [Added acme zone](https://github.com/dd-ix/nix-config/pull/60) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
 - [nixos/bird2: add option to disable auto reload](https://github.com/NixOS/nixpkgs/pull/281606) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [wgnlpy: init at 0.1.5](https://github.com/NixOS/nixpkgs/pull/281134) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
+- [wgnlpy: init at 0.1.5](https://github.com/NixOS/nixpkgs/pull/281134) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [Updated zones](https://github.com/dd-ix/nix-config/pull/51) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 weeks ago)
 
 ### 📜 My recent blog posts
