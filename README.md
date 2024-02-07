@@ -16,10 +16,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 👷 Check out what I'm currently working on
 
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 day ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (2 days ago)
-- [dresden-zone/dns](https://github.com/dresden-zone/dns) (4 days ago)
-- [dresden-zone/web](https://github.com/dresden-zone/web) (4 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 day ago)
+- [dd-ix/foundation](https://github.com/dd-ix/foundation) (2 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (3 days ago)
+- [dresden-zone/web](https://github.com/dresden-zone/web) (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.15](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.15), 6 days ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.15](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.15), 1 week ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v4.0.0](https://github.com/MarcelCoding/nova/releases/tag/v4.0.0), 1 month ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.13](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.13), 1 month ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.20](https://github.com/offsetting/feel/releases/tag/v0.0.20), 2 months ago)
@@ -39,10 +39,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [listmonk: 2.5.1 -&gt; 3.0.0](https://github.com/NixOS/nixpkgs/pull/286523) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [Added rpx](https://github.com/dd-ix/nix-config/pull/64) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (6 days ago)
+- [listmonk: 2.5.1 -&gt; 3.0.0](https://github.com/NixOS/nixpkgs/pull/286523) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [Added rpx](https://github.com/dd-ix/nix-config/pull/64) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
 - [Made postgres optional](https://github.com/nix-community/authentik-nix/pull/16) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (1 week ago)
-- [Applied naming scheme](https://github.com/dd-ix/nix-config/pull/63) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
+- [Applied naming scheme](https://github.com/dd-ix/nix-config/pull/63) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 weeks ago)
 - [Added acme zone](https://github.com/dd-ix/nix-config/pull/60) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 weeks ago)
 
 ### 📜 My recent blog posts
@@ -51,8 +51,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 200 Internet Exchange Points (IXPs) globally. (4 days ago)
-- [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and basic VM test for authentik. Trying to provide an alternative deployment mode to the officially supported docker-compose approach. Not affiliated with or officially supported by the authentik project [maintainer=@willibutz] (1 month ago)
+- [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 200 Internet Exchange Points (IXPs) globally. (5 days ago)
+- [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and basic VM test for authentik. Trying to provide an alternative deployment mode to the officially supported docker-compose approach. Not affiliated with or officially supported by the authentik project [maintainer=@willibutz] (2 months ago)
 - [wobcom/fernglas](https://github.com/wobcom/fernglas) - BMP based looking glass (2 months ago)
 - [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is an open-source network tester for access and routing protocols.  (2 months ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 months ago)
