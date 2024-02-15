@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (3 days ago)
+- [dresden-zone/doubleblind.science](https://github.com/dresden-zone/doubleblind.science) - the modern research oriented my space (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
 - [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
 - [dd-ix/presence](https://github.com/dd-ix/presence) (1 week ago)
-- [dresden-zone/web](https://github.com/dresden-zone/web) (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
+- [Added radius outpost](https://github.com/nix-community/authentik-nix/pull/17) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (1 day ago)
 - [listmonk: 2.5.1 -&gt; 3.0.0](https://github.com/NixOS/nixpkgs/pull/286523) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [Added rpx](https://github.com/dd-ix/nix-config/pull/64) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 weeks ago)
 - [Made postgres optional](https://github.com/nix-community/authentik-nix/pull/16) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (2 weeks ago)
 - [Applied naming scheme](https://github.com/dd-ix/nix-config/pull/63) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (3 weeks ago)
-- [Added acme zone](https://github.com/dd-ix/nix-config/pull/60) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (3 weeks ago)
 
 ### 📜 My recent blog posts
 
