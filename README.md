@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dresden-zone/doubleblind.science](https://github.com/dresden-zone/doubleblind.science) - the modern research oriented my space (1 day ago)
-- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (1 day ago)
+- [dd-ix/arouteserver.nix](https://github.com/dd-ix/arouteserver.nix) (1 day ago)
+- [dd-ix/ddix-ansible-bird](https://github.com/dd-ix/ddix-ansible-bird) - DD-IX RS Bird Deployment (1 day ago)
+- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (1 day ago)
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
-- [dd-ix/foundation](https://github.com/dd-ix/foundation) (1 week ago)
+- [dresden-zone/doubleblind.science](https://github.com/dresden-zone/doubleblind.science) - the modern research oriented my space (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -39,8 +39,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added radius outpost](https://github.com/nix-community/authentik-nix/pull/17) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (4 days ago)
-- [listmonk: 2.5.1 -&gt; 3.0.0](https://github.com/NixOS/nixpkgs/pull/286523) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
+- [Added radius outpost](https://github.com/nix-community/authentik-nix/pull/17) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (5 days ago)
+- [listmonk: 2.5.1 -&gt; 3.0.0](https://github.com/NixOS/nixpkgs/pull/286523) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [Added rpx](https://github.com/dd-ix/nix-config/pull/64) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 weeks ago)
 - [Made postgres optional](https://github.com/nix-community/authentik-nix/pull/16) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (2 weeks ago)
 - [Applied naming scheme](https://github.com/dd-ix/nix-config/pull/63) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (3 weeks ago)
@@ -51,8 +51,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (1 day ago)
+- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (2 days ago)
 - [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 200 Internet Exchange Points (IXPs) globally. (2 weeks ago)
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and basic VM test for authentik. Trying to provide an alternative deployment mode to the officially supported docker-compose approach. Not affiliated with or officially supported by the authentik project [maintainer=@willibutz] (2 months ago)
-- [wobcom/fernglas](https://github.com/wobcom/fernglas) - BMP based looking glass (2 months ago)
-- [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is an open-source network tester for access and routing protocols.  (2 months ago)
+- [wobcom/fernglas](https://github.com/wobcom/fernglas) - BMP based looking glass (3 months ago)
+- [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is an open-source network tester for access and routing protocols.  (3 months ago)
