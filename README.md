@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [dd-ix/arouteserver.nix](https://github.com/dd-ix/arouteserver.nix) (2 days ago)
-- [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX RS Bird Deployment (2 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (2 days ago)
-- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (3 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (today)
+- [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) (1 day ago)
+- [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX RS Bird Deployment (3 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (3 days ago)
+- [dd-ix/arouteserver.nix](https://github.com/dd-ix/arouteserver.nix) (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 🔭 Latest releases I've contributed to
 
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.15](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.15), 3 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v4.0.0](https://github.com/MarcelCoding/nova/releases/tag/v4.0.0), 1 month ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v4.0.0](https://github.com/MarcelCoding/nova/releases/tag/v4.0.0), 2 months ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.13](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.13), 2 months ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.20](https://github.com/offsetting/feel/releases/tag/v0.0.20), 2 months ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 4 months ago) - VyOS build in github actions with custom vyatta packages.
@@ -51,7 +51,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (4 days ago)
+- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (5 days ago)
 - [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 200 Internet Exchange Points (IXPs) globally. (2 weeks ago)
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and basic VM test for authentik. Trying to provide an alternative deployment mode to the officially supported docker-compose approach. Not affiliated with or officially supported by the authentik project [maintainer=@willibutz] (2 months ago)
 - [wobcom/fernglas](https://github.com/wobcom/fernglas) - BMP based looking glass (3 months ago)
