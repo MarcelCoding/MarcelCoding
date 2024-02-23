@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (today)
-- [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) (1 day ago)
-- [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX RS Bird Deployment (3 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) (3 days ago)
-- [dd-ix/arouteserver.nix](https://github.com/dd-ix/arouteserver.nix) (3 days ago)
+- [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) - Serving sflow traffic metrics as Prometheus endpoints. (1 day ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [dd-ix/arouteserver.nix](https://github.com/dd-ix/arouteserver.nix) (4 days ago)
+- [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX RS Bird Deployment (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -43,7 +43,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [listmonk: 2.5.1 -&gt; 3.0.0](https://github.com/NixOS/nixpkgs/pull/286523) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [Added rpx](https://github.com/dd-ix/nix-config/pull/64) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (3 weeks ago)
 - [Made postgres optional](https://github.com/nix-community/authentik-nix/pull/16) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (3 weeks ago)
-- [Applied naming scheme](https://github.com/dd-ix/nix-config/pull/63) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (4 weeks ago)
+- [Applied naming scheme](https://github.com/dd-ix/nix-config/pull/63) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 month ago)
 
 ### 📜 My recent blog posts
 
@@ -51,8 +51,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (5 days ago)
-- [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 200 Internet Exchange Points (IXPs) globally. (2 weeks ago)
+- [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) - Serving sflow traffic metrics as Prometheus endpoints. (1 day ago)
+- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (6 days ago)
+- [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 200 Internet Exchange Points (IXPs) globally. (3 weeks ago)
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and basic VM test for authentik. Trying to provide an alternative deployment mode to the officially supported docker-compose approach. Not affiliated with or officially supported by the authentik project [maintainer=@willibutz] (2 months ago)
 - [wobcom/fernglas](https://github.com/wobcom/fernglas) - BMP based looking glass (3 months ago)
-- [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is an open-source network tester for access and routing protocols.  (3 months ago)
