@@ -15,8 +15,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (4 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
+- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (5 days ago)
 - [dd-ix/presence](https://github.com/dd-ix/presence) - Website of @dd-ix (1 week ago)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 week ago)
 - [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 week ago)
@@ -39,9 +39,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [added lockfile](https://github.com/dd-ix/ddix-ansible-ixp/pull/2) on [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) (1 week ago)
+- [added lockfile](https://github.com/dd-ix/ddix-ansible-ixp/pull/2) on [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) (2 weeks ago)
 - [update sflow_exporter config](https://github.com/dd-ix/ddix-ansible-ixp/pull/1) on [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) (2 weeks ago)
-- [Added radius outpost](https://github.com/nix-community/authentik-nix/pull/17) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (3 weeks ago)
+- [Added radius outpost](https://github.com/nix-community/authentik-nix/pull/17) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (4 weeks ago)
 - [listmonk: 2.5.1 -&gt; 3.0.0](https://github.com/NixOS/nixpkgs/pull/286523) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [Added rpx](https://github.com/dd-ix/nix-config/pull/64) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 month ago)
 
