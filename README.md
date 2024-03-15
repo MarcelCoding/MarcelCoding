@@ -15,9 +15,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 day ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (3 days ago)
-- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (6 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (2 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (4 days ago)
+- [dresden-zone/nix-config](https://github.com/dresden-zone/nix-config) (1 week ago)
 - [dd-ix/presence](https://github.com/dd-ix/presence) - Website of @dd-ix (1 week ago)
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes. (1 week ago)
 
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
+- [added m4rc3l-as](https://github.com/jlu5/ansible-dn42/pull/27) on [jlu5/ansible-dn42](https://github.com/jlu5/ansible-dn42) (1 day ago)
 - [added lockfile](https://github.com/dd-ix/ddix-ansible-ixp/pull/2) on [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) (2 weeks ago)
 - [update sflow_exporter config](https://github.com/dd-ix/ddix-ansible-ixp/pull/1) on [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) (2 weeks ago)
-- [Added radius outpost](https://github.com/nix-community/authentik-nix/pull/17) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (4 weeks ago)
+- [Added radius outpost](https://github.com/nix-community/authentik-nix/pull/17) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (1 month ago)
 - [listmonk: 2.5.1 -&gt; 3.0.0](https://github.com/NixOS/nixpkgs/pull/286523) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
-- [Added rpx](https://github.com/dd-ix/nix-config/pull/64) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 month ago)
 
 ### 📜 My recent blog posts
 
