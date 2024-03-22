@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/presence](https://github.com/dd-ix/presence) - Website of @dd-ix (1 day ago)
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [dd-ix/website-content](https://github.com/dd-ix/website-content) (2 days ago)
-- [dresden-zone/rabauken](https://github.com/dresden-zone/rabauken) (4 days ago)
-- [jlu5/ansible-dn42](https://github.com/jlu5/ansible-dn42) - Ansible code to configure dn42 (6 days ago)
+- [dd-ix/presence](https://github.com/dd-ix/presence) - Website of @dd-ix (2 days ago)
+- [dd-ix/website-content](https://github.com/dd-ix/website-content) (3 days ago)
+- [dresden-zone/rabauken](https://github.com/dresden-zone/rabauken) (5 days ago)
+- [jlu5/ansible-dn42](https://github.com/jlu5/ansible-dn42) - Ansible code to configure dn42 (1 week ago)
 
 ### 🌱 My latest projects
 
