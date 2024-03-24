@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (1 day ago)
+- [dresden-zone/portal](https://github.com/dresden-zone/portal) (1 day ago)
 - [dd-ix/arouteserver.nix](https://github.com/dd-ix/arouteserver.nix) (1 day ago)
 - [dresden-zone/rabauken](https://github.com/dresden-zone/rabauken) (1 day ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
-- [dd-ix/presence](https://github.com/dd-ix/presence) - Website of @dd-ix (3 days ago)
+- [MarcelCoding/zia](https://github.com/MarcelCoding/zia) - Proxy udp over websocket, useful to use Wireguard in restricted networks. (2 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -41,7 +41,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 - [added m4rc3l-as](https://github.com/jlu5/ansible-dn42/pull/27) on [jlu5/ansible-dn42](https://github.com/jlu5/ansible-dn42) (1 week ago)
 - [added lockfile](https://github.com/dd-ix/ddix-ansible-ixp/pull/2) on [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) (3 weeks ago)
-- [update sflow_exporter config](https://github.com/dd-ix/ddix-ansible-ixp/pull/1) on [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) (3 weeks ago)
+- [update sflow_exporter config](https://github.com/dd-ix/ddix-ansible-ixp/pull/1) on [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) (4 weeks ago)
 - [Added radius outpost](https://github.com/nix-community/authentik-nix/pull/17) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (1 month ago)
 - [listmonk: 2.5.1 -&gt; 3.0.0](https://github.com/NixOS/nixpkgs/pull/286523) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 
@@ -51,8 +51,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### ⭐ Recent stars
 
-- [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (2 weeks ago)
+- [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (1 day ago)
+- [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (3 weeks ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) - Serving sflow traffic metrics as Prometheus endpoints. (1 month ago)
 - [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (1 month ago)
 - [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 200 Internet Exchange Points (IXPs) globally. (1 month ago)
-- [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and basic VM test for authentik. Trying to provide an alternative deployment mode to the officially supported docker-compose approach. Not affiliated with or officially supported by the authentik project [maintainer=@willibutz] (3 months ago)
