@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX Bird &amp; Switch Deployment (today)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (today)
-- [MarcelCoding/wsocket](https://github.com/MarcelCoding/wsocket) - Lighweight, fast and native WebSocket implementation for Rust. (1 day ago)
-- [dresden-zone/portal](https://github.com/dresden-zone/portal) (1 day ago)
-- [dresden-zone/rabauken](https://github.com/dresden-zone/rabauken) (1 day ago)
+- [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX Bird &amp; Switch Deployment (1 day ago)
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem. (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [MarcelCoding/luna](https://github.com/MarcelCoding/luna) (1 day ago)
+- [dresden-zone/portal](https://github.com/dresden-zone/portal) (2 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,15 +31,15 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
+- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v4.0.1](https://github.com/MarcelCoding/nova/releases/tag/v4.0.1), 1 day ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
 - [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.16](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.16), 4 weeks ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v4.0.0](https://github.com/MarcelCoding/nova/releases/tag/v4.0.0), 3 months ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) ([v2.0.13](https://github.com/MarcelCoding/jitsi-openid/releases/tag/v2.0.13), 3 months ago) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect.
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.20](https://github.com/offsetting/feel/releases/tag/v0.0.20), 3 months ago)
 - [os-builds/vyos](https://github.com/os-builds/vyos) ([1.3.3-4](https://github.com/os-builds/vyos/releases/tag/1.3.3-4), 5 months ago) - VyOS build in github actions with custom vyatta packages.
 
 ### 🔨 Latest Pull Requests I published
 
-- [add authentication to chef](https://github.com/dresden-zone/rabauken/pull/2) on [dresden-zone/rabauken](https://github.com/dresden-zone/rabauken) (6 days ago)
+- [add authentication to chef](https://github.com/dresden-zone/rabauken/pull/2) on [dresden-zone/rabauken](https://github.com/dresden-zone/rabauken) (1 week ago)
 - [added m4rc3l-as](https://github.com/jlu5/ansible-dn42/pull/27) on [jlu5/ansible-dn42](https://github.com/jlu5/ansible-dn42) (2 weeks ago)
 - [added lockfile](https://github.com/dd-ix/ddix-ansible-ixp/pull/2) on [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) (1 month ago)
 - [update sflow_exporter config](https://github.com/dd-ix/ddix-ansible-ixp/pull/1) on [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) (1 month ago)
@@ -52,7 +52,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### ⭐ Recent stars
 
 - [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (1 week ago)
-- [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (3 weeks ago)
+- [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (4 weeks ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) - Serving sflow traffic metrics as Prometheus endpoints. (1 month ago)
 - [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (1 month ago)
 - [inex/IXP-Manager](https://github.com/inex/IXP-Manager) - Full stack web application powering peering at over 200 Internet Exchange Points (IXPs) globally. (1 month ago)
