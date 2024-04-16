@@ -38,13 +38,6 @@ Besides backends, I also work on frontends in the past mostly with the framework
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
-
-### 📜 My recent blog posts
-{{range rss "https://m4rc3l.de/blog.rss" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
-### ⭐ Recent stars
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
 {{- end }}
