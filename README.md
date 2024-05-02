@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 day ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (1 week ago)
-- [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) - tracks your, bus and trams every move (1 week ago)
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) - A collection of modding tools based on the libraries created by Team Offsetting. (1 week ago)
+- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
+- [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (2 days ago)
+- [tlm-solutions/strasi](https://github.com/tlm-solutions/strasi) - tracks your, bus and trams every move (2 weeks ago)
+- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -39,14 +39,14 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [sops: add marcel](https://github.com/tlm-solutions/nix-config/pull/20) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 day ago)
-- [landingpage: fix svg logos are too big](https://github.com/inex/IXP-Manager/pull/892) on [inex/IXP-Manager](https://github.com/inex/IXP-Manager) (1 week ago)
+- [sops: add marcel](https://github.com/tlm-solutions/nix-config/pull/20) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (2 days ago)
+- [landingpage: fix svg logos are too big](https://github.com/inex/IXP-Manager/pull/892) on [inex/IXP-Manager](https://github.com/inex/IXP-Manager) (2 weeks ago)
 - [ordering authentik after network is configured](https://github.com/nix-community/authentik-nix/pull/21) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (1 month ago)
 - [add authentication to chef](https://github.com/dresden-zone/rabauken/pull/2) on [dresden-zone/rabauken](https://github.com/dresden-zone/rabauken) (1 month ago)
 - [added m4rc3l-as](https://github.com/jlu5/ansible-dn42/pull/27) on [jlu5/ansible-dn42](https://github.com/jlu5/ansible-dn42) (1 month ago)
 
-- [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (4 days ago)
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (5 days ago)
 - [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (1 month ago)
-- [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (1 month ago)
+- [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (2 months ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) - Serving sflow traffic metrics as Prometheus endpoints. (2 months ago)
 - [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (2 months ago)
