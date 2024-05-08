@@ -15,9 +15,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
-- [MarcelCoding/onlyoffice.nix](https://github.com/MarcelCoding/onlyoffice.nix) (3 days ago)
-- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (6 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (3 days ago)
+- [MarcelCoding/onlyoffice.nix](https://github.com/MarcelCoding/onlyoffice.nix) (4 days ago)
+- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 week ago)
 - [MarcelCoding/jitsi-openid](https://github.com/MarcelCoding/jitsi-openid) - Jitsi OpenID is an authentication adapter that allows Jitsi to authorize users with OpenID Connect. (1 week ago)
 - [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (2 weeks ago)
 
@@ -31,7 +31,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.0](https://github.com/offsetting/offsetting/releases/tag/v0.2.0), 2 weeks ago) - A collection of modding tools based on the libraries created by Team Offsetting.
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.0](https://github.com/offsetting/offsetting/releases/tag/v0.2.0), 3 weeks ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.24](https://github.com/offsetting/feel/releases/tag/v0.0.24), 1 month ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) ([v0.1.0](https://github.com/dd-ix/sflow_exporter/releases/tag/v0.1.0), 1 month ago) - Serving sflow traffic metrics as Prometheus endpoints.
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v4.0.1](https://github.com/MarcelCoding/nova/releases/tag/v4.0.1), 1 month ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
@@ -39,7 +39,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [improved c imports, support storing the project in a different folder then core](https://github.com/ONLYOFFICE/core/pull/1476) on [ONLYOFFICE/core](https://github.com/ONLYOFFICE/core) (4 days ago)
+- [improved c imports, support storing the project in a different folder then core](https://github.com/ONLYOFFICE/core/pull/1476) on [ONLYOFFICE/core](https://github.com/ONLYOFFICE/core) (5 days ago)
 - [sops: add marcel](https://github.com/tlm-solutions/nix-config/pull/20) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 week ago)
 - [landingpage: fix svg logos are too big](https://github.com/inex/IXP-Manager/pull/892) on [inex/IXP-Manager](https://github.com/inex/IXP-Manager) (2 weeks ago)
 - [ordering authentik after network is configured](https://github.com/nix-community/authentik-nix/pull/21) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (1 month ago)
