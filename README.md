@@ -15,10 +15,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (3 days ago)
-- [dresden-zone/nvim.nix](https://github.com/dresden-zone/nvim.nix) (5 days ago)
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (6 days ago)
-- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (6 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 day ago)
+- [dresden-zone/nvim.nix](https://github.com/dresden-zone/nvim.nix) (1 day ago)
+- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (1 week ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 week ago)
 
 ### 🌱 My latest projects
@@ -41,11 +41,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 - [improved c imports, support storing the project in a different folder then core](https://github.com/ONLYOFFICE/core/pull/1476) on [ONLYOFFICE/core](https://github.com/ONLYOFFICE/core) (2 weeks ago)
 - [sops: add marcel](https://github.com/tlm-solutions/nix-config/pull/20) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (2 weeks ago)
-- [landingpage: fix svg logos are too big](https://github.com/inex/IXP-Manager/pull/892) on [inex/IXP-Manager](https://github.com/inex/IXP-Manager) (4 weeks ago)
+- [landingpage: fix svg logos are too big](https://github.com/inex/IXP-Manager/pull/892) on [inex/IXP-Manager](https://github.com/inex/IXP-Manager) (1 month ago)
 - [ordering authentik after network is configured](https://github.com/nix-community/authentik-nix/pull/21) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (1 month ago)
 - [add authentication to chef](https://github.com/dresden-zone/rabauken/pull/2) on [dresden-zone/rabauken](https://github.com/dresden-zone/rabauken) (1 month ago)
 
-- [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (2 weeks ago)
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (3 weeks ago)
 - [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (1 month ago)
 - [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (2 months ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) - Serving sflow traffic metrics as Prometheus endpoints. (2 months ago)
