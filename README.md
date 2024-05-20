@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (2 days ago)
-- [dresden-zone/nvim.nix](https://github.com/dresden-zone/nvim.nix) (2 days ago)
-- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (1 week ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 week ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (today)
+- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (today)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (3 days ago)
+- [dresden-zone/nvim.nix](https://github.com/dresden-zone/nvim.nix) (3 days ago)
 
 ### 🌱 My latest projects
 
