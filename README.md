@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (today)
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (2 days ago)
-- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (2 days ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (3 days ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (5 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (1 day ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (3 days ago)
+- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (3 days ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (4 days ago)
 
 ### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
+- [mrtg: add ipv6-required perl packages](https://github.com/NixOS/nixpkgs/pull/313719) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 - [improved c imports, support storing the project in a different folder then core](https://github.com/ONLYOFFICE/core/pull/1476) on [ONLYOFFICE/core](https://github.com/ONLYOFFICE/core) (2 weeks ago)
 - [sops: add marcel](https://github.com/tlm-solutions/nix-config/pull/20) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (3 weeks ago)
 - [landingpage: fix svg logos are too big](https://github.com/inex/IXP-Manager/pull/892) on [inex/IXP-Manager](https://github.com/inex/IXP-Manager) (1 month ago)
 - [ordering authentik after network is configured](https://github.com/nix-community/authentik-nix/pull/21) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (1 month ago)
-- [add authentication to chef](https://github.com/dresden-zone/rabauken/pull/2) on [dresden-zone/rabauken](https://github.com/dresden-zone/rabauken) (1 month ago)
 
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (3 weeks ago)
 - [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (2 months ago)
