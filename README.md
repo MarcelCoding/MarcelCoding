@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
-- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (4 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (6 days ago)
-- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (6 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (5 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 week ago)
+- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -39,13 +39,13 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [nix: update to 24.05](https://github.com/dd-ix/nix-config/pull/72) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 days ago)
-- [authentik-radius-outpost: init 2024.2.2](https://github.com/NixOS/nixpkgs/pull/313912) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-- [mrtg: add ipv6-required perl packages](https://github.com/NixOS/nixpkgs/pull/313719) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
-- [improved c imports, support storing the project in a different folder then core](https://github.com/ONLYOFFICE/core/pull/1476) on [ONLYOFFICE/core](https://github.com/ONLYOFFICE/core) (3 weeks ago)
-- [sops: add marcel](https://github.com/tlm-solutions/nix-config/pull/20) on [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (3 weeks ago)
+- [Added wiki.nixos.org](https://github.com/StylishThemes/Wikipedia-Dark/pull/221) on [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) (1 day ago)
+- [caa: fix critical flag according to rfc8659](https://github.com/nix-community/dns.nix/pull/32) on [nix-community/dns.nix](https://github.com/nix-community/dns.nix) (1 day ago)
+- [nix: update to 24.05](https://github.com/dd-ix/nix-config/pull/72) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (3 days ago)
+- [authentik-radius-outpost: init 2024.2.2](https://github.com/NixOS/nixpkgs/pull/313912) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
+- [mrtg: add ipv6-required perl packages](https://github.com/NixOS/nixpkgs/pull/313719) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
 
-- [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (4 weeks ago)
+- [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (1 month ago)
 - [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (2 months ago)
 - [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (2 months ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) - Serving sflow traffic metrics as Prometheus endpoints. (3 months ago)
