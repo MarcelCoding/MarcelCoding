@@ -15,7 +15,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (4 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
 - [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (1 week ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 week ago)
 - [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 week ago)
@@ -35,13 +35,13 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.24](https://github.com/offsetting/feel/releases/tag/v0.0.24), 1 month ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) ([v0.1.0](https://github.com/dd-ix/sflow_exporter/releases/tag/v0.1.0), 1 month ago) - Serving sflow traffic metrics as Prometheus endpoints.
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v4.0.1](https://github.com/MarcelCoding/nova/releases/tag/v4.0.1), 2 months ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
-- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.16](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.16), 2 months ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
+- [MarcelCoding/bszet-mind](https://github.com/MarcelCoding/bszet-mind) ([v0.1.16](https://github.com/MarcelCoding/bszet-mind/releases/tag/v0.1.16), 3 months ago) - A tool to monitor STÜBER SYSTEMS&#39; DAVINCI&#39;s HTML exported substitution plan for changes.
 
 ### 🔨 Latest Pull Requests I published
 
-- [Added wiki.nixos.org](https://github.com/StylishThemes/Wikipedia-Dark/pull/221) on [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) (4 days ago)
-- [caa: fix critical flag according to rfc8659](https://github.com/nix-community/dns.nix/pull/32) on [nix-community/dns.nix](https://github.com/nix-community/dns.nix) (4 days ago)
-- [nix: update to 24.05](https://github.com/dd-ix/nix-config/pull/72) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (6 days ago)
+- [Added wiki.nixos.org](https://github.com/StylishThemes/Wikipedia-Dark/pull/221) on [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) (5 days ago)
+- [caa: fix critical flag according to rfc8659](https://github.com/nix-community/dns.nix/pull/32) on [nix-community/dns.nix](https://github.com/nix-community/dns.nix) (5 days ago)
+- [nix: update to 24.05](https://github.com/dd-ix/nix-config/pull/72) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
 - [authentik-radius-outpost: init 2024.2.2](https://github.com/NixOS/nixpkgs/pull/313912) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [mrtg: add ipv6-required perl packages](https://github.com/NixOS/nixpkgs/pull/313719) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 
