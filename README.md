@@ -15,7 +15,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (6 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 week ago)
 - [dd-ix/ixp-manager.nix](https://github.com/dd-ix/ixp-manager.nix) (2 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 weeks ago)
 - [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (2 weeks ago)
@@ -42,7 +42,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 - [Added wiki.nixos.org](https://github.com/StylishThemes/Wikipedia-Dark/pull/221) on [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) (1 week ago)
 - [caa: fix critical flag according to rfc8659](https://github.com/nix-community/dns.nix/pull/32) on [nix-community/dns.nix](https://github.com/nix-community/dns.nix) (1 week ago)
 - [nix: update to 24.05](https://github.com/dd-ix/nix-config/pull/72) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
-- [authentik-radius-outpost: init 2024.2.2](https://github.com/NixOS/nixpkgs/pull/313912) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
+- [authentik-radius-outpost: init 2024.2.2](https://github.com/NixOS/nixpkgs/pull/313912) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [mrtg: add ipv6-required perl packages](https://github.com/NixOS/nixpkgs/pull/313719) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (1 month ago)
