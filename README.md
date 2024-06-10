@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [dd-ix/arouteserver.nix](https://github.com/dd-ix/arouteserver.nix) (1 day ago)
-- [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX Bird &amp; Switch Deployment (1 day ago)
-- [dresden-zone/nvim.nix](https://github.com/dresden-zone/nvim.nix) (2 days ago)
-- [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) - Serving sflow traffic metrics as Prometheus endpoints. (2 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
+- [dd-ix/arouteserver.nix](https://github.com/dd-ix/arouteserver.nix) (2 days ago)
+- [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX Bird &amp; Switch Deployment (2 days ago)
+- [dresden-zone/nvim.nix](https://github.com/dresden-zone/nvim.nix) (3 days ago)
+- [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) - Serving sflow traffic metrics as Prometheus endpoints. (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -39,8 +39,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [fixed ring impl](https://github.com/dskyberg/http_digest_headers/pull/2) on [dskyberg/http_digest_headers](https://github.com/dskyberg/http_digest_headers) (3 days ago)
-- [fixed nixos-24.05 compatibility](https://github.com/nix-community/authentik-nix/pull/28) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (3 days ago)
+- [fixed ring impl](https://github.com/dskyberg/http_digest_headers/pull/2) on [dskyberg/http_digest_headers](https://github.com/dskyberg/http_digest_headers) (4 days ago)
+- [fixed nixos-24.05 compatibility](https://github.com/nix-community/authentik-nix/pull/28) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (4 days ago)
 - [Added wiki.nixos.org](https://github.com/StylishThemes/Wikipedia-Dark/pull/221) on [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) (2 weeks ago)
 - [caa: fix critical flag according to rfc8659](https://github.com/nix-community/dns.nix/pull/32) on [nix-community/dns.nix](https://github.com/nix-community/dns.nix) (2 weeks ago)
 - [nix: update to 24.05](https://github.com/dd-ix/nix-config/pull/72) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (2 weeks ago)
