@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (4 days ago)
-- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (4 days ago)
-- [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX Bird &amp; Switch Deployment (6 days ago)
-- [dd-ix/arouteserver.nix](https://github.com/dd-ix/arouteserver.nix) (6 days ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (6 days ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (5 days ago)
+- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (5 days ago)
+- [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX Bird &amp; Switch Deployment (1 week ago)
+- [dd-ix/arouteserver.nix](https://github.com/dd-ix/arouteserver.nix) (1 week ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 week ago)
 
 ### 🌱 My latest projects
 
