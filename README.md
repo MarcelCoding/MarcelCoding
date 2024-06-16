@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (5 days ago)
-- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (5 days ago)
-- [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX Bird &amp; Switch Deployment (1 week ago)
-- [dd-ix/arouteserver.nix](https://github.com/dd-ix/arouteserver.nix) (1 week ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 week ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 day ago)
+- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [dresden-zone/nvim.nix](https://github.com/dresden-zone/nvim.nix) (1 day ago)
+- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.0](https://github.com/offsetting/offsetting/releases/tag/v0.2.0), 1 month ago) - A collection of modding tools based on the libraries created by Team Offsetting.
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.0](https://github.com/offsetting/offsetting/releases/tag/v0.2.0), 2 months ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.24](https://github.com/offsetting/feel/releases/tag/v0.0.24), 2 months ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) ([v0.1.0](https://github.com/dd-ix/sflow_exporter/releases/tag/v0.1.0), 2 months ago) - Serving sflow traffic metrics as Prometheus endpoints.
 - [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v4.0.1](https://github.com/MarcelCoding/nova/releases/tag/v4.0.1), 2 months ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
@@ -41,12 +41,12 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 - [fixed ring impl](https://github.com/dskyberg/http_digest_headers/pull/2) on [dskyberg/http_digest_headers](https://github.com/dskyberg/http_digest_headers) (1 week ago)
 - [fixed nixos-24.05 compatibility](https://github.com/nix-community/authentik-nix/pull/28) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (1 week ago)
-- [Added wiki.nixos.org](https://github.com/StylishThemes/Wikipedia-Dark/pull/221) on [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) (2 weeks ago)
-- [caa: fix critical flag according to rfc8659](https://github.com/nix-community/dns.nix/pull/32) on [nix-community/dns.nix](https://github.com/nix-community/dns.nix) (2 weeks ago)
+- [Added wiki.nixos.org](https://github.com/StylishThemes/Wikipedia-Dark/pull/221) on [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) (3 weeks ago)
+- [caa: fix critical flag according to rfc8659](https://github.com/nix-community/dns.nix/pull/32) on [nix-community/dns.nix](https://github.com/nix-community/dns.nix) (3 weeks ago)
 - [nix: update to 24.05](https://github.com/dd-ix/nix-config/pull/72) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (3 weeks ago)
 
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (1 month ago)
 - [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (2 months ago)
 - [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (3 months ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) - Serving sflow traffic metrics as Prometheus endpoints. (3 months ago)
-- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (3 months ago)
+- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (4 months ago)
