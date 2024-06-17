@@ -16,10 +16,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 👷 Check out what I'm currently working on
 
 - [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 day ago)
-- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (1 day ago)
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [dresden-zone/nvim.nix](https://github.com/dresden-zone/nvim.nix) (1 day ago)
-- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (6 days ago)
+- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (2 days ago)
+- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (2 days ago)
+- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
+- [gh-action: init](https://github.com/NuschtOS/nvim.nix/pull/1) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
+- [svc-hv01: add initrd ssh](https://github.com/dd-ix/nix-config/pull/74) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 day ago)
 - [fixed ring impl](https://github.com/dskyberg/http_digest_headers/pull/2) on [dskyberg/http_digest_headers](https://github.com/dskyberg/http_digest_headers) (1 week ago)
 - [fixed nixos-24.05 compatibility](https://github.com/nix-community/authentik-nix/pull/28) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (1 week ago)
 - [Added wiki.nixos.org](https://github.com/StylishThemes/Wikipedia-Dark/pull/221) on [StylishThemes/Wikipedia-Dark](https://github.com/StylishThemes/Wikipedia-Dark) (3 weeks ago)
-- [caa: fix critical flag according to rfc8659](https://github.com/nix-community/dns.nix/pull/32) on [nix-community/dns.nix](https://github.com/nix-community/dns.nix) (3 weeks ago)
-- [nix: update to 24.05](https://github.com/dd-ix/nix-config/pull/72) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (3 weeks ago)
 
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (1 month ago)
 - [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (2 months ago)
