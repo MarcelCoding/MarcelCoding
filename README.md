@@ -15,10 +15,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (4 days ago)
-- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (5 days ago)
-- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (5 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (today)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (5 days ago)
+- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (6 days ago)
+- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (6 days ago)
 - [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 week ago)
 
 ### 🌱 My latest projects
@@ -39,14 +39,14 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [networking/tap: make tap interfaces optional](https://github.com/astro/microvm.nix/pull/251) on [astro/microvm.nix](https://github.com/astro/microvm.nix) (2 days ago)
-- [gh-action: init](https://github.com/NuschtOS/nvim.nix/pull/1) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (4 days ago)
-- [svc-hv01: add initrd ssh](https://github.com/dd-ix/nix-config/pull/74) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (4 days ago)
+- [networking/tap: make tap interfaces optional](https://github.com/astro/microvm.nix/pull/251) on [astro/microvm.nix](https://github.com/astro/microvm.nix) (3 days ago)
+- [gh-action: init](https://github.com/NuschtOS/nvim.nix/pull/1) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (5 days ago)
+- [svc-hv01: add initrd ssh](https://github.com/dd-ix/nix-config/pull/74) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (5 days ago)
 - [fixed ring impl](https://github.com/dskyberg/http_digest_headers/pull/2) on [dskyberg/http_digest_headers](https://github.com/dskyberg/http_digest_headers) (2 weeks ago)
 - [fixed nixos-24.05 compatibility](https://github.com/nix-community/authentik-nix/pull/28) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (2 weeks ago)
 
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (1 month ago)
-- [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (2 months ago)
+- [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (3 months ago)
 - [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (3 months ago)
-- [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) - Serving sflow traffic metrics as Prometheus endpoints. (3 months ago)
+- [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) - Serving sflow traffic metrics as Prometheus endpoints. (4 months ago)
 - [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (4 months ago)
