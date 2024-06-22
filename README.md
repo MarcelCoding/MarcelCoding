@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (today)
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (5 days ago)
-- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (6 days ago)
-- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (6 days ago)
-- [tlm-solutions/nix-config](https://github.com/tlm-solutions/nix-config) (1 week ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (today)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (1 week ago)
+- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 week ago)
+- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -39,9 +39,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [networking/tap: make tap interfaces optional](https://github.com/astro/microvm.nix/pull/251) on [astro/microvm.nix](https://github.com/astro/microvm.nix) (3 days ago)
-- [gh-action: init](https://github.com/NuschtOS/nvim.nix/pull/1) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (5 days ago)
-- [svc-hv01: add initrd ssh](https://github.com/dd-ix/nix-config/pull/74) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (5 days ago)
+- [networking/tap: make tap interfaces optional](https://github.com/astro/microvm.nix/pull/251) on [astro/microvm.nix](https://github.com/astro/microvm.nix) (4 days ago)
+- [gh-action: init](https://github.com/NuschtOS/nvim.nix/pull/1) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (6 days ago)
+- [svc-hv01: add initrd ssh](https://github.com/dd-ix/nix-config/pull/74) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (6 days ago)
 - [fixed ring impl](https://github.com/dskyberg/http_digest_headers/pull/2) on [dskyberg/http_digest_headers](https://github.com/dskyberg/http_digest_headers) (2 weeks ago)
 - [fixed nixos-24.05 compatibility](https://github.com/nix-community/authentik-nix/pull/28) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (2 weeks ago)
 
