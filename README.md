@@ -15,8 +15,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (today)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
 - [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (1 week ago)
 - [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 week ago)
 - [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 week ago)
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [networking/tap: make tap interfaces optional](https://github.com/astro/microvm.nix/pull/251) on [astro/microvm.nix](https://github.com/astro/microvm.nix) (4 days ago)
-- [gh-action: init](https://github.com/NuschtOS/nvim.nix/pull/1) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (6 days ago)
-- [svc-hv01: add initrd ssh](https://github.com/dd-ix/nix-config/pull/74) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (6 days ago)
-- [fixed ring impl](https://github.com/dskyberg/http_digest_headers/pull/2) on [dskyberg/http_digest_headers](https://github.com/dskyberg/http_digest_headers) (2 weeks ago)
-- [fixed nixos-24.05 compatibility](https://github.com/nix-community/authentik-nix/pull/28) on [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) (2 weeks ago)
+- [ci: added github actions](https://github.com/NuschtOS/dn42.nix/pull/1) on [NuschtOS/dn42.nix](https://github.com/NuschtOS/dn42.nix) (1 day ago)
+- [image: add](https://github.com/NuschtOS/nvim.nix/pull/3) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
+- [networking/tap: make tap interfaces optional](https://github.com/astro/microvm.nix/pull/251) on [astro/microvm.nix](https://github.com/astro/microvm.nix) (5 days ago)
+- [gh-action: init](https://github.com/NuschtOS/nvim.nix/pull/1) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 week ago)
+- [svc-hv01: add initrd ssh](https://github.com/dd-ix/nix-config/pull/74) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
 
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (1 month ago)
 - [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (3 months ago)
