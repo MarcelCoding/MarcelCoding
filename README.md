@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 day ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
-- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (1 week ago)
+- [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [NuschtOS/dn42.nix](https://github.com/NuschtOS/dn42.nix) (1 day ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (2 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (3 days ago)
 - [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 week ago)
-- [tlm-solutions/kindergarten](https://github.com/tlm-solutions/kindergarten) - Frontend for datacare which helps maintain data  (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -39,14 +39,14 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [ci: added github actions](https://github.com/NuschtOS/dn42.nix/pull/1) on [NuschtOS/dn42.nix](https://github.com/NuschtOS/dn42.nix) (1 day ago)
-- [image: add](https://github.com/NuschtOS/nvim.nix/pull/3) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
-- [networking/tap: make tap interfaces optional](https://github.com/astro/microvm.nix/pull/251) on [astro/microvm.nix](https://github.com/astro/microvm.nix) (5 days ago)
-- [gh-action: init](https://github.com/NuschtOS/nvim.nix/pull/1) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 week ago)
-- [svc-hv01: add initrd ssh](https://github.com/dd-ix/nix-config/pull/74) on [dd-ix/nix-config](https://github.com/dd-ix/nix-config) (1 week ago)
+- [options.json: fix symlink again](https://github.com/NuschtOS/search/pull/3) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [options.json: fix symlinking](https://github.com/NuschtOS/search/pull/2) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [misc: fixed mkSearch not being exported](https://github.com/NuschtOS/search/pull/1) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [ci: added github actions](https://github.com/NuschtOS/dn42.nix/pull/1) on [NuschtOS/dn42.nix](https://github.com/NuschtOS/dn42.nix) (2 days ago)
+- [image: add](https://github.com/NuschtOS/nvim.nix/pull/3) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (2 days ago)
 
+- [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (1 month ago)
 - [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (3 months ago)
 - [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (3 months ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) - Serving sflow traffic metrics as Prometheus endpoints. (4 months ago)
-- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (4 months ago)
