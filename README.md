@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [NuschtOS/dn42.nix](https://github.com/NuschtOS/dn42.nix) (3 days ago)
-- [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago)
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (4 days ago)
-- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 week ago)
+- [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
+- [NuschtOS/dn42.nix](https://github.com/NuschtOS/dn42.nix) (4 days ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (5 days ago)
+- [dd-ix/website-content-api](https://github.com/dd-ix/website-content-api) - Website backend of @dd-ix (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -39,13 +39,13 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [hound: cherry-pick conf check flag](https://github.com/NixOS/nixpkgs/pull/322508) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [cli: add check config flag](https://github.com/hound-search/hound/pull/485) on [hound-search/hound](https://github.com/hound-search/hound) (2 days ago)
-- [options.json: fix symlink again](https://github.com/NuschtOS/search/pull/3) on [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago)
-- [options.json: fix symlinking](https://github.com/NuschtOS/search/pull/2) on [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago)
-- [misc: fixed mkSearch not being exported](https://github.com/NuschtOS/search/pull/1) on [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago)
+- [router: convert path to query param](https://github.com/NuschtOS/search/pull/7) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [guess_language: add flake.lock as json](https://github.com/Wilfred/difftastic/pull/732) on [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (1 day ago)
+- [hound: cherry-pick conf check flag](https://github.com/NixOS/nixpkgs/pull/322508) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [cli: add check config flag](https://github.com/hound-search/hound/pull/485) on [hound-search/hound](https://github.com/hound-search/hound) (3 days ago)
+- [options.json: fix symlink again](https://github.com/NuschtOS/search/pull/3) on [NuschtOS/search](https://github.com/NuschtOS/search) (4 days ago)
 
-- [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago)
+- [NuschtOS/search](https://github.com/NuschtOS/search) (4 days ago)
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (2 months ago)
 - [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (3 months ago)
 - [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (3 months ago)
