@@ -16,10 +16,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 👷 Check out what I'm currently working on
 
 - [NuschtOS/nuschtpkgs](https://github.com/NuschtOS/nuschtpkgs) (1 day ago)
-- [NuschtOS/search](https://github.com/NuschtOS/search) (2 days ago)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 days ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (3 days ago)
-- [NuschtOS/dn42.nix](https://github.com/NuschtOS/dn42.nix) (5 days ago)
+- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
+- [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 days ago)
 
 ### 🌱 My latest projects
 
@@ -39,13 +39,13 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [router: convert path to query param](https://github.com/NuschtOS/search/pull/7) on [NuschtOS/search](https://github.com/NuschtOS/search) (2 days ago)
-- [guess_language: add flake.lock as json](https://github.com/Wilfred/difftastic/pull/732) on [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (2 days ago)
-- [hound: convert to use freeform type](https://github.com/NixOS/nixpkgs/pull/322508) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-- [cli: add check config flag](https://github.com/hound-search/hound/pull/485) on [hound-search/hound](https://github.com/hound-search/hound) (4 days ago)
-- [options.json: fix symlink again](https://github.com/NuschtOS/search/pull/3) on [NuschtOS/search](https://github.com/NuschtOS/search) (5 days ago)
+- [gh-actions: fix typo](https://github.com/NuschtOS/nvim.nix/pull/10) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
+- [init: readme](https://github.com/NuschtOS/nvim.nix/pull/7) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
+- [rust-analyzer: fixed pkg](https://github.com/NuschtOS/nvim.nix/pull/6) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
+- [router: convert path to query param](https://github.com/NuschtOS/search/pull/7) on [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago)
+- [guess_language: add flake.lock as json](https://github.com/Wilfred/difftastic/pull/732) on [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (3 days ago)
 
-- [NuschtOS/search](https://github.com/NuschtOS/search) (5 days ago)
+- [NuschtOS/search](https://github.com/NuschtOS/search) (6 days ago)
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (2 months ago)
 - [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (3 months ago)
 - [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (3 months ago)
