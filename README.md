@@ -17,9 +17,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 - [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
 - [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (2 days ago)
-- [NuschtOS/nuschtpkgs](https://github.com/NuschtOS/nuschtpkgs) (3 days ago)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (5 days ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (3 days ago)
+- [NuschtOS/nuschtpkgs](https://github.com/NuschtOS/nuschtpkgs) (4 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [search: improve performance](https://github.com/NuschtOS/search/pull/18) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
-- [Allow using options.json directly](https://github.com/NuschtOS/search/pull/16) on [NuschtOS/search](https://github.com/NuschtOS/search) (2 days ago)
-- [demo: init](https://github.com/NuschtOS/search/pull/15) on [NuschtOS/search](https://github.com/NuschtOS/search) (2 days ago)
-- [gh-action: refactord stable build](https://github.com/NuschtOS/nvim.nix/pull/14) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (2 days ago)
-- [gh-actions: fix typo](https://github.com/NuschtOS/nvim.nix/pull/10) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (3 days ago)
+- [cf-pages: init](https://github.com/NuschtOS/search/pull/22) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [base-ref: fix api call](https://github.com/NuschtOS/search/pull/21) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [base-href: add option](https://github.com/NuschtOS/search/pull/20) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [clippboard: disable sync](https://github.com/NuschtOS/nvim.nix/pull/20) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
+- [mkSearch: fix legacy args handling](https://github.com/NuschtOS/search/pull/19) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
 
 - [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago)
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (2 months ago)
