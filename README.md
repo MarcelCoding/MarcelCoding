@@ -16,10 +16,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 👷 Check out what I'm currently working on
 
 - [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
-- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (3 days ago)
-- [NuschtOS/nuschtpkgs](https://github.com/NuschtOS/nuschtpkgs) (4 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (6 days ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (2 days ago)
+- [NuschtOS/nuschtpkgs](https://github.com/NuschtOS/nuschtpkgs) (5 days ago)
 
 ### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [cf-pages: init](https://github.com/NuschtOS/search/pull/22) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
-- [base-ref: fix api call](https://github.com/NuschtOS/search/pull/21) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
-- [base-href: add option](https://github.com/NuschtOS/search/pull/20) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
-- [clippboard: disable sync](https://github.com/NuschtOS/nvim.nix/pull/20) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
-- [mkSearch: fix legacy args handling](https://github.com/NuschtOS/search/pull/19) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [lemminx: enable](https://github.com/NuschtOS/nvim.nix/pull/25) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
+- [event-card: remove special border](https://github.com/dd-ix/website/pull/80) on [dd-ix/website](https://github.com/dd-ix/website) (1 day ago)
+- [option-view: right aligh property names](https://github.com/NuschtOS/search/pull/28) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [lemminx: enable](https://github.com/NuschtOS/nvim.nix/pull/24) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
+- [event-card: add `event` label](https://github.com/dd-ix/website/pull/79) on [dd-ix/website](https://github.com/dd-ix/website) (1 day ago)
 
 - [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago)
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (2 months ago)
