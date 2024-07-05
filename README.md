@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 day ago)
-- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 day ago)
-- [NuschtOS/search](https://github.com/NuschtOS/search) (2 days ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
-- [NuschtOS/nuschtpkgs](https://github.com/NuschtOS/nuschtpkgs) (6 days ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (2 days ago)
+- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (2 days ago)
+- [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (3 days ago)
+- [NuschtOS/nuschtpkgs](https://github.com/NuschtOS/nuschtpkgs) (1 week ago)
 
 ### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [home: rename blog section](https://github.com/dd-ix/website/pull/83) on [dd-ix/website](https://github.com/dd-ix/website) (1 day ago)
-- [ci: add preview deployments](https://github.com/dd-ix/website/pull/82) on [dd-ix/website](https://github.com/dd-ix/website) (1 day ago)
-- [Switch to nvim-autopairs](https://github.com/NuschtOS/nvim.nix/pull/25) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (2 days ago)
-- [event-card: remove special border](https://github.com/dd-ix/website/pull/80) on [dd-ix/website](https://github.com/dd-ix/website) (2 days ago)
-- [option-view: right aligh property names](https://github.com/NuschtOS/search/pull/28) on [NuschtOS/search](https://github.com/NuschtOS/search) (2 days ago)
+- [home: rename blog section](https://github.com/dd-ix/website/pull/83) on [dd-ix/website](https://github.com/dd-ix/website) (2 days ago)
+- [ci: add preview deployments](https://github.com/dd-ix/website/pull/82) on [dd-ix/website](https://github.com/dd-ix/website) (2 days ago)
+- [Switch to nvim-autopairs](https://github.com/NuschtOS/nvim.nix/pull/25) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (3 days ago)
+- [event-card: remove special border](https://github.com/dd-ix/website/pull/80) on [dd-ix/website](https://github.com/dd-ix/website) (3 days ago)
+- [option-view: right aligh property names](https://github.com/NuschtOS/search/pull/28) on [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago)
 
 - [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago)
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (2 months ago)
