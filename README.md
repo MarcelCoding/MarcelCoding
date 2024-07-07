@@ -15,10 +15,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (3 days ago)
-- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (3 days ago)
-- [NuschtOS/search](https://github.com/NuschtOS/search) (4 days ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (4 days ago)
+- [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (4 days ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (4 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (5 days ago)
 - [NuschtOS/nuschtpkgs](https://github.com/NuschtOS/nuschtpkgs) (1 week ago)
 
 ### 🌱 My latest projects
@@ -39,13 +39,13 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [home: rename blog section](https://github.com/dd-ix/website/pull/83) on [dd-ix/website](https://github.com/dd-ix/website) (3 days ago)
-- [ci: add preview deployments](https://github.com/dd-ix/website/pull/82) on [dd-ix/website](https://github.com/dd-ix/website) (3 days ago)
-- [Switch to nvim-autopairs](https://github.com/NuschtOS/nvim.nix/pull/25) on [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (4 days ago)
-- [event-card: remove special border](https://github.com/dd-ix/website/pull/80) on [dd-ix/website](https://github.com/dd-ix/website) (4 days ago)
-- [option-view: right aligh property names](https://github.com/NuschtOS/search/pull/28) on [NuschtOS/search](https://github.com/NuschtOS/search) (4 days ago)
+- [aside: add scrolling](https://github.com/NuschtOS/search/pull/40) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [footer: init](https://github.com/NuschtOS/search/pull/39) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [highlight current option](https://github.com/NuschtOS/search/pull/38) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [home: rename blog section](https://github.com/dd-ix/website/pull/83) on [dd-ix/website](https://github.com/dd-ix/website) (4 days ago)
+- [ci: add preview deployments](https://github.com/dd-ix/website/pull/82) on [dd-ix/website](https://github.com/dd-ix/website) (4 days ago)
 
-- [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago)
+- [NuschtOS/search](https://github.com/NuschtOS/search) (2 weeks ago)
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (2 months ago)
 - [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (3 months ago)
 - [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (4 months ago)
