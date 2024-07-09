@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, shared NixOS configurations (1 day ago)
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 day ago)
-- [NuschtOS/search](https://github.com/NuschtOS/search) (2 days ago)
-- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (5 days ago)
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (6 days ago)
+- [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (2 days ago)
+- [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, shared NixOS configurations (2 days ago)
+- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (6 days ago)
 
 ### 🌱 My latest projects
 
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [flake.lock: Update](https://github.com/NuschtOS/nixos-modules/pull/48) on [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) (1 day ago)
-- [aside: add scrolling](https://github.com/NuschtOS/search/pull/40) on [NuschtOS/search](https://github.com/NuschtOS/search) (2 days ago)
-- [footer: init](https://github.com/NuschtOS/search/pull/39) on [NuschtOS/search](https://github.com/NuschtOS/search) (2 days ago)
-- [highlight current option](https://github.com/NuschtOS/search/pull/38) on [NuschtOS/search](https://github.com/NuschtOS/search) (2 days ago)
-- [home: rename blog section](https://github.com/dd-ix/website/pull/83) on [dd-ix/website](https://github.com/dd-ix/website) (5 days ago)
+- [options: sanitize html](https://github.com/NuschtOS/search/pull/50) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 day ago)
+- [flake.lock: Update](https://github.com/NuschtOS/nixos-modules/pull/48) on [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) (2 days ago)
+- [aside: add scrolling](https://github.com/NuschtOS/search/pull/40) on [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago)
+- [footer: init](https://github.com/NuschtOS/search/pull/39) on [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago)
+- [highlight current option](https://github.com/NuschtOS/search/pull/38) on [NuschtOS/search](https://github.com/NuschtOS/search) (3 days ago)
 
 - [NuschtOS/search](https://github.com/NuschtOS/search) (2 weeks ago)
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (2 months ago)
