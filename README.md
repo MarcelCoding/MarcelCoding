@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (3 days ago)
-- [NuschtOS/search](https://github.com/NuschtOS/search) (6 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (4 days ago)
+- [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago)
 - [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 week ago)
 - [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, shared NixOS configurations (1 week ago)
-- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (1 week ago)
+- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (2 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -39,7 +39,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [options: sort alphabetically](https://github.com/NuschtOS/search/pull/51) on [NuschtOS/search](https://github.com/NuschtOS/search) (6 days ago)
+- [options: sort alphabetically](https://github.com/NuschtOS/search/pull/51) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago)
 - [options: sanitize html](https://github.com/NuschtOS/search/pull/50) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago)
 - [flake.lock: Update](https://github.com/NuschtOS/nixos-modules/pull/48) on [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) (1 week ago)
 - [aside: add scrolling](https://github.com/NuschtOS/search/pull/40) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago)
