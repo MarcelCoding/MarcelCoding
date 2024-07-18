@@ -15,7 +15,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (4 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (5 days ago)
 - [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago)
 - [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 week ago)
 - [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, shared NixOS configurations (1 week ago)
@@ -31,11 +31,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
+- [nextcloud/docker](https://github.com/nextcloud/docker) ([v2024.7.1](https://github.com/nextcloud/docker/releases/tag/v2024.7.1), 1 day ago) - ⛴ Docker image of Nextcloud
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.58.0](https://github.com/Wilfred/difftastic/releases/tag/0.58.0), 2 months ago) - a structural diff that understands syntax 🟥🟩
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.0](https://github.com/offsetting/offsetting/releases/tag/v0.2.0), 3 months ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.24](https://github.com/offsetting/feel/releases/tag/v0.0.24), 3 months ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) ([v0.1.0](https://github.com/dd-ix/sflow_exporter/releases/tag/v0.1.0), 3 months ago) - Serving sflow traffic metrics as Prometheus endpoints.
-- [MarcelCoding/nova](https://github.com/MarcelCoding/nova) ([v4.0.1](https://github.com/MarcelCoding/nova/releases/tag/v4.0.1), 3 months ago) - Nova is a framework on top of spring boot. It aims to provide nice additions to the spring ecosystem.
 
 ### 🔨 Latest Pull Requests I published
 
