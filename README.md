@@ -31,8 +31,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.59.0](https://github.com/Wilfred/difftastic/releases/tag/0.59.0), 1 day ago) - a structural diff that understands syntax 🟥🟩
-- [nextcloud/docker](https://github.com/nextcloud/docker) ([v2024.7.1](https://github.com/nextcloud/docker/releases/tag/v2024.7.1), 4 days ago) - ⛴ Docker image of Nextcloud
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.59.0](https://github.com/Wilfred/difftastic/releases/tag/0.59.0), 2 days ago) - a structural diff that understands syntax 🟥🟩
+- [nextcloud/docker](https://github.com/nextcloud/docker) ([v2024.7.1](https://github.com/nextcloud/docker/releases/tag/v2024.7.1), 5 days ago) - ⛴ Docker image of Nextcloud
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.0](https://github.com/offsetting/offsetting/releases/tag/v0.2.0), 3 months ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.24](https://github.com/offsetting/feel/releases/tag/v0.0.24), 3 months ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) ([v0.1.0](https://github.com/dd-ix/sflow_exporter/releases/tag/v0.1.0), 3 months ago) - Serving sflow traffic metrics as Prometheus endpoints.
@@ -40,7 +40,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 🔨 Latest Pull Requests I published
 
 - [options: sort alphabetically](https://github.com/NuschtOS/search/pull/51) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago)
-- [options: sanitize html](https://github.com/NuschtOS/search/pull/50) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago)
+- [options: sanitize html](https://github.com/NuschtOS/search/pull/50) on [NuschtOS/search](https://github.com/NuschtOS/search) (2 weeks ago)
 - [flake.lock: Update](https://github.com/NuschtOS/nixos-modules/pull/48) on [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) (2 weeks ago)
 - [aside: add scrolling](https://github.com/NuschtOS/search/pull/40) on [NuschtOS/search](https://github.com/NuschtOS/search) (2 weeks ago)
 - [footer: init](https://github.com/NuschtOS/search/pull/39) on [NuschtOS/search](https://github.com/NuschtOS/search) (2 weeks ago)
