@@ -15,11 +15,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 week ago)
-- [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
+- [NuschtOS/search](https://github.com/NuschtOS/search) (2 weeks ago)
 - [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (2 weeks ago)
 - [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, shared NixOS configurations (2 weeks ago)
-- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (2 weeks ago)
+- [NuschtOS/nvim.nix](https://github.com/NuschtOS/nvim.nix) (3 weeks ago)
 
 ### 🌱 My latest projects
 
@@ -31,15 +31,15 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [nextcloud/docker](https://github.com/nextcloud/docker) ([v2024.7.2](https://github.com/nextcloud/docker/releases/tag/v2024.7.2), 1 day ago) - ⛴ Docker image of Nextcloud
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.59.0](https://github.com/Wilfred/difftastic/releases/tag/0.59.0), 3 days ago) - a structural diff that understands syntax 🟥🟩
+- [nextcloud/docker](https://github.com/nextcloud/docker) ([v2024.7.2](https://github.com/nextcloud/docker/releases/tag/v2024.7.2), 2 days ago) - ⛴ Docker image of Nextcloud
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.59.0](https://github.com/Wilfred/difftastic/releases/tag/0.59.0), 4 days ago) - a structural diff that understands syntax 🟥🟩
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.0](https://github.com/offsetting/offsetting/releases/tag/v0.2.0), 3 months ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.24](https://github.com/offsetting/feel/releases/tag/v0.0.24), 3 months ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) ([v0.1.0](https://github.com/dd-ix/sflow_exporter/releases/tag/v0.1.0), 3 months ago) - Serving sflow traffic metrics as Prometheus endpoints.
 
 ### 🔨 Latest Pull Requests I published
 
-- [options: sort alphabetically](https://github.com/NuschtOS/search/pull/51) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 week ago)
+- [options: sort alphabetically](https://github.com/NuschtOS/search/pull/51) on [NuschtOS/search](https://github.com/NuschtOS/search) (2 weeks ago)
 - [options: sanitize html](https://github.com/NuschtOS/search/pull/50) on [NuschtOS/search](https://github.com/NuschtOS/search) (2 weeks ago)
 - [flake.lock: Update](https://github.com/NuschtOS/nixos-modules/pull/48) on [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) (2 weeks ago)
 - [aside: add scrolling](https://github.com/NuschtOS/search/pull/40) on [NuschtOS/search](https://github.com/NuschtOS/search) (2 weeks ago)
