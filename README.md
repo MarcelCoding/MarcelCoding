@@ -31,8 +31,8 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [nextcloud/docker](https://github.com/nextcloud/docker) ([v2024.7.2](https://github.com/nextcloud/docker/releases/tag/v2024.7.2), 2 days ago) - ⛴ Docker image of Nextcloud
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.59.0](https://github.com/Wilfred/difftastic/releases/tag/0.59.0), 4 days ago) - a structural diff that understands syntax 🟥🟩
+- [nextcloud/docker](https://github.com/nextcloud/docker) ([v2024.7.2](https://github.com/nextcloud/docker/releases/tag/v2024.7.2), 3 days ago) - ⛴ Docker image of Nextcloud
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.59.0](https://github.com/Wilfred/difftastic/releases/tag/0.59.0), 5 days ago) - a structural diff that understands syntax 🟥🟩
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.0](https://github.com/offsetting/offsetting/releases/tag/v0.2.0), 3 months ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.24](https://github.com/offsetting/feel/releases/tag/v0.0.24), 3 months ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) ([v0.1.0](https://github.com/dd-ix/sflow_exporter/releases/tag/v0.1.0), 3 months ago) - Serving sflow traffic metrics as Prometheus endpoints.
