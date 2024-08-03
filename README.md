@@ -16,9 +16,9 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 👷 Check out what I'm currently working on
 
 - [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 day ago)
-- [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX Bird &amp; Switch Deployment (4 days ago)
-- [dd-ix/arouteserver.nix](https://github.com/dd-ix/arouteserver.nix) (4 days ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (2 days ago)
+- [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX Bird &amp; Switch Deployment (5 days ago)
+- [dd-ix/arouteserver.nix](https://github.com/dd-ix/arouteserver.nix) (5 days ago)
 - [dd-ix/website-content](https://github.com/dd-ix/website-content) - Data for the Website Content API  (1 week ago)
 
 ### 🌱 My latest projects
@@ -31,19 +31,19 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.60.0](https://github.com/Wilfred/difftastic/releases/tag/0.60.0), 1 day ago) - a structural diff that understands syntax 🟥🟩
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.60.0](https://github.com/Wilfred/difftastic/releases/tag/0.60.0), 2 days ago) - a structural diff that understands syntax 🟥🟩
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.1](https://github.com/offsetting/offsetting/releases/tag/v0.2.1), 1 week ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 - [nextcloud/docker](https://github.com/nextcloud/docker) ([v2024.7.2](https://github.com/nextcloud/docker/releases/tag/v2024.7.2), 1 week ago) - ⛴ Docker image of Nextcloud
-- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.24](https://github.com/offsetting/feel/releases/tag/v0.0.24), 3 months ago)
-- [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) ([v0.1.0](https://github.com/dd-ix/sflow_exporter/releases/tag/v0.1.0), 3 months ago) - Serving sflow traffic metrics as Prometheus endpoints.
+- [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.24](https://github.com/offsetting/feel/releases/tag/v0.0.24), 4 months ago)
+- [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) ([v0.1.0](https://github.com/dd-ix/sflow_exporter/releases/tag/v0.1.0), 4 months ago) - Serving sflow traffic metrics as Prometheus endpoints.
 
 ### 🔨 Latest Pull Requests I published
 
+- [add mjml as xml](https://github.com/Wilfred/difftastic/pull/748) on [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (today)
 - [documents: remove spaces in filenames](https://github.com/dd-ix/website-content/pull/15) on [dd-ix/website-content](https://github.com/dd-ix/website-content) (1 week ago)
 - [options: sort alphabetically](https://github.com/NuschtOS/search/pull/51) on [NuschtOS/search](https://github.com/NuschtOS/search) (3 weeks ago)
 - [options: sanitize html](https://github.com/NuschtOS/search/pull/50) on [NuschtOS/search](https://github.com/NuschtOS/search) (3 weeks ago)
 - [flake.lock: Update](https://github.com/NuschtOS/nixos-modules/pull/48) on [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) (3 weeks ago)
-- [aside: add scrolling](https://github.com/NuschtOS/search/pull/40) on [NuschtOS/search](https://github.com/NuschtOS/search) (3 weeks ago)
 
 - [NuschtOS/search](https://github.com/NuschtOS/search) (1 month ago)
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (3 months ago)
