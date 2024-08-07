@@ -15,10 +15,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, shared NixOS configurations (2 days ago)
-- [dd-ix/post](https://github.com/dd-ix/post) (2 days ago)
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (5 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
+- [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, shared NixOS configurations (3 days ago)
+- [dd-ix/post](https://github.com/dd-ix/post) (3 days ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (6 days ago)
 - [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX Bird &amp; Switch Deployment (1 week ago)
 
 ### 🌱 My latest projects
@@ -31,7 +31,7 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔭 Latest releases I've contributed to
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.60.0](https://github.com/Wilfred/difftastic/releases/tag/0.60.0), 5 days ago) - a structural diff that understands syntax 🟥🟩
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.60.0](https://github.com/Wilfred/difftastic/releases/tag/0.60.0), 6 days ago) - a structural diff that understands syntax 🟥🟩
 - [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.1](https://github.com/offsetting/offsetting/releases/tag/v0.2.1), 1 week ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 - [nextcloud/docker](https://github.com/nextcloud/docker) ([v2024.7.2](https://github.com/nextcloud/docker/releases/tag/v2024.7.2), 2 weeks ago) - ⛴ Docker image of Nextcloud
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.24](https://github.com/offsetting/feel/releases/tag/v0.0.24), 4 months ago)
@@ -39,11 +39,11 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 🔨 Latest Pull Requests I published
 
-- [mailmanPackages.postorius: add optional markdown dependencies](https://github.com/NixOS/nixpkgs/pull/332536) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [mailman: init](https://github.com/NuschtOS/nixos-modules/pull/65) on [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) (2 days ago)
-- [add mjml as xml](https://github.com/Wilfred/difftastic/pull/748) on [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (3 days ago)
+- [mailmanPackages.postorius: add optional markdown dependencies](https://github.com/NixOS/nixpkgs/pull/332536) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [mailman: init](https://github.com/NuschtOS/nixos-modules/pull/65) on [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) (3 days ago)
+- [add mjml as xml](https://github.com/Wilfred/difftastic/pull/748) on [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (4 days ago)
 - [documents: remove spaces in filenames](https://github.com/dd-ix/website-content/pull/15) on [dd-ix/website-content](https://github.com/dd-ix/website-content) (1 week ago)
-- [options: sort alphabetically](https://github.com/NuschtOS/search/pull/51) on [NuschtOS/search](https://github.com/NuschtOS/search) (3 weeks ago)
+- [options: sort alphabetically](https://github.com/NuschtOS/search/pull/51) on [NuschtOS/search](https://github.com/NuschtOS/search) (4 weeks ago)
 
 - [NuschtOS/search](https://github.com/NuschtOS/search) (1 month ago)
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (3 months ago)
