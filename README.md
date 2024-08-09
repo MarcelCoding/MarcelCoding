@@ -15,10 +15,10 @@ Besides backends, I also work on frontends in the past mostly with the framework
 
 ### 👷 Check out what I'm currently working on
 
-- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (1 day ago)
-- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (1 day ago)
-- [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, shared NixOS configurations (4 days ago)
-- [dd-ix/post](https://github.com/dd-ix/post) (4 days ago)
+- [dd-ix/nix-config](https://github.com/dd-ix/nix-config) - NixOs deployments of DD-IX (2 days ago)
+- [dd-ix/website](https://github.com/dd-ix/website) - Website of @dd-ix (2 days ago)
+- [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) - Opinionated, integrated and shared NixOS modules (5 days ago)
+- [dd-ix/post](https://github.com/dd-ix/post) (5 days ago)
 - [dd-ix/ddix-ansible-ixp](https://github.com/dd-ix/ddix-ansible-ixp) - DD-IX Bird &amp; Switch Deployment (1 week ago)
 
 ### 🌱 My latest projects
@@ -32,20 +32,20 @@ Besides backends, I also work on frontends in the past mostly with the framework
 ### 🔭 Latest releases I've contributed to
 
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) ([0.60.0](https://github.com/Wilfred/difftastic/releases/tag/0.60.0), 1 week ago) - a structural diff that understands syntax 🟥🟩
-- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.1](https://github.com/offsetting/offsetting/releases/tag/v0.2.1), 1 week ago) - A collection of modding tools based on the libraries created by Team Offsetting.
+- [offsetting/offsetting](https://github.com/offsetting/offsetting) ([v0.2.1](https://github.com/offsetting/offsetting/releases/tag/v0.2.1), 2 weeks ago) - A collection of modding tools based on the libraries created by Team Offsetting.
 - [nextcloud/docker](https://github.com/nextcloud/docker) ([v2024.7.2](https://github.com/nextcloud/docker/releases/tag/v2024.7.2), 2 weeks ago) - ⛴ Docker image of Nextcloud
 - [offsetting/feel](https://github.com/offsetting/feel) ([v0.0.24](https://github.com/offsetting/feel/releases/tag/v0.0.24), 4 months ago)
 - [dd-ix/sflow_exporter](https://github.com/dd-ix/sflow_exporter) ([v0.1.0](https://github.com/dd-ix/sflow_exporter/releases/tag/v0.1.0), 4 months ago) - Serving sflow traffic metrics as Prometheus endpoints.
 
 ### 🔨 Latest Pull Requests I published
 
-- [mailmanPackages.postorius: add optional markdown dependencies](https://github.com/NixOS/nixpkgs/pull/332536) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
-- [mailman: init](https://github.com/NuschtOS/nixos-modules/pull/65) on [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) (4 days ago)
-- [add mjml as xml](https://github.com/Wilfred/difftastic/pull/748) on [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (5 days ago)
-- [documents: remove spaces in filenames](https://github.com/dd-ix/website-content/pull/15) on [dd-ix/website-content](https://github.com/dd-ix/website-content) (1 week ago)
-- [options: sort alphabetically](https://github.com/NuschtOS/search/pull/51) on [NuschtOS/search](https://github.com/NuschtOS/search) (4 weeks ago)
+- [mailmanPackages.postorius: add optional markdown dependencies](https://github.com/NixOS/nixpkgs/pull/332536) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
+- [mailman: init](https://github.com/NuschtOS/nixos-modules/pull/65) on [NuschtOS/nixos-modules](https://github.com/NuschtOS/nixos-modules) (5 days ago)
+- [add mjml as xml](https://github.com/Wilfred/difftastic/pull/748) on [Wilfred/difftastic](https://github.com/Wilfred/difftastic) (6 days ago)
+- [documents: remove spaces in filenames](https://github.com/dd-ix/website-content/pull/15) on [dd-ix/website-content](https://github.com/dd-ix/website-content) (2 weeks ago)
+- [options: sort alphabetically](https://github.com/NuschtOS/search/pull/51) on [NuschtOS/search](https://github.com/NuschtOS/search) (1 month ago)
 
-- [NuschtOS/search](https://github.com/NuschtOS/search) (1 month ago)
+- [NuschtOS/search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search (1 month ago)
 - [sebadob/rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity &amp; Access Management (3 months ago)
 - [DavidBuchanan314/Turbo-Recadmiumator](https://github.com/DavidBuchanan314/Turbo-Recadmiumator) - A remake of truedread/netflix-1080p which auto-patches cadmium-playercore at runtime to enable enhanced playback features. (NOTE: still working in 2024 😎) (4 months ago)
 - [d-k-bo/webdav-rs](https://github.com/d-k-bo/webdav-rs) - Reusable Rust types for implementing WebDAV clients and servers (5 months ago)
